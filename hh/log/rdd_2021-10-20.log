@@ -1,0 +1,661 @@
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=3d26bdacba1544b688122a9dd1c29b08&sign=0a0a65e6cde39f64fe90c71870e0d279
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=vbPonAGjiKoKhGtCjyxGCgrhgHCLkKBWxydBpyHqgGhREIbCjzyTqiAXNcBtcIkX&sessionKey=917b0f8dfc104579a74f0cd640b95d98&timestamp=1634694239&sign=64D3587A340DC163B02223C6228A7110
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=vbPonAGjiKoKhGtCjyxGCgrhgHCLkKBWxydBpyHqgGhREIbCjzyTqiAXNcBtcIkX&sessionKey=917b0f8dfc104579a74f0cd640b95d98&timestamp=1634694239&sign=64D3587A340DC163B02223C6228A7110
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=vbPonAGjiKoKhGtCjyxGCgrhgHCLkKBWxydBpyHqgGhREIbCjzyTqiAXNcBtcIkX&sessionKey=917b0f8dfc104579a74f0cd640b95d98&timestamp=1634694239&sign=64D3587A340DC163B02223C6228A7110
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=vbPonAGjiKoKhGtCjyxGCgrhgHCLkKBWxydBpyHqgGhREIbCjzyTqiAXNcBtcIkX&sessionKey=917b0f8dfc104579a74f0cd640b95d98&timestamp=1634694239&sign=655672052C4635876ED7BDDB2797E74C
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=vbPonAGjiKoKhGtCjyxGCgrhgHCLkKBWxydBpyHqgGhREIbCjzyTqiAXNcBtcIkX&sessionKey=917b0f8dfc104579a74f0cd640b95d98&timestamp=1634694239&sign=655672052C4635876ED7BDDB2797E74C
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=vbPonAGjiKoKhGtCjyxGCgrhgHCLkKBWxydBpyHqgGhREIbCjzyTqiAXNcBtcIkX&sessionKey=917b0f8dfc104579a74f0cd640b95d98&timestamp=1634694239&sign=655672052C4635876ED7BDDB2797E74C
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=vbPonAGjiKoKhGtCjyxGCgrhgHCLkKBWxydBpyHqgGhREIbCjzyTqiAXNcBtcIkX&sessionKey=917b0f8dfc104579a74f0cd640b95d98&timestamp=1634694239&sign=655672052C4635876ED7BDDB2797E74C
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=vbPonAGjiKoKhGtCjyxGCgrhgHCLkKBWxydBpyHqgGhREIbCjzyTqiAXNcBtcIkX&sessionKey=917b0f8dfc104579a74f0cd640b95d98&timestamp=1634694239&sign=655672052C4635876ED7BDDB2797E74C
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=a61e31a14c734fadabe47cdc0a38b5da&sign=7eb342380db30279a3ee1eb41b229deb
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ZmtvjPGrbzpxkNshOYLmnBvWPzLTBBnMIOaXWANHsqPKVDiVmyDCbpvnoNqMHCaJ&sessionKey=57dc122ff0cf476d9c534e1ebebcfb60&timestamp=1634694301&sign=0A4B4CE0F1B82F4D5EE814102592F71C
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ZmtvjPGrbzpxkNshOYLmnBvWPzLTBBnMIOaXWANHsqPKVDiVmyDCbpvnoNqMHCaJ&sessionKey=57dc122ff0cf476d9c534e1ebebcfb60&timestamp=1634694301&sign=0A4B4CE0F1B82F4D5EE814102592F71C
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ZmtvjPGrbzpxkNshOYLmnBvWPzLTBBnMIOaXWANHsqPKVDiVmyDCbpvnoNqMHCaJ&sessionKey=57dc122ff0cf476d9c534e1ebebcfb60&timestamp=1634694301&sign=0A4B4CE0F1B82F4D5EE814102592F71C
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ZmtvjPGrbzpxkNshOYLmnBvWPzLTBBnMIOaXWANHsqPKVDiVmyDCbpvnoNqMHCaJ&sessionKey=57dc122ff0cf476d9c534e1ebebcfb60&timestamp=1634694301&sign=5E788C0F78C9DB71814A05D9AB5A4576
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ZmtvjPGrbzpxkNshOYLmnBvWPzLTBBnMIOaXWANHsqPKVDiVmyDCbpvnoNqMHCaJ&sessionKey=57dc122ff0cf476d9c534e1ebebcfb60&timestamp=1634694301&sign=5E788C0F78C9DB71814A05D9AB5A4576
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ZmtvjPGrbzpxkNshOYLmnBvWPzLTBBnMIOaXWANHsqPKVDiVmyDCbpvnoNqMHCaJ&sessionKey=57dc122ff0cf476d9c534e1ebebcfb60&timestamp=1634694301&sign=5E788C0F78C9DB71814A05D9AB5A4576
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ZmtvjPGrbzpxkNshOYLmnBvWPzLTBBnMIOaXWANHsqPKVDiVmyDCbpvnoNqMHCaJ&sessionKey=57dc122ff0cf476d9c534e1ebebcfb60&timestamp=1634694301&sign=5E788C0F78C9DB71814A05D9AB5A4576
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ZmtvjPGrbzpxkNshOYLmnBvWPzLTBBnMIOaXWANHsqPKVDiVmyDCbpvnoNqMHCaJ&sessionKey=57dc122ff0cf476d9c534e1ebebcfb60&timestamp=1634694301&sign=5E788C0F78C9DB71814A05D9AB5A4576
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=49ea87bd27ff4d5f8fddecd4a7cbdd06&sign=b8446734cbf955ecd01836f7d8d55ba8
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UrkXotwHQMzlAGVdflfWepCAGRrZAYnTKAQAuBJVQhAGfuNcKHiqnldvfKpRokVv&sessionKey=a4561c8a93594824900d2243b0a0e473&timestamp=1634694954&sign=7AACD147A36401246700459DD4B0F49A
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UrkXotwHQMzlAGVdflfWepCAGRrZAYnTKAQAuBJVQhAGfuNcKHiqnldvfKpRokVv&sessionKey=a4561c8a93594824900d2243b0a0e473&timestamp=1634694954&sign=7AACD147A36401246700459DD4B0F49A
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UrkXotwHQMzlAGVdflfWepCAGRrZAYnTKAQAuBJVQhAGfuNcKHiqnldvfKpRokVv&sessionKey=a4561c8a93594824900d2243b0a0e473&timestamp=1634694954&sign=7AACD147A36401246700459DD4B0F49A
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=UrkXotwHQMzlAGVdflfWepCAGRrZAYnTKAQAuBJVQhAGfuNcKHiqnldvfKpRokVv&sessionKey=a4561c8a93594824900d2243b0a0e473&timestamp=1634694954&sign=8833E55F5E9D063DBD7490DFBC418BA5
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UrkXotwHQMzlAGVdflfWepCAGRrZAYnTKAQAuBJVQhAGfuNcKHiqnldvfKpRokVv&sessionKey=a4561c8a93594824900d2243b0a0e473&timestamp=1634694954&sign=0E30F8EDC86579DD5D2D37B8A9A93CA2
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UrkXotwHQMzlAGVdflfWepCAGRrZAYnTKAQAuBJVQhAGfuNcKHiqnldvfKpRokVv&sessionKey=a4561c8a93594824900d2243b0a0e473&timestamp=1634694954&sign=0E30F8EDC86579DD5D2D37B8A9A93CA2
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UrkXotwHQMzlAGVdflfWepCAGRrZAYnTKAQAuBJVQhAGfuNcKHiqnldvfKpRokVv&sessionKey=a4561c8a93594824900d2243b0a0e473&timestamp=1634694954&sign=0E30F8EDC86579DD5D2D37B8A9A93CA2
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UrkXotwHQMzlAGVdflfWepCAGRrZAYnTKAQAuBJVQhAGfuNcKHiqnldvfKpRokVv&sessionKey=a4561c8a93594824900d2243b0a0e473&timestamp=1634694954&sign=0E30F8EDC86579DD5D2D37B8A9A93CA2
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=6b7a9fda1244409c9bc6658a365e4e88&sign=e1c8be2abb7d4cc81ca157a113760d0c
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ExmfPYBulosIMvbBzyBJPYMZcttDRwtiAbehITiNeagZeBCnhAynfSFJpSIsXZJt&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=CC59A3A30EE6E4FB902F6CD1D689BB4F
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ExmfPYBulosIMvbBzyBJPYMZcttDRwtiAbehITiNeagZeBCnhAynfSFJpSIsXZJt&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=CC59A3A30EE6E4FB902F6CD1D689BB4F
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ExmfPYBulosIMvbBzyBJPYMZcttDRwtiAbehITiNeagZeBCnhAynfSFJpSIsXZJt&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=CC59A3A30EE6E4FB902F6CD1D689BB4F
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=ExmfPYBulosIMvbBzyBJPYMZcttDRwtiAbehITiNeagZeBCnhAynfSFJpSIsXZJt&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=BFF683E2C2756866BDBB123F2A72A4F8
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ExmfPYBulosIMvbBzyBJPYMZcttDRwtiAbehITiNeagZeBCnhAynfSFJpSIsXZJt&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=6078589970349FC0E983C6407E9EC718
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ExmfPYBulosIMvbBzyBJPYMZcttDRwtiAbehITiNeagZeBCnhAynfSFJpSIsXZJt&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=6078589970349FC0E983C6407E9EC718
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ExmfPYBulosIMvbBzyBJPYMZcttDRwtiAbehITiNeagZeBCnhAynfSFJpSIsXZJt&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=6078589970349FC0E983C6407E9EC718
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ExmfPYBulosIMvbBzyBJPYMZcttDRwtiAbehITiNeagZeBCnhAynfSFJpSIsXZJt&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=6078589970349FC0E983C6407E9EC718
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+”√¿˝±‡∫≈ 10 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+ªÒ»°sessionSecret ß∞‹
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=&sign=8c8452a7df34f27ff0075a5e1d2f1a9b
+”√¿˝±‡∫≈ 11 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+”√¿˝±‡∫≈ 12 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+…Ë÷√sessionSecret ß∞‹
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=9F8C3BA8BCE212A7E5162A50A5937E2E
+”√¿˝±‡∫≈ 512 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=9F8C3BA8BCE212A7E5162A50A5937E2E
+”√¿˝±‡∫≈ 513 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=9F8C3BA8BCE212A7E5162A50A5937E2E
+”√¿˝±‡∫≈ 514 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=A6BCCDE498E597052EECB27D03C3CD2C
+”√¿˝±‡∫≈ 515 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=36E16C0D3A9E3B3AA899EA7A07161D4F
+”√¿˝±‡∫≈ 516 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=36E16C0D3A9E3B3AA899EA7A07161D4F
+”√¿˝±‡∫≈ 517 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=36E16C0D3A9E3B3AA899EA7A07161D4F
+”√¿˝±‡∫≈ 518 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=2d35e2dd8c6644f2ac605ed66be4ada0&timestamp=1634695112&sign=36E16C0D3A9E3B3AA899EA7A07161D4F
+”√¿˝±‡∫≈ 519 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=904b9f6dbf944c34b972051e70450bc5&sign=ee3c5774045a9f9047ca83932a3b59db
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ROiwFGmwlCIVrdcaGNhDSfomvYWfKAjrpJxlcdRBrGPmpvYSPkuIRDRNxgtfuMax&sessionKey=4616d4ab43394ddbb3b5fcc698a6deee&timestamp=1634695347&sign=B39D8B7A1324514C3CC58D0650FCAC4A
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ROiwFGmwlCIVrdcaGNhDSfomvYWfKAjrpJxlcdRBrGPmpvYSPkuIRDRNxgtfuMax&sessionKey=4616d4ab43394ddbb3b5fcc698a6deee&timestamp=1634695347&sign=B39D8B7A1324514C3CC58D0650FCAC4A
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ROiwFGmwlCIVrdcaGNhDSfomvYWfKAjrpJxlcdRBrGPmpvYSPkuIRDRNxgtfuMax&sessionKey=4616d4ab43394ddbb3b5fcc698a6deee&timestamp=1634695347&sign=B39D8B7A1324514C3CC58D0650FCAC4A
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=ROiwFGmwlCIVrdcaGNhDSfomvYWfKAjrpJxlcdRBrGPmpvYSPkuIRDRNxgtfuMax&sessionKey=4616d4ab43394ddbb3b5fcc698a6deee&timestamp=1634695347&sign=2C7E2E97063A2F860F933CFF7ACA4BA1
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ROiwFGmwlCIVrdcaGNhDSfomvYWfKAjrpJxlcdRBrGPmpvYSPkuIRDRNxgtfuMax&sessionKey=4616d4ab43394ddbb3b5fcc698a6deee&timestamp=1634695347&sign=DDB0B75F324851C7FAF8E8967040B663
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ROiwFGmwlCIVrdcaGNhDSfomvYWfKAjrpJxlcdRBrGPmpvYSPkuIRDRNxgtfuMax&sessionKey=4616d4ab43394ddbb3b5fcc698a6deee&timestamp=1634695347&sign=DDB0B75F324851C7FAF8E8967040B663
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ROiwFGmwlCIVrdcaGNhDSfomvYWfKAjrpJxlcdRBrGPmpvYSPkuIRDRNxgtfuMax&sessionKey=4616d4ab43394ddbb3b5fcc698a6deee&timestamp=1634695347&sign=DDB0B75F324851C7FAF8E8967040B663
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ROiwFGmwlCIVrdcaGNhDSfomvYWfKAjrpJxlcdRBrGPmpvYSPkuIRDRNxgtfuMax&sessionKey=4616d4ab43394ddbb3b5fcc698a6deee&timestamp=1634695347&sign=DDB0B75F324851C7FAF8E8967040B663
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=cd8873610edb4aa6b8883ce05b6687bd&sign=1fa02f644138684dc40492044e6eae40
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=OIsHPiLuDVrSlvSwczDsobLsngaVJpYzbiNkEGCemTrADvnUZRiGrLRKOvDPmmos&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=858A1DA559A594AE414CDF17145C5BFB
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=OIsHPiLuDVrSlvSwczDsobLsngaVJpYzbiNkEGCemTrADvnUZRiGrLRKOvDPmmos&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=858A1DA559A594AE414CDF17145C5BFB
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=OIsHPiLuDVrSlvSwczDsobLsngaVJpYzbiNkEGCemTrADvnUZRiGrLRKOvDPmmos&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=858A1DA559A594AE414CDF17145C5BFB
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=OIsHPiLuDVrSlvSwczDsobLsngaVJpYzbiNkEGCemTrADvnUZRiGrLRKOvDPmmos&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=E2434736317365771894F441EA5C4C1A
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=OIsHPiLuDVrSlvSwczDsobLsngaVJpYzbiNkEGCemTrADvnUZRiGrLRKOvDPmmos&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=D73F57132969657F1153383A63A887E1
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=OIsHPiLuDVrSlvSwczDsobLsngaVJpYzbiNkEGCemTrADvnUZRiGrLRKOvDPmmos&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=D73F57132969657F1153383A63A887E1
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=OIsHPiLuDVrSlvSwczDsobLsngaVJpYzbiNkEGCemTrADvnUZRiGrLRKOvDPmmos&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=D73F57132969657F1153383A63A887E1
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=OIsHPiLuDVrSlvSwczDsobLsngaVJpYzbiNkEGCemTrADvnUZRiGrLRKOvDPmmos&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=D73F57132969657F1153383A63A887E1
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+”√¿˝±‡∫≈ 10 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+ªÒ»°sessionSecret ß∞‹
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=&sign=61ab8b9484c2457385a9fecbf3d0ff63
+”√¿˝±‡∫≈ 11 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+”√¿˝±‡∫≈ 12 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+…Ë÷√sessionSecret ß∞‹
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=EE0D243322C50DC2275FD445F00F92C7
+”√¿˝±‡∫≈ 512 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=EE0D243322C50DC2275FD445F00F92C7
+”√¿˝±‡∫≈ 513 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=EE0D243322C50DC2275FD445F00F92C7
+”√¿˝±‡∫≈ 514 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=829F6A8F6B023F28CB461365384F7830
+”√¿˝±‡∫≈ 515 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=000C31EED3C8E13F2D013DD9655D04A7
+”√¿˝±‡∫≈ 516 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=000C31EED3C8E13F2D013DD9655D04A7
+”√¿˝±‡∫≈ 517 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=000C31EED3C8E13F2D013DD9655D04A7
+”√¿˝±‡∫≈ 518 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=3adfe56accb44bf086484e582ed262de&timestamp=1634695361&sign=000C31EED3C8E13F2D013DD9655D04A7
+”√¿˝±‡∫≈ 519 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=e8bdb057a93a44f9a0d1b52886edfd76&sign=2496cc2f20ab31ad1721182aff825953
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ftvFodGocnkBFSmIFvKnROoczumslQugfivBVBAQihJCiHLVLNuBZqAXonPCqcLV&sessionKey=8024475fab684d4f9385cfb596c98e1e&timestamp=1634695616&sign=0E3548D54A077F8E37B3537FA5628A2B
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ftvFodGocnkBFSmIFvKnROoczumslQugfivBVBAQihJCiHLVLNuBZqAXonPCqcLV&sessionKey=8024475fab684d4f9385cfb596c98e1e&timestamp=1634695616&sign=0E3548D54A077F8E37B3537FA5628A2B
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ftvFodGocnkBFSmIFvKnROoczumslQugfivBVBAQihJCiHLVLNuBZqAXonPCqcLV&sessionKey=8024475fab684d4f9385cfb596c98e1e&timestamp=1634695616&sign=0E3548D54A077F8E37B3537FA5628A2B
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=ftvFodGocnkBFSmIFvKnROoczumslQugfivBVBAQihJCiHLVLNuBZqAXonPCqcLV&sessionKey=8024475fab684d4f9385cfb596c98e1e&timestamp=1634695616&sign=2726EEC1D8E6BEA98CFF87BACFB05E73
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ftvFodGocnkBFSmIFvKnROoczumslQugfivBVBAQihJCiHLVLNuBZqAXonPCqcLV&sessionKey=8024475fab684d4f9385cfb596c98e1e&timestamp=1634695616&sign=0179AF809332E6BE1BD281FEAE65043E
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ftvFodGocnkBFSmIFvKnROoczumslQugfivBVBAQihJCiHLVLNuBZqAXonPCqcLV&sessionKey=8024475fab684d4f9385cfb596c98e1e&timestamp=1634695616&sign=0179AF809332E6BE1BD281FEAE65043E
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ftvFodGocnkBFSmIFvKnROoczumslQugfivBVBAQihJCiHLVLNuBZqAXonPCqcLV&sessionKey=8024475fab684d4f9385cfb596c98e1e&timestamp=1634695616&sign=0179AF809332E6BE1BD281FEAE65043E
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=ftvFodGocnkBFSmIFvKnROoczumslQugfivBVBAQihJCiHLVLNuBZqAXonPCqcLV&sessionKey=8024475fab684d4f9385cfb596c98e1e&timestamp=1634695616&sign=0179AF809332E6BE1BD281FEAE65043E
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519, 520]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=e173f7bf6404479e8d4fdb35ca360ce1&sign=d80ecdcf6a5d7d6499399aee3ee9a468
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=heWRDibhAxlvKhEtjQDfykXeroPVWNPoGKutwhyMBkDdqFzzSTIkwFJJZefzDisA&sessionKey=1131316a5bd94890a8ebd7609dab4fbe&timestamp=1634710118&sign=C669530FD8B2DAE7DEB9A3CBA7237D65
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=heWRDibhAxlvKhEtjQDfykXeroPVWNPoGKutwhyMBkDdqFzzSTIkwFJJZefzDisA&sessionKey=1131316a5bd94890a8ebd7609dab4fbe&timestamp=1634710118&sign=C669530FD8B2DAE7DEB9A3CBA7237D65
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=heWRDibhAxlvKhEtjQDfykXeroPVWNPoGKutwhyMBkDdqFzzSTIkwFJJZefzDisA&sessionKey=1131316a5bd94890a8ebd7609dab4fbe&timestamp=1634710118&sign=C669530FD8B2DAE7DEB9A3CBA7237D65
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=heWRDibhAxlvKhEtjQDfykXeroPVWNPoGKutwhyMBkDdqFzzSTIkwFJJZefzDisA&sessionKey=1131316a5bd94890a8ebd7609dab4fbe&timestamp=1634710118&sign=548836FA44E5317321D471C531D48A81
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=heWRDibhAxlvKhEtjQDfykXeroPVWNPoGKutwhyMBkDdqFzzSTIkwFJJZefzDisA&sessionKey=1131316a5bd94890a8ebd7609dab4fbe&timestamp=1634710118&sign=101D1A25C2A6F09C6C7DF71BD5928955
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=heWRDibhAxlvKhEtjQDfykXeroPVWNPoGKutwhyMBkDdqFzzSTIkwFJJZefzDisA&sessionKey=1131316a5bd94890a8ebd7609dab4fbe&timestamp=1634710118&sign=101D1A25C2A6F09C6C7DF71BD5928955
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=heWRDibhAxlvKhEtjQDfykXeroPVWNPoGKutwhyMBkDdqFzzSTIkwFJJZefzDisA&sessionKey=1131316a5bd94890a8ebd7609dab4fbe&timestamp=1634710118&sign=101D1A25C2A6F09C6C7DF71BD5928955
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=heWRDibhAxlvKhEtjQDfykXeroPVWNPoGKutwhyMBkDdqFzzSTIkwFJJZefzDisA&sessionKey=1131316a5bd94890a8ebd7609dab4fbe&timestamp=1634710118&sign=101D1A25C2A6F09C6C7DF71BD5928955
+–Ú∫≈£∫ 12 ”√¿˝±‡∫≈£∫ 520
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=heWRDibhAxlvKhEtjQDfykXeroPVWNPoGKutwhyMBkDdqFzzSTIkwFJJZefzDisA&sessionKey=1131316a5bd94890a8ebd7609dab4fbe&timestamp=1634710118&sign=101D1A25C2A6F09C6C7DF71BD5928955
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=315e75dabb734698926b2a5d0592af01&sign=597af23a2a6a9a206e6102089dbcf7d6
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=476F8F958059932F707857590330983F
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=476F8F958059932F707857590330983F
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=476F8F958059932F707857590330983F
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=7C18BC77ED46155EB67FB5C9741175BC
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=1A202331A64BC1F650DC9619895CCE0E
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=1A202331A64BC1F650DC9619895CCE0E
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=1A202331A64BC1F650DC9619895CCE0E
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=1A202331A64BC1F650DC9619895CCE0E
+–Ú∫≈£∫ 12 ”√¿˝±‡∫≈£∫ 520
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=1A202331A64BC1F650DC9619895CCE0E
+–Ú∫≈£∫ 13 ”√¿˝±‡∫≈£∫ 521
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=1A202331A64BC1F650DC9619895CCE0E
+–Ú∫≈£∫ 14 ”√¿˝±‡∫≈£∫ 522
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=1A202331A64BC1F650DC9619895CCE0E
+–Ú∫≈£∫ 15 ”√¿˝±‡∫≈£∫ 523
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=1A202331A64BC1F650DC9619895CCE0E
+–Ú∫≈£∫ 16 ”√¿˝±‡∫≈£∫ 524
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=zsqotrmoEZdQhJbSszpfWoaYYnOZcNJKbJLosRsybLvhONfAyisGcArnWybTsgDL&sessionKey=5c6546f2c98f41c3af342b98a10b693c&timestamp=1634715318&sign=1A202331A64BC1F650DC9619895CCE0E
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=583d41acdf414ca3a0db26d33e941eeb&sign=faaa80f5849b1b9b609e3d935a3a9d9a
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=2F9CDB8AC4860A5A0954EABCE9238E14
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=2F9CDB8AC4860A5A0954EABCE9238E14
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=2F9CDB8AC4860A5A0954EABCE9238E14
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=F1FA5AED5F013E2DF801C2DA9157D307
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=C38FACA568E3D28674596F92288A1B62
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=C38FACA568E3D28674596F92288A1B62
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=C38FACA568E3D28674596F92288A1B62
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=C38FACA568E3D28674596F92288A1B62
+–Ú∫≈£∫ 12 ”√¿˝±‡∫≈£∫ 520
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=C38FACA568E3D28674596F92288A1B62
+–Ú∫≈£∫ 13 ”√¿˝±‡∫≈£∫ 521
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=C38FACA568E3D28674596F92288A1B62
+–Ú∫≈£∫ 14 ”√¿˝±‡∫≈£∫ 522
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=C38FACA568E3D28674596F92288A1B62
+–Ú∫≈£∫ 15 ”√¿˝±‡∫≈£∫ 523
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=C38FACA568E3D28674596F92288A1B62
+–Ú∫≈£∫ 16 ”√¿˝±‡∫≈£∫ 524
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FcYxhQlnQcPTyLHEOBScCIMCjOHBFGDAsRWXGCSGxPepWindOzIaJpWNLZpESKic&sessionKey=c2874f3cf8684b028e1d9490ba2c7386&timestamp=1634715500&sign=C38FACA568E3D28674596F92288A1B62
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=364262d3e29242f48e9559c2b32500c3&sign=51a8967a8f81e6f90939c2792ecda6c3
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=658FFD3F9592C630C5F67A10F8B3F3E7
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=658FFD3F9592C630C5F67A10F8B3F3E7
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=658FFD3F9592C630C5F67A10F8B3F3E7
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=5390015296B7E90943F1FCA1337D027E
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=266A0A0F29B4C88B1D9F61D41C04C83D
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=266A0A0F29B4C88B1D9F61D41C04C83D
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=266A0A0F29B4C88B1D9F61D41C04C83D
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=266A0A0F29B4C88B1D9F61D41C04C83D
+–Ú∫≈£∫ 12 ”√¿˝±‡∫≈£∫ 520
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=266A0A0F29B4C88B1D9F61D41C04C83D
+–Ú∫≈£∫ 13 ”√¿˝±‡∫≈£∫ 521
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=266A0A0F29B4C88B1D9F61D41C04C83D
+–Ú∫≈£∫ 14 ”√¿˝±‡∫≈£∫ 522
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=266A0A0F29B4C88B1D9F61D41C04C83D
+–Ú∫≈£∫ 15 ”√¿˝±‡∫≈£∫ 523
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=266A0A0F29B4C88B1D9F61D41C04C83D
+–Ú∫≈£∫ 16 ”√¿˝±‡∫≈£∫ 524
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EqEnjTSrbPESrusFhoZDISUdFAaDhxlNNlgrTByfezGQuafRrJZzUFdovDRVTkGZ&sessionKey=76d5af769e744c72ac271ed996e89ca7&timestamp=1634715754&sign=266A0A0F29B4C88B1D9F61D41C04C83D
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=b40634a6a45b48c492d46a8000956521&sign=b5756b0ba9373f70045a8327ef59c1c5
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=17A27E004570FF4C97B332A6FAD1C69E
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=17A27E004570FF4C97B332A6FAD1C69E
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=17A27E004570FF4C97B332A6FAD1C69E
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=6E6E65AC1ABD80EE3F8F0AA393B180B5
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=489A465974E73752093F5993C1F89AF2
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=489A465974E73752093F5993C1F89AF2
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=489A465974E73752093F5993C1F89AF2
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=489A465974E73752093F5993C1F89AF2
+–Ú∫≈£∫ 12 ”√¿˝±‡∫≈£∫ 520
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=489A465974E73752093F5993C1F89AF2
+–Ú∫≈£∫ 13 ”√¿˝±‡∫≈£∫ 521
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=489A465974E73752093F5993C1F89AF2
+–Ú∫≈£∫ 14 ”√¿˝±‡∫≈£∫ 522
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=489A465974E73752093F5993C1F89AF2
+–Ú∫≈£∫ 15 ”√¿˝±‡∫≈£∫ 523
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=489A465974E73752093F5993C1F89AF2
+–Ú∫≈£∫ 16 ”√¿˝±‡∫≈£∫ 524
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=hBBkxxNndIsQLXltjQyoOdpyzRafRrObcxWQAqwQDSKOOejFTCxtgYGfRcFtXoKI&sessionKey=7bd1668a15444193be3dbf07d361b0d4&timestamp=1634715809&sign=489A465974E73752093F5993C1F89AF2
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=c1abeb72891f403dab49e038672d1890&sign=4fca9d6579e33b0ed48c959fd45296f1
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=B41B44314E2BED2DE6D2D17B9F1DAD35
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=B41B44314E2BED2DE6D2D17B9F1DAD35
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=B41B44314E2BED2DE6D2D17B9F1DAD35
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=380FB0235D59043FF9491233523ED02B
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=F08FEAE370C0E8DA7595F50F4D831CC2
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=F08FEAE370C0E8DA7595F50F4D831CC2
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=F08FEAE370C0E8DA7595F50F4D831CC2
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=F08FEAE370C0E8DA7595F50F4D831CC2
+–Ú∫≈£∫ 12 ”√¿˝±‡∫≈£∫ 520
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=F08FEAE370C0E8DA7595F50F4D831CC2
+–Ú∫≈£∫ 13 ”√¿˝±‡∫≈£∫ 521
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=F08FEAE370C0E8DA7595F50F4D831CC2
+–Ú∫≈£∫ 14 ”√¿˝±‡∫≈£∫ 522
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=F08FEAE370C0E8DA7595F50F4D831CC2
+–Ú∫≈£∫ 15 ”√¿˝±‡∫≈£∫ 523
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=F08FEAE370C0E8DA7595F50F4D831CC2
+–Ú∫≈£∫ 16 ”√¿˝±‡∫≈£∫ 524
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=UCjXNItMsTOoQRSxCYERudQJgoXnCLaIIFGQeKbLrQCJfMsacldhUprJkHeyOzZw&sessionKey=137f1d7e9878435684dabfa3307105f3&timestamp=1634715847&sign=F08FEAE370C0E8DA7595F50F4D831CC2
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=406e7cb3379f45c68d80170ab4c4c356&sign=f642b3c9e5a61a95a7f4eaa04e00d9b7
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=9998C0635F62A6E36DA583A5AF68AB3A
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=9998C0635F62A6E36DA583A5AF68AB3A
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=9998C0635F62A6E36DA583A5AF68AB3A
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=870E55ED7A28327A90F5D3D31BBA2E94
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=C1ABD16F34350CA40F89A876D4D0076F
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=C1ABD16F34350CA40F89A876D4D0076F
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=C1ABD16F34350CA40F89A876D4D0076F
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=C1ABD16F34350CA40F89A876D4D0076F
+–Ú∫≈£∫ 12 ”√¿˝±‡∫≈£∫ 520
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=C1ABD16F34350CA40F89A876D4D0076F
+–Ú∫≈£∫ 13 ”√¿˝±‡∫≈£∫ 521
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=C1ABD16F34350CA40F89A876D4D0076F
+–Ú∫≈£∫ 14 ”√¿˝±‡∫≈£∫ 522
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=C1ABD16F34350CA40F89A876D4D0076F
+–Ú∫≈£∫ 15 ”√¿˝±‡∫≈£∫ 523
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=C1ABD16F34350CA40F89A876D4D0076F
+–Ú∫≈£∫ 16 ”√¿˝±‡∫≈£∫ 524
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=jZzIDZMtHOUQoWmpxCqgizYhkFBwNFzhIpaSnJppCCdejmBWApVuNgPiGyztTfvf&sessionKey=1a6afb697ad945f993884fb882491f32&timestamp=1634715896&sign=C1ABD16F34350CA40F89A876D4D0076F
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+µ•∏ˆ”√¿˝÷¥––ø™ º: 10 ÷¥––’ﬂ: root
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+µ•∏ˆ”√¿˝÷¥––Ω· ¯: 10 ÷¥––’ﬂ: root
+µ•∏ˆ”√¿˝÷¥––ø™ º: 11 ÷¥––’ﬂ: root
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=b3046c3e8f71417ea15b12ca9764eb91&sign=b6a2af26573ee2df27768a455702e0ec
+µ•∏ˆ”√¿˝÷¥––Ω· ¯: 11 ÷¥––’ﬂ: root
+µ•∏ˆ”√¿˝÷¥––ø™ º: 12 ÷¥––’ﬂ: root
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+µ•∏ˆ”√¿˝÷¥––Ω· ¯: 12 ÷¥––’ﬂ: root
+µ•∏ˆ”√¿˝÷¥––ø™ º: 522 ÷¥––’ﬂ: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=rUHJgllctyFsLBHfzmfqJHsPcVksWdXiJoMdQPwUqPRnLRtcEDQMMgGnCYHjsyAn&sessionKey=1974595b35b94815bc7c1c9a4d43a48d&timestamp=1634715978&sign=B6B1663A68243BF2B9AC1CB19E88C339
+µ•∏ˆ”√¿˝÷¥––Ω· ¯: 522 ÷¥––’ﬂ: root
+µ•∏ˆ”√¿˝÷¥––ø™ º: 522 ÷¥––’ﬂ: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=rUHJgllctyFsLBHfzmfqJHsPcVksWdXiJoMdQPwUqPRnLRtcEDQMMgGnCYHjsyAn&sessionKey=1974595b35b94815bc7c1c9a4d43a48d&timestamp=1634715978&sign=B6B1663A68243BF2B9AC1CB19E88C339
+µ•∏ˆ”√¿˝÷¥––Ω· ¯: 522 ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=ee27f01d67594a138ceba0caf9c03600&sign=3b2930927eacdd7d616d1422d4c153a4
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=819B19BC3DCC97B98BC11113127B7B3D
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=819B19BC3DCC97B98BC11113127B7B3D
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=819B19BC3DCC97B98BC11113127B7B3D
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=24F113D70987CE508D71EF3ED0498B10
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=5EF4FB04412A7E720F910ECB8B5400E9
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=5EF4FB04412A7E720F910ECB8B5400E9
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=5EF4FB04412A7E720F910ECB8B5400E9
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=5EF4FB04412A7E720F910ECB8B5400E9
+–Ú∫≈£∫ 12 ”√¿˝±‡∫≈£∫ 520
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=5EF4FB04412A7E720F910ECB8B5400E9
+–Ú∫≈£∫ 13 ”√¿˝±‡∫≈£∫ 521
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=5EF4FB04412A7E720F910ECB8B5400E9
+–Ú∫≈£∫ 14 ”√¿˝±‡∫≈£∫ 522
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=5EF4FB04412A7E720F910ECB8B5400E9
+–Ú∫≈£∫ 15 ”√¿˝±‡∫≈£∫ 523
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=5EF4FB04412A7E720F910ECB8B5400E9
+–Ú∫≈£∫ 16 ”√¿˝±‡∫≈£∫ 524
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=gvDEnEAkevaTHTqCQjEGljxNsgbtNwqNpddPcoZFSfeiopfwBmvzaDtyBwGeKMBG&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=5EF4FB04412A7E720F910ECB8B5400E9
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+”√¿˝±‡∫≈ 10 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+ªÒ»°sessionSecret ß∞‹
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=&sign=1e67248334a17327ce32a0133e99cf05
+”√¿˝±‡∫≈ 11 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+”√¿˝±‡∫≈ 12 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+…Ë÷√sessionSecret ß∞‹
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=F61862DE5A213D2717F086297EC63BE8
+”√¿˝±‡∫≈ 512 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=F61862DE5A213D2717F086297EC63BE8
+”√¿˝±‡∫≈ 513 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=F61862DE5A213D2717F086297EC63BE8
+”√¿˝±‡∫≈ 514 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=7C9143A251AE34A1FAFC0C63309AAB15
+”√¿˝±‡∫≈ 515 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=BAC29B8E851F1E63B21F30FF4311699D
+”√¿˝±‡∫≈ 516 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=BAC29B8E851F1E63B21F30FF4311699D
+”√¿˝±‡∫≈ 517 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=BAC29B8E851F1E63B21F30FF4311699D
+”√¿˝±‡∫≈ 518 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=BAC29B8E851F1E63B21F30FF4311699D
+”√¿˝±‡∫≈ 519 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 12 ”√¿˝±‡∫≈£∫ 520
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=BAC29B8E851F1E63B21F30FF4311699D
+”√¿˝±‡∫≈ 520 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 13 ”√¿˝±‡∫≈£∫ 521
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=BAC29B8E851F1E63B21F30FF4311699D
+”√¿˝±‡∫≈ 521 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 14 ”√¿˝±‡∫≈£∫ 522
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=BAC29B8E851F1E63B21F30FF4311699D
+”√¿˝±‡∫≈ 522 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 15 ”√¿˝±‡∫≈£∫ 523
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=BAC29B8E851F1E63B21F30FF4311699D
+”√¿˝±‡∫≈ 523 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+–Ú∫≈£∫ 16 ”√¿˝±‡∫≈£∫ 524
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=ccac835b5f1346cdb7397ed15c3a4af0&timestamp=1634716473&sign=BAC29B8E851F1E63B21F30FF4311699D
+”√¿˝±‡∫≈ 524 «ÎºÏ≤ÈURL”Îheaders «∑Ò’˝»∑
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=9e2b7cc796bd43e3b93003fe3ecd8eb7&sign=0eb80d6c7d778cb2c7fcbda8a7b9f94a
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=9B3036CA7E28EFAB9AE31171CABDC695
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=9B3036CA7E28EFAB9AE31171CABDC695
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=9B3036CA7E28EFAB9AE31171CABDC695
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=DF6C5EE6E1FB56C73FE9E558F21FF56E
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=F2CF7C645B823DD0C38429DBF28BADDF
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=F2CF7C645B823DD0C38429DBF28BADDF
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=F2CF7C645B823DD0C38429DBF28BADDF
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=F2CF7C645B823DD0C38429DBF28BADDF
+–Ú∫≈£∫ 12 ”√¿˝±‡∫≈£∫ 520
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=F2CF7C645B823DD0C38429DBF28BADDF
+–Ú∫≈£∫ 13 ”√¿˝±‡∫≈£∫ 521
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=F2CF7C645B823DD0C38429DBF28BADDF
+–Ú∫≈£∫ 14 ”√¿˝±‡∫≈£∫ 522
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=F2CF7C645B823DD0C38429DBF28BADDF
+–Ú∫≈£∫ 15 ”√¿˝±‡∫≈£∫ 523
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=F2CF7C645B823DD0C38429DBF28BADDF
+–Ú∫≈£∫ 16 ”√¿˝±‡∫≈£∫ 524
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QtKFKaLlRcfclUCpdXzSmXBGWGqHLqGYHBNqDuSebNVOnadlqicIIfOCszQKYmyh&sessionKey=f08d52e17ae04a0c9595499f83f7efcb&timestamp=1634716653&sign=F2CF7C645B823DD0C38429DBF28BADDF
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+ø™ º≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root
+÷¥––”√¿˝À≥–Ú: [10, 11, 12, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524]
+–Ú∫≈£∫ 1 ”√¿˝±‡∫≈£∫ 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+–Ú∫≈£∫ 2 ”√¿˝±‡∫≈£∫ 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=f89b6afa11314a1f8bee4a1244ee5f2b&sign=2a593c846b827927dbc719b5806e7e67
+–Ú∫≈£∫ 3 ”√¿˝±‡∫≈£∫ 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+–Ú∫≈£∫ 4 ”√¿˝±‡∫≈£∫ 512
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getPackageProduct?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=570A1A28106C5FE94A50BD0861980213
+–Ú∫≈£∫ 5 ”√¿˝±‡∫≈£∫ 513
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=570A1A28106C5FE94A50BD0861980213
+–Ú∫≈£∫ 6 ”√¿˝±‡∫≈£∫ 514
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/addCombo?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=570A1A28106C5FE94A50BD0861980213
+–Ú∫≈£∫ 7 ”√¿˝±‡∫≈£∫ 515
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=1&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=BCD54C37ECB71BDD645D142EF7F72BF0
+–Ú∫≈£∫ 8 ”√¿˝±‡∫≈£∫ 516
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=CE5F22CD3EA05C300F2E7080EBF1A70B
+–Ú∫≈£∫ 9 ”√¿˝±‡∫≈£∫ 517
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=CE5F22CD3EA05C300F2E7080EBF1A70B
+–Ú∫≈£∫ 10 ”√¿˝±‡∫≈£∫ 518
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=CE5F22CD3EA05C300F2E7080EBF1A70B
+–Ú∫≈£∫ 11 ”√¿˝±‡∫≈£∫ 519
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=CE5F22CD3EA05C300F2E7080EBF1A70B
+–Ú∫≈£∫ 12 ”√¿˝±‡∫≈£∫ 520
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=CE5F22CD3EA05C300F2E7080EBF1A70B
+–Ú∫≈£∫ 13 ”√¿˝±‡∫≈£∫ 521
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=CE5F22CD3EA05C300F2E7080EBF1A70B
+–Ú∫≈£∫ 14 ”√¿˝±‡∫≈£∫ 522
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=CE5F22CD3EA05C300F2E7080EBF1A70B
+–Ú∫≈£∫ 15 ”√¿˝±‡∫≈£∫ 523
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=CE5F22CD3EA05C300F2E7080EBF1A70B
+–Ú∫≈£∫ 16 ”√¿˝±‡∫≈£∫ 524
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=AbivoyZAQSquEvPItikrlmPCvivPgZZIdTkSdEjkbQsYPPruHCmFmzPHFlSMduCL&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=CE5F22CD3EA05C300F2E7080EBF1A70B
+Ω· ¯≈˙¡ø÷¥––:”≈Õ–∞Ó-≤‚ ‘ª∑æ≥ ÷¥––’ﬂ: root

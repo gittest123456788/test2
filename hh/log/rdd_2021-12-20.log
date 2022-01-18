@@ -1,0 +1,299 @@
+开始批量执行:小程序 执行者: root
+执行用例顺序: [946, 947]
+序号： 1 用例编号： 946
+https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 947
+https://api-test.myutopa.com/app.do?method=account.login.loginByThirdAuth&ver=1.0&params={"accessToken":"","city":"","clientType":1,"code":"083PsXFa1CKPjC0pm4Ia18ZQA91PsXF0","country":"","crm_channel_id":null,"encryptedWxUserInfo":"XprhPBtkvmJH663B9THjeOSfVvUqZRGOuBYUffCjVuwykaWvaXFDGE+Kmf3C/X9kfx8mt/aXyIy4t1Vjj3VN4LM0VRt6jDZcAZv4aDZbV1FP6tcmhBwT45eR2ViAqc9GGhfQDtr3rwc6jIm3W33b7eKnUIdT0SEGjb+iu0moh+6tNR5MmFe2vs+YsuHdd0WjjzGPzSCFz/Z2t1Dr6CGmPbD4i68xhEdre+XDDFnUjKaYRVj/Yq/Dr8O1cotSw7hzCzDzNDp7z8esCMCVL+L+zqqzt8d8RCATU4SytBV5bcHURxErjf/91X9Ytqq6S2UOV4gLTkoar5LDZglAb/HP7Yz+nk04euUHZhrxg4b7axEs3bAZGBMinHZorZhL8gZIdTjInsZWQiElC4/SPGciv8903CwgVmpMCkPTt9AusPjs2OTWrkvFkbDR4yTh7KjOW1ncGjLaP1xWDtcjKdfwSoDlNBBNVr5PT+MsDHzB0vYE7dyTYgoZrIuu4cC3khmGWuA9l0wPO8uuRIe3ypZyTQ==","encryptedWxUserInfoVi":"64N4iFqWV8+qDbNcItUq7Q==","keepAccess":2,"lat":23.12089572482639,"latitude":23.12089572482639,"lng":113.32699490017362,"longitude":113.32699490017362,"province":"","thirdType":5,"uid":""}&deviceId=117bcbc2-c50f-4dc9-8165-37034d8b38de&appInfo=MINIPROGRAM_60950&osInfo=iOS14.2&uaInfo=weixinmini weixin/8.0.16_SDKVersion/2.21.2&sessionKey=317bcd7459ea4033a3f34f6a97c915d8&sign=3d0155773e75d3b661f4bf7ec5b59b2d
+结束批量执行:小程序 执行者: root
+单个用例执行开始: 947 执行者: root
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?method=account.login.loginByThirdAuth&ver=1.0&params={"accessToken":"","city":"","clientType":1,"code":"083PsXFa1CKPjC0pm4Ia18ZQA91PsXF0","country":"","crm_channel_id":null,"encryptedWxUserInfo":"XprhPBtkvmJH663B9THjeOSfVvUqZRGOuBYUffCjVuwykaWvaXFDGE+Kmf3C/X9kfx8mt/aXyIy4t1Vjj3VN4LM0VRt6jDZcAZv4aDZbV1FP6tcmhBwT45eR2ViAqc9GGhfQDtr3rwc6jIm3W33b7eKnUIdT0SEGjb+iu0moh+6tNR5MmFe2vs+YsuHdd0WjjzGPzSCFz/Z2t1Dr6CGmPbD4i68xhEdre+XDDFnUjKaYRVj/Yq/Dr8O1cotSw7hzCzDzNDp7z8esCMCVL+L+zqqzt8d8RCATU4SytBV5bcHURxErjf/91X9Ytqq6S2UOV4gLTkoar5LDZglAb/HP7Yz+nk04euUHZhrxg4b7axEs3bAZGBMinHZorZhL8gZIdTjInsZWQiElC4/SPGciv8903CwgVmpMCkPTt9AusPjs2OTWrkvFkbDR4yTh7KjOW1ncGjLaP1xWDtcjKdfwSoDlNBBNVr5PT+MsDHzB0vYE7dyTYgoZrIuu4cC3khmGWuA9l0wPO8uuRIe3ypZyTQ==","encryptedWxUserInfoVi":"64N4iFqWV8+qDbNcItUq7Q==","keepAccess":2,"lat":23.12089572482639,"latitude":23.12089572482639,"lng":113.32699490017362,"longitude":113.32699490017362,"province":"","thirdType":5,"uid":""}&deviceId=117bcbc2-c50f-4dc9-8165-37034d8b38de&appInfo=MINIPROGRAM_60950&osInfo=iOS14.2&uaInfo=weixinmini weixin/8.0.16_SDKVersion/2.21.2&sessionKey=317bcd7459ea4033a3f34f6a97c915d8
+单个用例执行结束: 947 执行者: root
+开始批量执行:小程序 执行者: root
+执行用例顺序: [946, 947]
+序号： 1 用例编号： 946
+https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 947
+https://api-test.myutopa.com/app.do?method=account.login.loginByThirdAuth&ver=1.0&params={"accessToken":"","city":"","clientType":1,"code":"083PsXFa1CKPjC0pm4Ia18ZQA91PsXF0","country":"","crm_channel_id":null,"encryptedWxUserInfo":"XprhPBtkvmJH663B9THjeOSfVvUqZRGOuBYUffCjVuwykaWvaXFDGE+Kmf3C/X9kfx8mt/aXyIy4t1Vjj3VN4LM0VRt6jDZcAZv4aDZbV1FP6tcmhBwT45eR2ViAqc9GGhfQDtr3rwc6jIm3W33b7eKnUIdT0SEGjb+iu0moh+6tNR5MmFe2vs+YsuHdd0WjjzGPzSCFz/Z2t1Dr6CGmPbD4i68xhEdre+XDDFnUjKaYRVj/Yq/Dr8O1cotSw7hzCzDzNDp7z8esCMCVL+L+zqqzt8d8RCATU4SytBV5bcHURxErjf/91X9Ytqq6S2UOV4gLTkoar5LDZglAb/HP7Yz+nk04euUHZhrxg4b7axEs3bAZGBMinHZorZhL8gZIdTjInsZWQiElC4/SPGciv8903CwgVmpMCkPTt9AusPjs2OTWrkvFkbDR4yTh7KjOW1ncGjLaP1xWDtcjKdfwSoDlNBBNVr5PT+MsDHzB0vYE7dyTYgoZrIuu4cC3khmGWuA9l0wPO8uuRIe3ypZyTQ==","encryptedWxUserInfoVi":"64N4iFqWV8+qDbNcItUq7Q==","keepAccess":2,"lat":23.12089572482639,"latitude":23.12089572482639,"lng":113.32699490017362,"longitude":113.32699490017362,"province":"","thirdType":5,"uid":""}&deviceId=117bcbc2-c50f-4dc9-8165-37034d8b38de&appInfo=MINIPROGRAM_60950&osInfo=iOS14.2&uaInfo=weixinmini weixin/8.0.16_SDKVersion/2.21.2&sessionKey=d85adb075bc04c599fa9ffad2870f189&sign=c5564735713964a246785b73e14dde16
+结束批量执行:小程序 执行者: root
+开始批量执行:小程序 执行者: root
+执行用例顺序: [946, 947]
+序号： 1 用例编号： 946
+https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 947
+https://api-test.myutopa.com/app.do?method=account.login.loginByThirdAuth&ver=1.0&params={"accessToken":"","city":"","clientType":1,"code":"083PsXFa1CKPjC0pm4Ia18ZQA91PsXF0","country":"","crm_channel_id":null,"encryptedWxUserInfo":"XprhPBtkvmJH663B9THjeOSfVvUqZRGOuBYUffCjVuwykaWvaXFDGE+Kmf3C/X9kfx8mt/aXyIy4t1Vjj3VN4LM0VRt6jDZcAZv4aDZbV1FP6tcmhBwT45eR2ViAqc9GGhfQDtr3rwc6jIm3W33b7eKnUIdT0SEGjb+iu0moh+6tNR5MmFe2vs+YsuHdd0WjjzGPzSCFz/Z2t1Dr6CGmPbD4i68xhEdre+XDDFnUjKaYRVj/Yq/Dr8O1cotSw7hzCzDzNDp7z8esCMCVL+L+zqqzt8d8RCATU4SytBV5bcHURxErjf/91X9Ytqq6S2UOV4gLTkoar5LDZglAb/HP7Yz+nk04euUHZhrxg4b7axEs3bAZGBMinHZorZhL8gZIdTjInsZWQiElC4/SPGciv8903CwgVmpMCkPTt9AusPjs2OTWrkvFkbDR4yTh7KjOW1ncGjLaP1xWDtcjKdfwSoDlNBBNVr5PT+MsDHzB0vYE7dyTYgoZrIuu4cC3khmGWuA9l0wPO8uuRIe3ypZyTQ==","encryptedWxUserInfoVi":"64N4iFqWV8+qDbNcItUq7Q==","keepAccess":2,"lat":23.12089572482639,"latitude":23.12089572482639,"lng":113.32699490017362,"longitude":113.32699490017362,"province":"","thirdType":5,"uid":""}&deviceId=117bcbc2-c50f-4dc9-8165-37034d8b38de&appInfo=MINIPROGRAM_60950&osInfo=iOS14.2&uaInfo=weixinmini weixin/8.0.16_SDKVersion/2.21.2&sessionKey=343c427532744149aaa0576669c2452c&sign=7fc9b8db4653edd9636e26127c3b4763
+结束批量执行:小程序 执行者: root
+单个用例执行开始: 746 执行者: root
+https://api.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 746 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=d55d20564ccf40af9d3cae5858287ab3&timestamp=1639993307&sign=698C596FAF74F88FA69FE77B577226AC
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=5b7961811eb04975b4cbb233c13634ef&timestamp=1639993352&sign=15F30F4F35939975CB6849B3F82C98AD
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=956699ceca3349d6be4a691ce850e83e&timestamp=1639993389&sign=E2F1F0C5CF1DC44C91C81184A0C209A2
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=b5756f15d02c4ee78b3e5f48cdaddc5d&timestamp=1639994439&sign=18B2D7993FE68D90F3A7899B3CC41622
+序号： 3 用例编号： 950
+用例执行失败,用例编号： 950
+序号： 4 用例编号： 951
+用例执行失败,用例编号： 951
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=d699e116ccca495eb19ef0a9ed8a82e3&timestamp=1639994451&sign=C74B75C32A6BB82624F1AFF8249A6A87
+序号： 3 用例编号： 950
+用例执行失败,用例编号： 950
+序号： 4 用例编号： 951
+用例执行失败,用例编号： 951
+结束批量执行:积分 执行者: root
+单个用例执行开始: 948 执行者: root
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 948 执行者: root
+单个用例执行开始: 949 执行者: root
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=a40014390a3b4deba792b4dbd1697e87&timestamp=1639994459&sign=BB3D02F55506709A05104314FD34C016
+单个用例执行结束: 949 执行者: root
+单个用例执行开始: 950 执行者: root
+单个用例执行开始: 948 执行者: root
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 948 执行者: root
+单个用例执行开始: 949 执行者: root
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=d01c8216eaca4d14b27aaa32fb8a4bc7&timestamp=1639994508&sign=4177C511C7D1FBCD623571D8009F787D
+单个用例执行结束: 949 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=scPOIAyXhAumLESIBXEriNSRtRbpgImCTlJXaSGiZelzSqRHUakzNtsYsgZqzKaF&sessionKey=d01c8216eaca4d14b27aaa32fb8a4bc7&timestamp=1639994508&sign=6C0CEC2A44633326FA3B05A7035B4065
+单个用例执行结束: 950 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=63f40182814d419793b33a7134bebe45&timestamp=1639994524&sign=9623E5758B08E63A04217048B20304F4
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=cFhamPPlXTWJMFlruCXfKjwDXFHMHoqeIOmcjREeteBsEETgOkpBBvaGkUBPyiQe&sessionKey=63f40182814d419793b33a7134bebe45&timestamp=1639994524&sign=0D73BA93CC82660C1F2EFC70A86F5901
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=cFhamPPlXTWJMFlruCXfKjwDXFHMHoqeIOmcjREeteBsEETgOkpBBvaGkUBPyiQe&sessionKey=63f40182814d419793b33a7134bebe45&timestamp=1639994524&sign=CDC142053E697D3A33C2CA3E9A1AAC92
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=b4e08ac198164d4fb7c495d2ff4ca37f&timestamp=1639994608&sign=C3520BE751607537FA6862174AC8AF5F
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=lZWgULroaKWCrzQqghWITKRkBuLhNyUHCPjuhkibeAMsCSGDhNdNonILarYDAMhH&sessionKey=b4e08ac198164d4fb7c495d2ff4ca37f&timestamp=1639994608&sign=64D2A69E0E1FB007A471662D79F5418C
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=lZWgULroaKWCrzQqghWITKRkBuLhNyUHCPjuhkibeAMsCSGDhNdNonILarYDAMhH&sessionKey=b4e08ac198164d4fb7c495d2ff4ca37f&timestamp=1639994608&sign=4C94167F090B7B53B2ECECE41256B3F3
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=0bb1d5a9b0f24287b35047887488b2e4&timestamp=1639994632&sign=D50276B93BBCB3A0465499C499665B79
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=CzsJwSCmhkUxQKCpDvajGuxZBVPfPYQTcjqdRXteRuWMhesSSZevxjEDdiiSZemp&sessionKey=0bb1d5a9b0f24287b35047887488b2e4&timestamp=1639994632&sign=81B21DD1A75CC3F1D7E15FF99819FDA2
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=CzsJwSCmhkUxQKCpDvajGuxZBVPfPYQTcjqdRXteRuWMhesSSZevxjEDdiiSZemp&sessionKey=0bb1d5a9b0f24287b35047887488b2e4&timestamp=1639994632&sign=0813A34EE541DB04EC37F196BD35D43A
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=7158f48890754658a5b9b8e39383790c&timestamp=1639994642&sign=6FAAAF46367A24563AD3BAE8DFE547F1
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=pKZWnPFVLWYVbkvaXRsccqBZAIfqsEnSVwFsFSvVEtoLbNvGXuEeTquOYKuBIQdi&sessionKey=7158f48890754658a5b9b8e39383790c&timestamp=1639994642&sign=1B533DE2B527EC49C30AF560BFF62D5C
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=pKZWnPFVLWYVbkvaXRsccqBZAIfqsEnSVwFsFSvVEtoLbNvGXuEeTquOYKuBIQdi&sessionKey=7158f48890754658a5b9b8e39383790c&timestamp=1639994642&sign=B35BF0F869B6BF4B188DC7E78D023DA4
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=1dc9877a8e584d2d8e0a9ee9b0c5c57c&timestamp=1639994707&sign=AA1C6608F68C5B3B7397C225CCD8BEF6
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=TozldREuCHeJVxwJvYQlzMOoaTPrvNqQVnnesTuFgUSrGTrbMayWaCEXzdGCoAym&sessionKey=1dc9877a8e584d2d8e0a9ee9b0c5c57c&timestamp=1639994707&sign=26EC361571F27C65A9DDBE94C57A59F7
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=TozldREuCHeJVxwJvYQlzMOoaTPrvNqQVnnesTuFgUSrGTrbMayWaCEXzdGCoAym&sessionKey=1dc9877a8e584d2d8e0a9ee9b0c5c57c&timestamp=1639994707&sign=D7E9CA67CE5C443A01121FAAE6559E56
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=a0e6f5bc40a1458b95c4c9626c5a9620&timestamp=1639994721&sign=1B1A1855433AE750F5CFB9B3BA5A0754
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=YgZRKgfzuvRiCscbsJhlRltAEURKDQdSPigUIHPgaiINfFEwdZtAAcGUOwasaFPj&sessionKey=a0e6f5bc40a1458b95c4c9626c5a9620&timestamp=1639994721&sign=747430AC2716F77E2079DEE51C7C6A1F
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=YgZRKgfzuvRiCscbsJhlRltAEURKDQdSPigUIHPgaiINfFEwdZtAAcGUOwasaFPj&sessionKey=a0e6f5bc40a1458b95c4c9626c5a9620&timestamp=1639994721&sign=F900FA6BF7DC77880A7F45158990D0B1
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=bd55053adf444710898485339ef8bf7e&timestamp=1639994745&sign=0D0F394AD52306122A7D92F480D8A530
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=LBWmZFodZSBDFxmuRDCOrXckWKYvwkvyXXdnLlTqQLiDYZvAsnenSYkpBvDyPQaA&sessionKey=bd55053adf444710898485339ef8bf7e&timestamp=1639994745&sign=61451E808C5DED0B47933513DA456088
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=LBWmZFodZSBDFxmuRDCOrXckWKYvwkvyXXdnLlTqQLiDYZvAsnenSYkpBvDyPQaA&sessionKey=bd55053adf444710898485339ef8bf7e&timestamp=1639994745&sign=F8B1A333996F155839AFD87E7762352E
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951, 952]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=bff36d83ffe140daa5f15f0e814befc3&timestamp=1639995221&sign=201DAB09B2CA8C6AA755650554C632C5
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=PGjYRMLkgSrJaUxLHHmZgHdSArMNycFyqnCxXrROOxoKMGYenFznsuFhRHKjsyxs&sessionKey=bff36d83ffe140daa5f15f0e814befc3&timestamp=1639995221&sign=0627E5A181C37AE9F00EB9D6611F12C5
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=PGjYRMLkgSrJaUxLHHmZgHdSArMNycFyqnCxXrROOxoKMGYenFznsuFhRHKjsyxs&sessionKey=bff36d83ffe140daa5f15f0e814befc3&timestamp=1639995221&sign=DC8DD19D5326D1227B30D35496BF4F4B
+序号： 5 用例编号： 952
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=PGjYRMLkgSrJaUxLHHmZgHdSArMNycFyqnCxXrROOxoKMGYenFznsuFhRHKjsyxs&sessionKey=bff36d83ffe140daa5f15f0e814befc3&timestamp=1639995221&sign=DC8DD19D5326D1227B30D35496BF4F4B
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951, 952]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=0dc4a52c70094adfb3ce4d2fe0c85ded&timestamp=1639995724&sign=D035E6E75085D5995C907329478C7D49
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=siZtvOQxWGHrUtqLXLWiRNPhUxZCHFTvxUuQBpItZfowZwXduaPBvoijJRKijASD&sessionKey=0dc4a52c70094adfb3ce4d2fe0c85ded&timestamp=1639995724&sign=32E0E01C16CDB63501D695F337DAAD4F
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=siZtvOQxWGHrUtqLXLWiRNPhUxZCHFTvxUuQBpItZfowZwXduaPBvoijJRKijASD&sessionKey=0dc4a52c70094adfb3ce4d2fe0c85ded&timestamp=1639995724&sign=EB7E007DE497B0B0CA9ED0B063345E18
+序号： 5 用例编号： 952
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=siZtvOQxWGHrUtqLXLWiRNPhUxZCHFTvxUuQBpItZfowZwXduaPBvoijJRKijASD&sessionKey=0dc4a52c70094adfb3ce4d2fe0c85ded&timestamp=1639995724&sign=EB7E007DE497B0B0CA9ED0B063345E18
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951, 952]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=0348c68ab4ba41599c7389e01fb88211&timestamp=1639995747&sign=6A14BF43BD19F5D81FC98081B3000A11
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=nVpRBJzhDqglBHSgeqRPQuwiTSdmYomWWLoTTzyyOwhCmUURnOEZzIdtAKHwBthY&sessionKey=0348c68ab4ba41599c7389e01fb88211&timestamp=1639995747&sign=0928B786E865C96CF600EEBFEB179448
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=nVpRBJzhDqglBHSgeqRPQuwiTSdmYomWWLoTTzyyOwhCmUURnOEZzIdtAKHwBthY&sessionKey=0348c68ab4ba41599c7389e01fb88211&timestamp=1639995747&sign=016242AFF3F8B026AFB4258CD0DAD924
+序号： 5 用例编号： 952
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=nVpRBJzhDqglBHSgeqRPQuwiTSdmYomWWLoTTzyyOwhCmUURnOEZzIdtAKHwBthY&sessionKey=0348c68ab4ba41599c7389e01fb88211&timestamp=1639995747&sign=016242AFF3F8B026AFB4258CD0DAD924
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951, 952]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=2f3d7c7c5850468488c8713f790dcfd4&timestamp=1639995771&sign=E444CA742C7BF84E2C35C88C98441028
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=lHHjnftVIwZmrVfyccTrlmZmlYxIuwTvSwkXzYYfLmHzcKMZbdtrGaRSJlRJoVye&sessionKey=2f3d7c7c5850468488c8713f790dcfd4&timestamp=1639995771&sign=2D7F9435501B9108D81B32EDBBAC334C
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=lHHjnftVIwZmrVfyccTrlmZmlYxIuwTvSwkXzYYfLmHzcKMZbdtrGaRSJlRJoVye&sessionKey=2f3d7c7c5850468488c8713f790dcfd4&timestamp=1639995771&sign=B9B8F09CAFD5C4A827026C8006BDBE34
+序号： 5 用例编号： 952
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=lHHjnftVIwZmrVfyccTrlmZmlYxIuwTvSwkXzYYfLmHzcKMZbdtrGaRSJlRJoVye&sessionKey=2f3d7c7c5850468488c8713f790dcfd4&timestamp=1639995771&sign=B9B8F09CAFD5C4A827026C8006BDBE34
+结束批量执行:积分 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951, 952]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=929313af98a8497b9a87c273fec97cd4&timestamp=1639995824&sign=521699D0835C7D5A2260A04F2E98B3D1
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=nuKMKhNwqvGVMAQcPUwTqYzUgTEoTYSrAeXotgWkrgKAtRJLobraRpoQpjRuZdMY&sessionKey=929313af98a8497b9a87c273fec97cd4&timestamp=1639995824&sign=9C83DAD2E95A5DFA83CE3FE73DDE448A
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=nuKMKhNwqvGVMAQcPUwTqYzUgTEoTYSrAeXotgWkrgKAtRJLobraRpoQpjRuZdMY&sessionKey=929313af98a8497b9a87c273fec97cd4&timestamp=1639995824&sign=56B64032CFFE2981A8639C1C74AA958C
+序号： 5 用例编号： 952
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=nuKMKhNwqvGVMAQcPUwTqYzUgTEoTYSrAeXotgWkrgKAtRJLobraRpoQpjRuZdMY&sessionKey=929313af98a8497b9a87c273fec97cd4&timestamp=1639995824&sign=56B64032CFFE2981A8639C1C74AA958C
+结束批量执行:积分 执行者: root
+单个用例执行开始: 948 执行者: root
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 948 执行者: root
+单个用例执行开始: 949 执行者: root
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=2DDDF460E683F543918F10B5F4EE32B4
+单个用例执行结束: 949 执行者: root
+单个用例执行开始: 952 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=851B67D5A06FA3C809CA9C44CFD1A4AB
+单个用例执行结束: 952 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=CCFCC790E6A0E4B9A78497109391F735
+单个用例执行结束: 950 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=CCFCC790E6A0E4B9A78497109391F735
+单个用例执行结束: 950 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=CCFCC790E6A0E4B9A78497109391F735
+单个用例执行结束: 950 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=CCFCC790E6A0E4B9A78497109391F735
+单个用例执行结束: 950 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=CCFCC790E6A0E4B9A78497109391F735
+单个用例执行结束: 950 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=CCFCC790E6A0E4B9A78497109391F735
+单个用例执行结束: 950 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=CCFCC790E6A0E4B9A78497109391F735
+单个用例执行结束: 950 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=CCFCC790E6A0E4B9A78497109391F735
+单个用例执行结束: 950 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=CCFCC790E6A0E4B9A78497109391F735
+单个用例执行结束: 950 执行者: root
+开始批量执行:积分 执行者: root
+执行用例顺序: [948, 949, 950, 951, 952]
+序号： 1 用例编号： 948
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 949
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=5ad3136605b64e388548e2eb9928d41d&timestamp=1639996146&sign=E185E408311A192BB91B4A6D7FD8FAB4
+序号： 3 用例编号： 950
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=gxllaqacEQtFkCJnNNXFeIPiREwVALjDvLIOjLHmofPHcfUGtNKgzqGPFCwmISQl&sessionKey=5ad3136605b64e388548e2eb9928d41d&timestamp=1639996146&sign=0CD503EBFF2D435829DD9C3393DE1AEF
+序号： 4 用例编号： 951
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=gxllaqacEQtFkCJnNNXFeIPiREwVALjDvLIOjLHmofPHcfUGtNKgzqGPFCwmISQl&sessionKey=5ad3136605b64e388548e2eb9928d41d&timestamp=1639996146&sign=732E684518A4DF7D409FEBB05D9CD7F9
+序号： 5 用例编号： 952
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=gxllaqacEQtFkCJnNNXFeIPiREwVALjDvLIOjLHmofPHcfUGtNKgzqGPFCwmISQl&sessionKey=5ad3136605b64e388548e2eb9928d41d&timestamp=1639996146&sign=732E684518A4DF7D409FEBB05D9CD7F9
+结束批量执行:积分 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=CCFCC790E6A0E4B9A78497109391F735
+单个用例执行结束: 950 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=CCFCC790E6A0E4B9A78497109391F735
+单个用例执行结束: 950 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=OyGCzjMcamtXEGAacUHtXkRJEVlknLWGeGVOERloUtFUVMVuDMRWqzekYSNuUXSw&sessionKey=ca31704f620b4d519be1c92d84ff6289&timestamp=1639995835&sign=CCFCC790E6A0E4B9A78497109391F735
+单个用例执行结束: 950 执行者: root
+单个用例执行开始: 948 执行者: root
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 948 执行者: root
+单个用例执行开始: 949 执行者: root
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=4ab3bca5aa634362972fd63a92a238a4&timestamp=1639996311&sign=9179C0173DF2DB1D8AFD4982B9277724
+单个用例执行结束: 949 执行者: root
+单个用例执行开始: 952 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/updatePointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=HBpincFmabJTyILQOiZQwEgFeYaSKgxIIIBrciUscblApicGMNURMBbUBLSmXBcQ&sessionKey=4ab3bca5aa634362972fd63a92a238a4&timestamp=1639996311&sign=EF92F651451AB5BAC003DC98B1921B95
+单个用例执行结束: 952 执行者: root
+单个用例执行开始: 950 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/store/getPointScale?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&accessToken=HBpincFmabJTyILQOiZQwEgFeYaSKgxIIIBrciUscblApicGMNURMBbUBLSmXBcQ&sessionKey=4ab3bca5aa634362972fd63a92a238a4&timestamp=1639996311&sign=BEB82EAE0F4708D9D6CA7151080D00A9
+单个用例执行结束: 950 执行者: root

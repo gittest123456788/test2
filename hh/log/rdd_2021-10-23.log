@@ -1,0 +1,19 @@
+单个用例执行开始: 10 执行者: root
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 10 执行者: root
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=643a70dfa8184b8d8c3645ed41839717&sign=e146a74ea957a2d8610f2c1967abbc25
+结束批量执行:优托邦-测试环境 执行者: root
+单个用例执行开始: 10 执行者: root
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 10 执行者: root
+单个用例执行开始: 10 执行者: root
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 10 执行者: root
+单个用例执行开始: 4 执行者: root
+https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 4 执行者: root

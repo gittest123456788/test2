@@ -1,0 +1,16 @@
+开始批量执行:hr 执行者: testqx
+执行用例顺序: [400]
+序号： 1 用例编号： 400
+依赖的用例不存在
+依赖的用例不存在
+https://www.daydao.com/apiLogin/casLogin
+结束批量执行:hr 执行者: testqx
+开始批量执行:优托邦-高保真 执行者: testqx
+执行用例顺序: [223, 224, 225]
+序号： 1 用例编号： 223
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 224
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"{account}","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"{password}","sysId":1,"uid":""}&ver=1.0&sessionKey=5b62c1f5164c419dab0cc108e68e706f&sign=aec2d790541a2c69a2624e42ca3edd84
+序号： 3 用例编号： 225
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+结束批量执行:优托邦-高保真 执行者: testqx

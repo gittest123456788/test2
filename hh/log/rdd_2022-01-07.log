@@ -1,0 +1,258 @@
+定时任务开始执行:优托邦调试 执行者: root
+执行用例顺序: [4, 7, 5, 988, 8, 9, 157, 989, 997, 998]
+序号： 1 用例编号： 4
+https://api-test.myutopa.com/app.do?method=account.session.gen
+用例编号 4 请检查URL与headers是否正确
+获取sessionSecret失败
+序号： 2 用例编号： 7
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+用例编号 7 请检查URL与headers是否正确
+设置sessionSecret失败
+序号： 3 用例编号： 5
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"13537542785","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=
+用例编号 5 请检查URL与headers是否正确
+序号： 4 用例编号： 988
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/analysisScanCodeShopping?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 988 请检查URL与headers是否正确
+序号： 5 用例编号： 8
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 8 请检查URL与headers是否正确
+序号： 6 用例编号： 9
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=1315adb1008f4cff91fedb85421517a7&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 9 请检查URL与headers是否正确
+序号： 7 用例编号： 157
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?appInfo=UTOPA_60707&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=eshop.useraction.getIndexUserDate&osInfo=iOS_12.3.1&params={"accessToken":"","clientType":1,"sysId":1,"uid":"c302366269bc44f3a6003ae7e2d6c662"}&ver=1.0&sessionKey=
+用例编号 157 请检查URL与headers是否正确
+序号： 8 用例编号： 989
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 989 请检查URL与headers是否正确
+序号： 9 用例编号： 997
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 997 请检查URL与headers是否正确
+序号： 10 用例编号： 998
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/boss/excelTask/addExportTask?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&accessToken=pVhjjQpyTXohZUKqhEAyJcpQfMrBKaJtphOTiKDidyfXgYAIocqjScQPfdHnFPCt
+用例编号 998 请检查URL与headers是否正确
+定时任务完成执行:优托邦调试 执行者: root
+定时任务开始执行:优托邦调试 执行者: root
+执行用例顺序: [4, 7, 5, 988, 8, 9, 157, 989, 997, 998]
+序号： 1 用例编号： 4
+https://api-test.myutopa.com/app.do?method=account.session.gen
+用例编号 4 请检查URL与headers是否正确
+获取sessionSecret失败
+序号： 2 用例编号： 7
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+用例编号 7 请检查URL与headers是否正确
+设置sessionSecret失败
+序号： 3 用例编号： 5
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"13537542785","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=
+用例编号 5 请检查URL与headers是否正确
+序号： 4 用例编号： 988
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/analysisScanCodeShopping?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 988 请检查URL与headers是否正确
+序号： 5 用例编号： 8
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 8 请检查URL与headers是否正确
+序号： 6 用例编号： 9
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=1315adb1008f4cff91fedb85421517a7&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 9 请检查URL与headers是否正确
+序号： 7 用例编号： 157
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?appInfo=UTOPA_60707&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=eshop.useraction.getIndexUserDate&osInfo=iOS_12.3.1&params={"accessToken":"","clientType":1,"sysId":1,"uid":"c302366269bc44f3a6003ae7e2d6c662"}&ver=1.0&sessionKey=
+用例编号 157 请检查URL与headers是否正确
+序号： 8 用例编号： 989
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 989 请检查URL与headers是否正确
+序号： 9 用例编号： 997
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 997 请检查URL与headers是否正确
+序号： 10 用例编号： 998
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/boss/excelTask/addExportTask?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&accessToken=pVhjjQpyTXohZUKqhEAyJcpQfMrBKaJtphOTiKDidyfXgYAIocqjScQPfdHnFPCt
+用例编号 998 请检查URL与headers是否正确
+定时任务完成执行:优托邦调试 执行者: root
+定时任务开始执行:优托邦调试 执行者: root
+执行用例顺序: [4, 7, 5, 988, 8, 9, 157, 989, 997, 998]
+序号： 1 用例编号： 4
+https://api-test.myutopa.com/app.do?method=account.session.gen
+用例编号 4 请检查URL与headers是否正确
+获取sessionSecret失败
+序号： 2 用例编号： 7
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+用例编号 7 请检查URL与headers是否正确
+设置sessionSecret失败
+序号： 3 用例编号： 5
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"13537542785","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=
+用例编号 5 请检查URL与headers是否正确
+序号： 4 用例编号： 988
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/analysisScanCodeShopping?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 988 请检查URL与headers是否正确
+序号： 5 用例编号： 8
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 8 请检查URL与headers是否正确
+序号： 6 用例编号： 9
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=1315adb1008f4cff91fedb85421517a7&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 9 请检查URL与headers是否正确
+序号： 7 用例编号： 157
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?appInfo=UTOPA_60707&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=eshop.useraction.getIndexUserDate&osInfo=iOS_12.3.1&params={"accessToken":"","clientType":1,"sysId":1,"uid":"c302366269bc44f3a6003ae7e2d6c662"}&ver=1.0&sessionKey=
+用例编号 157 请检查URL与headers是否正确
+序号： 8 用例编号： 989
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 989 请检查URL与headers是否正确
+序号： 9 用例编号： 997
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 997 请检查URL与headers是否正确
+序号： 10 用例编号： 998
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/boss/excelTask/addExportTask?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&accessToken=pVhjjQpyTXohZUKqhEAyJcpQfMrBKaJtphOTiKDidyfXgYAIocqjScQPfdHnFPCt
+用例编号 998 请检查URL与headers是否正确
+定时任务完成执行:优托邦调试 执行者: root
+定时任务开始执行:优托邦调试 执行者: root
+执行用例顺序: [4, 7, 5, 988, 8, 9, 157, 989, 997, 998]
+序号： 1 用例编号： 4
+https://api-test.myutopa.com/app.do?method=account.session.gen
+用例编号 4 请检查URL与headers是否正确
+获取sessionSecret失败
+序号： 2 用例编号： 7
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+用例编号 7 请检查URL与headers是否正确
+设置sessionSecret失败
+序号： 3 用例编号： 5
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"13537542785","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=
+用例编号 5 请检查URL与headers是否正确
+序号： 4 用例编号： 988
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/analysisScanCodeShopping?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 988 请检查URL与headers是否正确
+序号： 5 用例编号： 8
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 8 请检查URL与headers是否正确
+序号： 6 用例编号： 9
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=1315adb1008f4cff91fedb85421517a7&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 9 请检查URL与headers是否正确
+序号： 7 用例编号： 157
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?appInfo=UTOPA_60707&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=eshop.useraction.getIndexUserDate&osInfo=iOS_12.3.1&params={"accessToken":"","clientType":1,"sysId":1,"uid":"c302366269bc44f3a6003ae7e2d6c662"}&ver=1.0&sessionKey=
+用例编号 157 请检查URL与headers是否正确
+序号： 8 用例编号： 989
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 989 请检查URL与headers是否正确
+序号： 9 用例编号： 997
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 997 请检查URL与headers是否正确
+序号： 10 用例编号： 998
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/boss/excelTask/addExportTask?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&accessToken=pVhjjQpyTXohZUKqhEAyJcpQfMrBKaJtphOTiKDidyfXgYAIocqjScQPfdHnFPCt
+用例编号 998 请检查URL与headers是否正确
+定时任务完成执行:优托邦调试 执行者: root
+定时任务开始执行:优托邦调试 执行者: root
+执行用例顺序: [4, 7, 5, 988, 8, 9, 157, 989, 997, 998]
+序号： 1 用例编号： 4
+https://api-test.myutopa.com/app.do?method=account.session.gen
+用例编号 4 请检查URL与headers是否正确
+获取sessionSecret失败
+序号： 2 用例编号： 7
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+用例编号 7 请检查URL与headers是否正确
+设置sessionSecret失败
+序号： 3 用例编号： 5
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"13537542785","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=
+用例编号 5 请检查URL与headers是否正确
+序号： 4 用例编号： 988
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/analysisScanCodeShopping?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 988 请检查URL与headers是否正确
+序号： 5 用例编号： 8
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 8 请检查URL与headers是否正确
+序号： 6 用例编号： 9
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=1315adb1008f4cff91fedb85421517a7&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 9 请检查URL与headers是否正确
+序号： 7 用例编号： 157
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?appInfo=UTOPA_60707&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=eshop.useraction.getIndexUserDate&osInfo=iOS_12.3.1&params={"accessToken":"","clientType":1,"sysId":1,"uid":"c302366269bc44f3a6003ae7e2d6c662"}&ver=1.0&sessionKey=
+用例编号 157 请检查URL与headers是否正确
+序号： 8 用例编号： 989
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 989 请检查URL与headers是否正确
+序号： 9 用例编号： 997
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 997 请检查URL与headers是否正确
+序号： 10 用例编号： 998
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/boss/excelTask/addExportTask?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&accessToken=pVhjjQpyTXohZUKqhEAyJcpQfMrBKaJtphOTiKDidyfXgYAIocqjScQPfdHnFPCt
+用例编号 998 请检查URL与headers是否正确
+定时任务完成执行:优托邦调试 执行者: root
+定时任务开始执行:优托邦调试 执行者: root
+执行用例顺序: [4, 7, 5, 988, 8, 9, 157, 989, 997, 998]
+序号： 1 用例编号： 4
+https://api-test.myutopa.com/app.do?method=account.session.gen
+用例编号 4 请检查URL与headers是否正确
+获取sessionSecret失败
+序号： 2 用例编号： 7
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+用例编号 7 请检查URL与headers是否正确
+设置sessionSecret失败
+序号： 3 用例编号： 5
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"13537542785","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=
+用例编号 5 请检查URL与headers是否正确
+序号： 4 用例编号： 988
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/analysisScanCodeShopping?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 988 请检查URL与headers是否正确
+序号： 5 用例编号： 8
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 8 请检查URL与headers是否正确
+序号： 6 用例编号： 9
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=1315adb1008f4cff91fedb85421517a7&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 9 请检查URL与headers是否正确
+序号： 7 用例编号： 157
+获取sessionSecret失败
+https://api-test.myutopa.com/app.do?appInfo=UTOPA_60707&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=eshop.useraction.getIndexUserDate&osInfo=iOS_12.3.1&params={"accessToken":"","clientType":1,"sysId":1,"uid":"c302366269bc44f3a6003ae7e2d6c662"}&ver=1.0&sessionKey=
+用例编号 157 请检查URL与headers是否正确
+序号： 8 用例编号： 989
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 989 请检查URL与headers是否正确
+序号： 9 用例编号： 997
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=
+用例编号 997 请检查URL与headers是否正确
+序号： 10 用例编号： 998
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/boss/excelTask/addExportTask?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&accessToken=pVhjjQpyTXohZUKqhEAyJcpQfMrBKaJtphOTiKDidyfXgYAIocqjScQPfdHnFPCt
+用例编号 998 请检查URL与headers是否正确
+定时任务完成执行:优托邦调试 执行者: root

@@ -1,0 +1,9 @@
+开始批量执行:优托邦-高保真 执行者: root
+执行用例顺序: [223, 224, 225]
+序号： 1 用例编号： 223
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 224
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000006","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=2cb5dfafff464714be3ac07a107c857c&sign=2078cc0772f6124801dcec6a87338551
+序号： 3 用例编号： 225
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+结束批量执行:优托邦-高保真 执行者: root

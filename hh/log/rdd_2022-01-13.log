@@ -1,0 +1,47 @@
+单个用例执行开始: 1007 执行者: root
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?appKey=e42ee29bdbba499aa08930e9bcc2343d&source=app&osInfo=iOS_15.0&ver=1.0&deviceType=iPhone_XS_Max&appInfo=UTOPA_61003&deviceId=c03fd82ed4cd4fed8ae7a78e02528052
+单个用例执行结束: 1007 执行者: root
+单个用例执行开始: 1007 执行者: root
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?appKey=e42ee29bdbba499aa08930e9bcc2343d&source=app&osInfo=iOS_15.0&ver=1.0&deviceType=iPhone_XS_Max&appInfo=UTOPA_61003&deviceId=c03fd82ed4cd4fed8ae7a78e02528052
+单个用例执行结束: 1007 执行者: root
+单个用例执行开始: 4 执行者: root
+https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 4 执行者: root
+单个用例执行开始: 1007 执行者: root
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?appKey=e42ee29bdbba499aa08930e9bcc2343d&source=app&osInfo=iOS_15.0&ver=1.0&deviceType=iPhone_XS_Max&appInfo=UTOPA_61003&deviceId=c03fd82ed4cd4fed8ae7a78e02528052
+单个用例执行结束: 1007 执行者: root
+单个用例执行开始: 4 执行者: root
+https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 4 执行者: root
+单个用例执行开始: 7 执行者: root
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 7 执行者: root
+单个用例执行开始: 1007 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?appKey=e42ee29bdbba499aa08930e9bcc2343d&source=app&osInfo=iOS_15.0&ver=1.0&deviceType=iPhone_XS_Max&appInfo=UTOPA_61003&deviceId=c03fd82ed4cd4fed8ae7a78e02528052&sessionKey=cb05245254b141b0bd26ab16054951d4&timestamp=1642039482&sign=C0D1E82B7AF8669F5575B58674DBF46F
+单个用例执行结束: 1007 执行者: root
+单个用例执行开始: 1007 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?appKey=e42ee29bdbba499aa08930e9bcc2343d&source=app&osInfo=iOS_15.0&ver=1.0&deviceType=iPhone_XS_Max&appInfo=UTOPA_61003&deviceId=c03fd82ed4cd4fed8ae7a78e02528052&sessionKey=cb05245254b141b0bd26ab16054951d4&timestamp=1642039482&sign=C0D1E82B7AF8669F5575B58674DBF46F
+单个用例执行结束: 1007 执行者: root
+单个用例执行开始: 1007 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?appKey=e42ee29bdbba499aa08930e9bcc2343d&source=app&osInfo=iOS_15.0&ver=1.0&deviceType=iPhone_XS_Max&appInfo=UTOPA_61003&deviceId=c03fd82ed4cd4fed8ae7a78e02528052&sessionKey=cb05245254b141b0bd26ab16054951d4&timestamp=1642039482&sign=C0D1E82B7AF8669F5575B58674DBF46F
+单个用例执行结束: 1007 执行者: root
+单个用例执行开始: 1007 执行者: test1
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?appKey=e42ee29bdbba499aa08930e9bcc2343d&source=app&osInfo=iOS_15.0&ver=1.0&deviceType=iPhone_XS_Max&appInfo=UTOPA_61003&deviceId=c03fd82ed4cd4fed8ae7a78e02528052
+单个用例执行结束: 1007 执行者: test1
+单个用例执行开始: 4 执行者: test1
+https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 4 执行者: test1
+单个用例执行开始: 1007 执行者: test1
+获取sessionSecret失败
+https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?appKey=e42ee29bdbba499aa08930e9bcc2343d&source=app&osInfo=iOS_15.0&ver=1.0&deviceType=iPhone_XS_Max&appInfo=UTOPA_61003&deviceId=c03fd82ed4cd4fed8ae7a78e02528052
+单个用例执行结束: 1007 执行者: test1
+单个用例执行开始: 4 执行者: test1
+https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 4 执行者: test1
+单个用例执行开始: 7 执行者: test1
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 7 执行者: test1

@@ -1,0 +1,22 @@
+开始批量执行:商户平台 执行者: root
+执行用例顺序: [398, 399, 401, 402]
+序号： 1 用例编号： 398
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 399
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=aa88f791e008444b94796e0ed25d00f8&timestamp=1632706724&sign=9A14ECE216A73805F5F55E44FB3AD9F7
+序号： 3 用例编号： 401
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=efCmHcEiJRvPyXOcZbfrJnGjyqBvHJKWgGGNzsHKaVsxAtHkOTeQbKEVfGjupZuz&sessionKey=aa88f791e008444b94796e0ed25d00f8&timestamp=1632706724&sign=4FA82C187968D072D6000FF397206267
+序号： 4 用例编号： 402
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=efCmHcEiJRvPyXOcZbfrJnGjyqBvHJKWgGGNzsHKaVsxAtHkOTeQbKEVfGjupZuz&sessionKey=aa88f791e008444b94796e0ed25d00f8&timestamp=1632706724&sign=4FA82C187968D072D6000FF397206267
+结束批量执行:商户平台 执行者: root
+开始批量执行:商户平台 执行者: root
+执行用例顺序: [398, 399, 401, 402]
+序号： 1 用例编号： 398
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 399
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=033c4b887c2d43e6b20bf8404a3b522a&timestamp=1632726305&sign=7A37DFB8F51F3032259B643814AF2E09
+序号： 3 用例编号： 401
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=UCzwWdqmVgUAnjLLTacewqqXxUOdqNebVZyuTlBscCbHwtRfRZkHGhcUOQmrXYPX&sessionKey=033c4b887c2d43e6b20bf8404a3b522a&timestamp=1632726305&sign=5792638FC4AA7E776C242AB2AD90A0C7
+序号： 4 用例编号： 402
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=UCzwWdqmVgUAnjLLTacewqqXxUOdqNebVZyuTlBscCbHwtRfRZkHGhcUOQmrXYPX&sessionKey=033c4b887c2d43e6b20bf8404a3b522a&timestamp=1632726305&sign=5792638FC4AA7E776C242AB2AD90A0C7
+结束批量执行:商户平台 执行者: root

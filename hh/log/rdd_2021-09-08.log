@@ -1,0 +1,33 @@
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11, 12]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=ec6ea60360ec4c73b65e8e9ee03a3675&sign=eda8de6b3ad374082b70960422eb02c3
+序号： 3 用例编号： 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+结束批量执行:优托邦-测试环境 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11, 12]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"account}","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=5995fc76bc9f4731a78b74bb94e59cb9&sign=47404a76310d707e2ec6edd8053c7ff6
+序号： 3 用例编号： 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+结束批量执行:优托邦-测试环境 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11, 12]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=136db7afe2704336901beb2edc7051b5&sign=1bfc18ba60c6db54b6dba2c0fdfd5147
+序号： 3 用例编号： 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+结束批量执行:优托邦-测试环境 执行者: root

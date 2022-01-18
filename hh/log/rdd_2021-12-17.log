@@ -1,0 +1,202 @@
+单个用例执行开始: 942 执行者: root
+http://lbz-test.myutopa.com//eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+设置sessionSecret失败
+单个用例执行结束: 942 执行者: root
+单个用例执行开始: 942 执行者: root
+http://lbz-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+设置sessionSecret失败
+单个用例执行结束: 942 执行者: root
+单个用例执行开始: 942 执行者: root
+http://lbz-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+设置sessionSecret失败
+单个用例执行结束: 942 执行者: root
+单个用例执行开始: 942 执行者: root
+http://lbz-test.myutopa.comhttps://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+设置sessionSecret失败
+单个用例执行结束: 942 执行者: root
+单个用例执行开始: 942 执行者: root
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+单个用例执行结束: 942 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=b4cfe55477374386ace0d1e373304942&timestamp=1639731885&sign=FDEAEEBFCF6574AA315C738A7651A579
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=7f85da66e5814d72a1e9bc1335c06c84&timestamp=1639732134&sign=F0DA5B01E3F28842AEE2D050ECB031DC
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=007c4d08f7674235a532ec154cbe7584&timestamp=1639732440&sign=5D4830A5070340E3A2461FA56209CFAE
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&timestamp=1639732179&name=自动化测试勿删_校验金额精确度&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=XBgyvyBLZRVjyHUeManiYUrDjsgyZlmrrrEaeAPweBtwponPOtQkVGevVNmVZgsQ&sessionKey=007c4d08f7674235a532ec154cbe7584&timestamp=1639732440&sign=C1BA0CED1AFBA65E679A91FA10714103
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=4ffb4cf5dc3d4d3fb6c818f0acdf7a82&timestamp=1639732489&sign=7B8F4B29DD042295C16FE48B89ADB4E0
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&name=自动化测试勿删_校验金额精确度&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=DCbLruRzlaaexMnPjiDolWCMZwAafFZciprmYmwsKsPzMbjNOYSJikfiOgiPyGRW&sessionKey=4ffb4cf5dc3d4d3fb6c818f0acdf7a82&timestamp=1639732489&sign=8634FFEA388FCF90EA35AB141EFC8498
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=6e395765ac6449c9800cb3e4bc8c46a7&timestamp=1639732625&sign=DAD3FE5F94D1552F4C0B6DDAE02A3797
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&name=自动化测试勿删_校验金额精确度&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=msvtOPhxOUiZcdfMJodUFMNUePcjRUZAZPpyVQizDBWWZhmUjwJICXYRbLELBilj&sessionKey=6e395765ac6449c9800cb3e4bc8c46a7&timestamp=1639732625&sign=13048000D3FC83BC3CEE9A4305EA2F77
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=3cdf08d596024820b045338f91fa6087&timestamp=1639733562&sign=AA66514762CC6FA9CEDA0CFCA8970025
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&name=自动化测试勿删_校验金额精确度&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=QayRmeemheJXHrVDQLqNlUiyrgDaODgSyGXwaeKuQHIDMxvMKFolytAJUhhazfXN&sessionKey=3cdf08d596024820b045338f91fa6087&timestamp=1639733562&sign=A9FAC5C060E89E46D4636EAB917D4D3B
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:商户平台 执行者: root
+执行用例顺序: [398, 399, 401, 402, 404, 405, 406, 919]
+序号： 1 用例编号： 398
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 399
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=ce8846ad5d2b41f984a9649d2d2a6762&timestamp=1639734052&sign=216BB1911C559291B49C4D13083164AE
+序号： 3 用例编号： 401
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=AhngiqBirPgzTqvvLuLotzEKfNBvqPBiPCYpByCJyjnkcCfaQFxJsGtHWulAINTT&sessionKey=ce8846ad5d2b41f984a9649d2d2a6762&timestamp=1639734052&sign=48C278CDF43E482231DF7BF188C238EE
+序号： 4 用例编号： 402
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=AhngiqBirPgzTqvvLuLotzEKfNBvqPBiPCYpByCJyjnkcCfaQFxJsGtHWulAINTT&sessionKey=ce8846ad5d2b41f984a9649d2d2a6762&timestamp=1639734052&sign=48C278CDF43E482231DF7BF188C238EE
+序号： 5 用例编号： 404
+https://up-z2.qbox.me/
+序号： 6 用例编号： 405
+https://boss-api-test.myutopa.com/eshop/common/upload/getDownloadUrlsByBody?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=AhngiqBirPgzTqvvLuLotzEKfNBvqPBiPCYpByCJyjnkcCfaQFxJsGtHWulAINTT&sessionKey=ce8846ad5d2b41f984a9649d2d2a6762&timestamp=1639734052&sign=48C278CDF43E482231DF7BF188C238EE
+序号： 7 用例编号： 406
+https://boss-api-test.myutopa.com/eshop/service/basic/picture/uploadFiles?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=AhngiqBirPgzTqvvLuLotzEKfNBvqPBiPCYpByCJyjnkcCfaQFxJsGtHWulAINTT&sessionKey=ce8846ad5d2b41f984a9649d2d2a6762&timestamp=1639734052&sign=48C278CDF43E482231DF7BF188C238EE
+序号： 8 用例编号： 919
+获取sessionSecret失败
+https://boss-api-test.myutopa.com6&sessionKey=ce8846ad5d2b41f984a9649d2d2a6762&timestamp=1639734052
+用例编号 919 请检查URL与headers是否正确
+结束批量执行:商户平台 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=238b1b6a872947f28a586ccb7d949ec8&timestamp=1639734065&sign=40FD2D96CE9120C0E8651C8965458C12
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&name=自动化测试勿删_校验金额精确度&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=wOZeTTMnnYlwUiKGZagrQEAWbhLJBDfyENbMVeOezyoljlKUJDEuSSrSeOqvOlJC&sessionKey=238b1b6a872947f28a586ccb7d949ec8&timestamp=1639734065&sign=CDB11812C6115C36BB7708ABFC31677B
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+用例编号 942 请检查URL与headers是否正确
+设置sessionSecret失败
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=238b1b6a872947f28a586ccb7d949ec8&timestamp=1639734065&sign=40FD2D96CE9120C0E8651C8965458C12
+用例编号 943 请检查URL与headers是否正确
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&name=自动化测试勿删_校验金额精确度&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=&sessionKey=238b1b6a872947f28a586ccb7d949ec8&timestamp=1639734065&sign=1EC2EE67E0C45C5BD8D2E04CEF288D75
+用例编号 944 请检查URL与headers是否正确
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=df985d3c2944458bbc7bd8bd2c8736d7&timestamp=1639734464&sign=112765800C2E2644207679513DAFA83D
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&name=自动化测试勿删_校验金额精确度&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=KmaEGCllvRCuRENtqiBqGqRHuxLRTshvfFRbWQIIzfPsJgUQuItfBVNgXomrameM&sessionKey=df985d3c2944458bbc7bd8bd2c8736d7&timestamp=1639734464&sign=635A6EDAE5BE0F429E134B18CC20038F
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=d214c58ba99d4da1b7b5b8f64b3632f8&timestamp=1639734502&sign=34E356F4D9C7ECF80670B4F6B9AD60B8
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&name=2&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=MCMhjvPHYyPYuRofihPwzUcTiVrppTfTpwzilTLkzKFOumzyZXzfHWczxuGadPDR&sessionKey=d214c58ba99d4da1b7b5b8f64b3632f8&timestamp=1639734502&sign=868572ED0B32A6A52963E1C008776B5F
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=5848ca990a5c426398349f486df12f2d&timestamp=1639734670&sign=240FEF6A86A265E43EFA2363702B1F71
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&name=%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E5%8B%BF%E5%88%A0_%E6%A0%A1%E9%AA%8C%E9%87%91%E9%A2%9D%E7%B2%BE%E7%A1%AE%E5%BA%A6&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=BQqZzhKyruelfMMVxDYOEFZtvvlecJeNWvCmyImIMalxSoMapiPVwHPnvAdJYqzl&sessionKey=5848ca990a5c426398349f486df12f2d&timestamp=1639734670&sign=1C48498FB70015C55F4CAA04C617DF70
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=939db97ddc9645509450d7f5c8cefbf9&timestamp=1639734850&sign=0485782FDC74E5CF1D087435145EDDF0
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&name=%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E5%8B%BF%E5%88%A0_%E6%A0%A1%E9%AA%8C%E9%87%91%E9%A2%9D%E7%B2%BE%E7%A1%AE%E5%BA%A6&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=rnUraVfXtgekVUFbiHkkfLMrZyzZWdrCZntQWNnpMZsimUlSjllMFRMyoBBYmXhu&sessionKey=939db97ddc9645509450d7f5c8cefbf9&timestamp=1639734850&sign=0B5B6D70A02B597AEC28EADD08325099
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=67c40114094e4c2bac7e1bf3e71eb8ec&timestamp=1639734948&sign=E10CE93D13E0FFD28A33E379C9DEE8A0
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=xHDLbpUiHrAamofWcEihMJGvfWgmRrWKhRrKHVqiBKKncnizDOmzNUGljGsUkRuL&sessionKey=67c40114094e4c2bac7e1bf3e71eb8ec&timestamp=1639734948&sign=81DED6C02E92ACCC7F40B4C52023A595
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=9eb305e67b1e4fd98311c7098c5166da&timestamp=1639734953&sign=566B8BFABF87AE96D90E8E3DA6B41A0C
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=xogCiaJNErdCwNdrEZqrFfEozGCXliLXuTecRRgUyWhdNfVeUjHLUxmRyTxFdkyD&sessionKey=9eb305e67b1e4fd98311c7098c5166da&timestamp=1639734953&sign=5A4C1B917796BC18B6BEA8038BB7D3B1
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=808622bade244d44a83fedafb232f1b6&timestamp=1639735078&sign=4E44E8A8A4C2BCDA0FF40E151C8A9F3C
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=riwzsDFNctGUUvJUMoCDbfHmuzblypmkYnAbpMhfjKjUiGGqLBtnNAwFDOFVUVCY&sessionKey=808622bade244d44a83fedafb232f1b6&timestamp=1639735078&sign=6EDD36D7903BA32E2D402F715DA03217
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=27e39d33f95844a79ecd54d30e9fac9c&timestamp=1639735372&sign=6E75AB6075D434E136CDB92125EF8537
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=9ca0b5f730ee4e22b16df965e7619e66&timestamp=1639735372&sign=543BD67ABD96F48B1AE9A0DA2827536D
+序号： 3 用例编号： 944
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=ZfWdxTHrClpMYqDqnZPMfszXwUrluvnowewLHHIbPOIpCdbyLnvnJdYUrqFFUszi&sessionKey=9ca0b5f730ee4e22b16df965e7619e66&timestamp=1639735372&sign=0C3BDA9175F78A36DB16E2519B97D8E3
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=ZfWdxTHrClpMYqDqnZPMfszXwUrluvnowewLHHIbPOIpCdbyLnvnJdYUrqFFUszi&sessionKey=9ca0b5f730ee4e22b16df965e7619e66&timestamp=1639735372&sign=0C3BDA9175F78A36DB16E2519B97D8E3
+结束批量执行:运营平台-测试环境 执行者: root
+结束批量执行:运营平台-测试环境 执行者: root
+开始批量执行:运营平台-测试环境 执行者: root
+执行用例顺序: [942, 943, 944]
+序号： 1 用例编号： 942
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=14dc6d2b365d41c4bba340f853295da3
+序号： 2 用例编号： 943
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=14dc6d2b365d41c4bba340f853295da3&accessToken=&sessionKey=ba0cd037120a43e5afcc74b554dbc3fc&timestamp=1639735378&sign=2AE9BDD549C199C69DA4089D068A8702
+序号： 3 用例编号： 944
+https://boss-api-test.myutopa.com/eshop/service/marketing/marketing/listMarketings?appKey=14dc6d2b365d41c4bba340f853295da3&ver=1.0&discountRange=&pageNo=1&pageSize=10&recordType=2&accessToken=YPSMlUImEWdjATgJJYxJNVXFzwiUAjscaHLbKYMDYdGPkFfbKiQIDLpVfvAbecHj&sessionKey=ba0cd037120a43e5afcc74b554dbc3fc&timestamp=1639735378&sign=182B237CA41611B11E53EA2E6839E10B
+结束批量执行:运营平台-测试环境 执行者: root

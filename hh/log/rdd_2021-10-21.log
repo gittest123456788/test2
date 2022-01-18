@@ -1,0 +1,530 @@
+开始批量执行:优托邦-高保真 执行者: root
+执行用例顺序: [223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 345, 343, 346, 347, 373, 374, 375, 376, 377, 378]
+序号： 1 用例编号： 223
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+用例编号 223 请检查URL与headers是否正确
+获取sessionSecret失败
+序号： 2 用例编号： 224
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000006","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=&sign=8246e14db36ece79e68b122f251a60f8
+用例编号 224 请检查URL与headers是否正确
+序号： 3 用例编号： 225
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+用例编号 225 请检查URL与headers是否正确
+设置sessionSecret失败
+序号： 4 用例编号： 226
+https://boss-api-pre.myutopa.com/eshop/service/app/user/homePage/getFirstPageData?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 226 请检查URL与headers是否正确
+序号： 5 用例编号： 227
+https://boss-api-pre.myutopa.com/eshop/service/app/user/advertisement/listAdvertisementByCode?appKey=11c4238672eb46cbbd1b3359a49e63c2&source=app&osInfo=iOS_12.3.1&ver=1.0&deviceType=iPhone_6&appInfo=UTOPA_60805&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=C3746215A59C4775F9EB110F10FAD88B
+用例编号 227 请检查URL与headers是否正确
+序号： 6 用例编号： 228
+https://boss-api-pre.myutopa.com/eshop/service/app/user/homePage/getSecondPageData?appKey=11c4238672eb46cbbd1b3359a49e63c2&source=app&osInfo=iOS_12.3.1&ver=1.0&deviceType=iPhone_6&appInfo=UTOPA_60805&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=C3746215A59C4775F9EB110F10FAD88B
+用例编号 228 请检查URL与headers是否正确
+序号： 7 用例编号： 229
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/analysisScanCodeShopping?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 229 请检查URL与headers是否正确
+序号： 8 用例编号： 230
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 230 请检查URL与headers是否正确
+序号： 9 用例编号： 231
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&shopCartType=2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=C163941F2A3883C136E6BE7602247131
+用例编号 231 请检查URL与headers是否正确
+序号： 10 用例编号： 232
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 232 请检查URL与headers是否正确
+序号： 11 用例编号： 233
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 233 请检查URL与headers是否正确
+序号： 12 用例编号： 234
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/getByBarcodeNew?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 234 请检查URL与headers是否正确
+序号： 13 用例编号： 235
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 235 请检查URL与headers是否正确
+序号： 14 用例编号： 236
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/getStoreShortcutGoods?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 236 请检查URL与headers是否正确
+序号： 15 用例编号： 237
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 237 请检查URL与headers是否正确
+序号： 16 用例编号： 238
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 238 请检查URL与headers是否正确
+序号： 17 用例编号： 239
+https://boss-api-pre.myutopa.com/eshop/service/app/user/store/getNearStores?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 239 请检查URL与headers是否正确
+序号： 18 用例编号： 240
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=eshop.search.getSearchKeywords&osInfo=iOS_12.3.1&params={"accessToken":"MwlGNmgpuJQGpRcBsiCWVatuwzrJwLSMPDjVtoFeYjfZMawhaSylfpXzBiircQNp","clientType":1,"sysId":1,"uid":"2fc165befb234bacb76a1822c3291809","used":2}&ver=1.0&sessionKey=&accessToken=&sign=7edab7826529e43fe3ee989d52e2226f
+用例编号 240 请检查URL与headers是否正确
+序号： 19 用例编号： 241
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/getSearchPage?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 241 请检查URL与headers是否正确
+序号： 20 用例编号： 242
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 242 请检查URL与headers是否正确
+序号： 21 用例编号： 243
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 243 请检查URL与headers是否正确
+序号： 22 用例编号： 244
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 244 请检查URL与headers是否正确
+序号： 23 用例编号： 245
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 245 请检查URL与headers是否正确
+序号： 24 用例编号： 246
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 246 请检查URL与headers是否正确
+序号： 25 用例编号： 247
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 247 请检查URL与headers是否正确
+序号： 26 用例编号： 248
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 248 请检查URL与headers是否正确
+序号： 27 用例编号： 249
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 249 请检查URL与headers是否正确
+序号： 28 用例编号： 250
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 250 请检查URL与headers是否正确
+序号： 29 用例编号： 251
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductNew?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 251 请检查URL与headers是否正确
+序号： 30 用例编号： 252
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 252 请检查URL与headers是否正确
+序号： 31 用例编号： 253
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getStoreRecommendProduct?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 253 请检查URL与headers是否正确
+序号： 32 用例编号： 254
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/inTimeOf?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 254 请检查URL与headers是否正确
+序号： 33 用例编号： 255
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 255 请检查URL与headers是否正确
+序号： 34 用例编号： 256
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/add?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 256 请检查URL与headers是否正确
+序号： 35 用例编号： 257
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?storeId=774949&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&shopCartType=1&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=D4B19E563EFE0BB9699DE0D813CEA11E
+用例编号 257 请检查URL与headers是否正确
+序号： 36 用例编号： 258
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/getTotalNumber?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 258 请检查URL与headers是否正确
+序号： 37 用例编号： 259
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&shopCartType=1&ccessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=EB9F514D891849B7CD942FE1943C549F
+用例编号 259 请检查URL与headers是否正确
+序号： 38 用例编号： 260
+https://boss-api-pre.myutopa.com/eshop/service/app/user/homePage/getCustomCategoryList?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 260 请检查URL与headers是否正确
+序号： 39 用例编号： 261
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/update?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 261 请检查URL与headers是否正确
+序号： 40 用例编号： 262
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/delete?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 262 请检查URL与headers是否正确
+序号： 41 用例编号： 263
+https://boss-api-pre.myutopa.com/eshop/service/app/user/userAddress/list?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 263 请检查URL与headers是否正确
+序号： 42 用例编号： 264
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 264 请检查URL与headers是否正确
+序号： 43 用例编号： 265
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 265 请检查URL与headers是否正确
+序号： 44 用例编号： 266
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 266 请检查URL与headers是否正确
+序号： 45 用例编号： 267
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 267 请检查URL与headers是否正确
+序号： 46 用例编号： 268
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/activityInfo?activityId=169&appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=384B78BD4BA9F2B619B1B5820B34750A
+用例编号 268 请检查URL与headers是否正确
+序号： 47 用例编号： 269
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/page?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=5D31AEC96A606DF17BFF5F274B03CA70
+用例编号 269 请检查URL与headers是否正确
+序号： 48 用例编号： 270
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=5D31AEC96A606DF17BFF5F274B03CA70
+用例编号 270 请检查URL与headers是否正确
+序号： 49 用例编号： 271
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=5D31AEC96A606DF17BFF5F274B03CA70
+用例编号 271 请检查URL与headers是否正确
+序号： 50 用例编号： 272
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=5D31AEC96A606DF17BFF5F274B03CA70
+用例编号 272 请检查URL与headers是否正确
+序号： 51 用例编号： 273
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=5D31AEC96A606DF17BFF5F274B03CA70
+用例编号 273 请检查URL与headers是否正确
+序号： 52 用例编号： 274
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=5D31AEC96A606DF17BFF5F274B03CA70
+用例编号 274 请检查URL与headers是否正确
+序号： 53 用例编号： 275
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=5D31AEC96A606DF17BFF5F274B03CA70
+用例编号 275 请检查URL与headers是否正确
+序号： 54 用例编号： 276
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=5D31AEC96A606DF17BFF5F274B03CA70
+用例编号 276 请检查URL与headers是否正确
+序号： 55 用例编号： 277
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=5D31AEC96A606DF17BFF5F274B03CA70
+用例编号 277 请检查URL与headers是否正确
+序号： 56 用例编号： 278
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=5D31AEC96A606DF17BFF5F274B03CA70
+用例编号 278 请检查URL与headers是否正确
+序号： 57 用例编号： 279
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=5D31AEC96A606DF17BFF5F274B03CA70
+用例编号 279 请检查URL与headers是否正确
+序号： 58 用例编号： 280
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/pageTitleAndDetails?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=5D31AEC96A606DF17BFF5F274B03CA70
+用例编号 280 请检查URL与headers是否正确
+序号： 59 用例编号： 281
+https://boss-api-pre.myutopa.com/eshop/service/app/user/appCofig/getBaseInfo?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 281 请检查URL与headers是否正确
+序号： 60 用例编号： 282
+https://boss-api-pre.myutopa.com/eshop/service/app/user/special/getColumnProduct?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 282 请检查URL与headers是否正确
+序号： 61 用例编号： 283
+https://boss-api-pre.myutopa.com/eshop/service/app/user/special/getColumnStore?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 283 请检查URL与headers是否正确
+序号： 62 用例编号： 284
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=neweshop.special.getGroupStore&osInfo=iOS_12.3.1&params={"accessToken":"","clientType":1,"groupId":2005,"latitude":23.12655086785814,"longitude":113.3335659472429,"pageNo":1,"pageSize":20,"sortRule":2,"sysId":1,"uid":"2fc165befb234bacb76a1822c3291809"}&ver=1.0&sessionKey=&sign=8c4764f3e564b4aa291e6d4327f6bd6a
+用例编号 284 请检查URL与headers是否正确
+序号： 63 用例编号： 285
+https://api-pre.myutopa.com/app.do?method=eshop.special.getBaseInfo&ver=1.0&params={"accessToken":"","id":"20200708021","uid":""}&deviceId=391f7890-6da7-42a6-a920-9bd477de1908&appInfo=H5_60850&osInfo=iOS&uaInfo=Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148/utopaApp&sessionKey=&sign=e7a0f9c7411ae0241be7ceaae860d4a6
+用例编号 285 请检查URL与headers是否正确
+序号： 64 用例编号： 286
+https://api-pre.myutopa.com/app.do?method=eshop.special.getBaseInfo&ver=1.0&params={"accessToken":"","id":"20200708021","uid":""}&deviceId=391f7890-6da7-42a6-a920-9bd477de1908&appInfo=H5_60850&osInfo=iOS&uaInfo=Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148/utopaApp&sessionKey=&timestamp=&sign=ec786d034a5c39f4f3c2a91e0508e801
+用例编号 286 请检查URL与headers是否正确
+序号： 65 用例编号： 287
+https://api-pre.myutopa.com/app.do?method=neweshop.special.pointColumnProductList&ver=1.0&params={"accessToken":"","themeId":"20200708021","uid":""}&deviceId=391f7890-6da7-42a6-a920-9bd477de1908&appInfo=H5_60850&osInfo=iOS&uaInfo=Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148/utopaApp&sessionKey=&timestamp=&sign=646e2af8a1283df8ac1fe05aa722acf8
+用例编号 287 请检查URL与headers是否正确
+序号： 66 用例编号： 288
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 288 请检查URL与headers是否正确
+序号： 67 用例编号： 289
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getProductByActiveList?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 289 请检查URL与headers是否正确
+序号： 68 用例编号： 290
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityForeCategoryList?&uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&activityId=1905&source=app&appInfo=UTOPA_60805&deviceType=iPhone_6&ver=1.0&type=1&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=C582FAC866094D61FDCF37FB621571C3
+用例编号 290 请检查URL与headers是否正确
+序号： 69 用例编号： 291
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=utopa.eshop.coupon.myCouponList&osInfo=iOS_12.3.1&params={"accessToken":"","clientType":1,"pageNo":1,"sysId":1,"uid":"2fc165befb234bacb76a1822c3291809"}&ver=1.0&sessionKey=&timestamp=&sign=a2cf48f6fcd99a3400946b0152e4f5c7
+用例编号 291 请检查URL与headers是否正确
+序号： 70 用例编号： 292
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getProductByActiveList?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 292 请检查URL与headers是否正确
+序号： 71 用例编号： 293
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityForeCategoryList?&uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&activityId=3916&source=app&appInfo=UTOPA_60805&deviceType=iPhone_6&ver=1.0&type=1&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=8D1AF7E0CC503A5BFB362D2B12A45192
+用例编号 293 请检查URL与headers是否正确
+序号： 72 用例编号： 294
+https://boss-api-pre.myutopa.com/eshop/service/app/user/getFavProducts?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 294 请检查URL与headers是否正确
+序号： 73 用例编号： 295
+https://boss-api-pre.myutopa.com/eshop/service/app/user/addFavorite?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 295 请检查URL与headers是否正确
+序号： 74 用例编号： 296
+https://boss-api-pre.myutopa.com/eshop/service/app/user/cancelFavorite?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 296 请检查URL与headers是否正确
+序号： 75 用例编号： 297
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/myProductOrders?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 297 请检查URL与headers是否正确
+序号： 76 用例编号： 298
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/myProductOrders?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 298 请检查URL与headers是否正确
+序号： 77 用例编号： 299
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/myProductOrders?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 299 请检查URL与headers是否正确
+序号： 78 用例编号： 300
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/myProductOrders?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 300 请检查URL与headers是否正确
+序号： 79 用例编号： 301
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/myProductOrders?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 301 请检查URL与headers是否正确
+序号： 80 用例编号： 302
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 302 请检查URL与headers是否正确
+序号： 81 用例编号： 303
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/productOrderDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 303 请检查URL与headers是否正确
+序号： 82 用例编号： 304
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/addShopCartAgain?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 304 请检查URL与headers是否正确
+序号： 83 用例编号： 305
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=utopa.eshop.productorder.app.updateOverTimeOrder&osInfo=iOS_12.3.1&params={"accessToken":"","clientType":1,"orderId":"","orderSource":1,"sysId":1,"uid":"2fc165befb234bacb76a1822c3291809"}&ver=1.0&sessionKey=&sign=e288ba90a7b70ecc92e3d440021e4fe0
+用例编号 305 请检查URL与headers是否正确
+序号： 84 用例编号： 306
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrderDetail/cancelOrderDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 306 请检查URL与headers是否正确
+序号： 85 用例编号： 307
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 307 请检查URL与headers是否正确
+序号： 86 用例编号： 308
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 308 请检查URL与headers是否正确
+序号： 87 用例编号： 309
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/productOrderDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 309 请检查URL与headers是否正确
+序号： 88 用例编号： 310
+https://boss-api-pre.myutopa.com/eshop/service/app/user/advertisement/getAdvertisementByStoreId?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 310 请检查URL与headers是否正确
+序号： 89 用例编号： 311
+https://boss-api-pre.myutopa.com/eshop/service/app/user/store/getStoreDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 311 请检查URL与headers是否正确
+序号： 90 用例编号： 312
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/getStoreProductIndexList?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 312 请检查URL与headers是否正确
+序号： 91 用例编号： 313
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/listStoreProductByforeCategoryId?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 313 请检查URL与headers是否正确
+序号： 92 用例编号： 314
+https://boss-api-pre.myutopa.com/eshop/service/app/user/category/listRootAndLeavesForeCategoryById?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 314 请检查URL与headers是否正确
+序号： 93 用例编号： 315
+https://boss-api-pre.myutopa.com/eshop/service/app/user/addFavorite?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 315 请检查URL与headers是否正确
+序号： 94 用例编号： 316
+https://boss-api-pre.myutopa.com/eshop/service/app/user/cancelFavorite?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 316 请检查URL与headers是否正确
+序号： 95 用例编号： 317
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=eshop.useraction.getIndexUserDate&osInfo=iOS_12.3.1&params={"accessToken":"","clientType":1,"sysId":1,"uid":"2fc165befb234bacb76a1822c3291809"}&ver=1.0&sessionKey=&sign=fcb8a6d01880339743034f8788fe75ba
+用例编号 317 请检查URL与headers是否正确
+序号： 96 用例编号： 318
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/getUserOrderCount?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 318 请检查URL与headers是否正确
+序号： 97 用例编号： 319
+https://boss-api-pre.myutopa.com/eshop/service/app/user/express/orderExpressQueryAll?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 319 请检查URL与headers是否正确
+序号： 98 用例编号： 320
+https://boss-api-pre.myutopa.com/eshop/service/app/user/baseParam/getValueBykey?uid=2fc165befb234bacb76a1822c3291809&paramKey=point_mall_url&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=748B45FC26E9BEBCF099B57F783F28A7
+用例编号 320 请检查URL与headers是否正确
+序号： 99 用例编号： 321
+https://boss-api-pre.myutopa.com/eshop/service/app/user/advertisement/listAdvertisementByCode?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 321 请检查URL与headers是否正确
+序号： 100 用例编号： 322
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=utopa.eshop.coupon.bussinessCouponList&osInfo=iOS_12.3.1&params={"accessToken":"","businessId":"3142","channels":"1","clientType":1,"storeId":"774949","sysId":1,"uid":"2fc165befb234bacb76a1822c3291809"}&ver=1.0&sessionKey=&sign=10ae0980630f2e50beb064925f2c804e
+用例编号 322 请检查URL与headers是否正确
+序号： 101 用例编号： 323
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=utopa.eshop.coupon.userGetCoupon&osInfo=iOS_12.3.1&params={"accessToken":"","activityId":"","businessId":"3142","clientType":1,"couponCode":"","popPageId":"","storeId":"774949","sysId":1,"uid":"2fc165befb234bacb76a1822c3291809"}&ver=1.0&sessionKey=&sign=a79c9e14dbd435580c6257bc62edc2ce
+用例编号 323 请检查URL与headers是否正确
+序号： 102 用例编号： 324
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 324 请检查URL与headers是否正确
+序号： 103 用例编号： 325
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 325 请检查URL与headers是否正确
+序号： 104 用例编号： 326
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 326 请检查URL与headers是否正确
+序号： 105 用例编号： 327
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 327 请检查URL与headers是否正确
+序号： 106 用例编号： 328
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 328 请检查URL与headers是否正确
+序号： 107 用例编号： 329
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 329 请检查URL与headers是否正确
+序号： 108 用例编号： 330
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrderChangeCoupons?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 330 请检查URL与headers是否正确
+序号： 109 用例编号： 331
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 331 请检查URL与headers是否正确
+序号： 110 用例编号： 332
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 332 请检查URL与headers是否正确
+序号： 111 用例编号： 333
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 333 请检查URL与headers是否正确
+序号： 112 用例编号： 334
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 334 请检查URL与headers是否正确
+序号： 113 用例编号： 335
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 335 请检查URL与headers是否正确
+序号： 114 用例编号： 336
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 336 请检查URL与headers是否正确
+序号： 115 用例编号： 337
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 337 请检查URL与headers是否正确
+序号： 116 用例编号： 338
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 338 请检查URL与headers是否正确
+序号： 117 用例编号： 339
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 339 请检查URL与headers是否正确
+序号： 118 用例编号： 340
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 340 请检查URL与headers是否正确
+序号： 119 用例编号： 341
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 341 请检查URL与headers是否正确
+序号： 120 用例编号： 342
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 342 请检查URL与headers是否正确
+序号： 121 用例编号： 345
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 345 请检查URL与headers是否正确
+序号： 122 用例编号： 343
+https://boss-api-pre.myutopa.com/eshop/service/app/user/groupBookingInstance/beforeProductAddOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 343 请检查URL与headers是否正确
+序号： 123 用例编号： 346
+https://boss-api-pre.myutopa.com/eshop/service/app/user/groupBookingInstance/submitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 346 请检查URL与headers是否正确
+序号： 124 用例编号： 347
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 347 请检查URL与headers是否正确
+序号： 125 用例编号： 373
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 373 请检查URL与headers是否正确
+序号： 126 用例编号： 374
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 374 请检查URL与headers是否正确
+序号： 127 用例编号： 375
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 375 请检查URL与headers是否正确
+序号： 128 用例编号： 376
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 376 请检查URL与headers是否正确
+序号： 129 用例编号： 377
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 377 请检查URL与headers是否正确
+序号： 130 用例编号： 378
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=dfe4fad4abd2407f81f7c688d3ff935a&timestamp=1634716693&sign=9CDDB7BC3353BE6C7A866EA953AC05B5
+用例编号 378 请检查URL与headers是否正确
+结束批量执行:优托邦-高保真 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:优托邦-高保真 执行者: root
+执行用例顺序: [223, 224, 225, 256]
+序号： 1 用例编号： 223
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 224
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000006","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=0499c75c14404dbcb3d295151b2728aa&sign=5d1fa69ceba9da9122d7174aa8adb094
+序号： 3 用例编号： 225
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 256
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/add?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=rJptQrpuZleTpBsWthcBMfWQrOvaQzLAmYgAqQhKJTxyIwPKsmfxGAxMcCwxVPbj&sessionKey=0208ba3b4ca94dde97c9468ded1e13b8&timestamp=1634782306&sign=D77ED837D53E566BEEAB485DD81AFD35
+结束批量执行:优托邦-高保真 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11, 12, 525]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=8fcdbb6f75d34e9ba5a4601b8912b52b&sign=f0cd940c240fbc4e5f5a1d0e09d1bce9
+序号： 3 用例编号： 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 525
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=kyZYfrRBfEzCNIOmeClUXqQWlosXebyuJDzFOEGnaZWtcnQglOmOkxTwjXovOozS&sessionKey=cada2e37ff2c4537a9299925dab5a439&timestamp=1634782340&sign=EC31E60C34C838193CEB14196891E310
+结束批量执行:优托邦-测试环境 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11, 12, 525]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=b4d2b3d38c0e49e8af5edb69ffce2b6d&sign=3429a8a48b76322bff621901a63dc726
+序号： 3 用例编号： 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 525
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=HsWzcusxRIkmzulEBzfsbZQhQErWLmQkcqCyzNiOIvilHrytGSBQpHvoWByPODhX&sessionKey=0915234078c44b71a07967645d47bd17&timestamp=1634782376&sign=2E43CA6CEB9A528107375F1C2D59EF8A
+结束批量执行:优托邦-测试环境 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11, 12, 525]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=0e2fc6d4ec7349ba9e80b5f09779a222&sign=5669006a2584f3baafb7018fb53cb44d
+序号： 3 用例编号： 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 525
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=EfQebJpbooYsEUNcnPvjqvqyrzSKJPjqggvbMSszgLGbGjJpxYrPAaqjANAVBkza&sessionKey=4f04102090284b37a0010e538b132956&timestamp=1634782400&sign=04A560F653866FB5FC10FF3B3B668850
+结束批量执行:优托邦-测试环境 执行者: root
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11, 12, 525]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=4d2651dccf8f4639895e5e0a5496a81f&sign=ec0a7e9c1170f02abda2cf13d1f54413
+序号： 3 用例编号： 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 525
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=qyOlvzvsaOOTqBXPgbBasbVnIfckcqLbdosqZArRTRjYsLAiDRmqTIgvoeoXaYxp&sessionKey=3694e8e71daf482c9b604a6f8230340c&timestamp=1634783035&sign=48BE25B89C3614E8283F6BFD05E653A5
+结束批量执行:优托邦-测试环境 执行者: root
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11, 12, 525, 526, 527, 528]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=e06e93639c9d4cd7999deb0735e5bde2&sign=0f4e0fd656780414f4979fe93ca1322f
+序号： 3 用例编号： 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 525
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=aSKOMVdVIbghbEZTXYxynbgShzUcnaHFcEhrLUmdjPvnqcuBkjDPFHScpMPjvOok&sessionKey=af2e65bb948d4f9bbfd64b6dfd3ba842&timestamp=1634802714&sign=E4DCE79EA1B1415E407A1037569475C7
+序号： 5 用例编号： 526
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=aSKOMVdVIbghbEZTXYxynbgShzUcnaHFcEhrLUmdjPvnqcuBkjDPFHScpMPjvOok&sessionKey=af2e65bb948d4f9bbfd64b6dfd3ba842&timestamp=1634802714&sign=E4DCE79EA1B1415E407A1037569475C7
+序号： 6 用例编号： 527
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=aSKOMVdVIbghbEZTXYxynbgShzUcnaHFcEhrLUmdjPvnqcuBkjDPFHScpMPjvOok&sessionKey=af2e65bb948d4f9bbfd64b6dfd3ba842&timestamp=1634802714&sign=E4DCE79EA1B1415E407A1037569475C7
+序号： 7 用例编号： 528
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=aSKOMVdVIbghbEZTXYxynbgShzUcnaHFcEhrLUmdjPvnqcuBkjDPFHScpMPjvOok&sessionKey=af2e65bb948d4f9bbfd64b6dfd3ba842&timestamp=1634802714&sign=E4DCE79EA1B1415E407A1037569475C7
+结束批量执行:优托邦-测试环境 执行者: root
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11, 12, 525, 526, 527, 528]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=f8d4f320bb9b405a9b04ba23a00fcabb&sign=57eeeab443683b07c5d4f3b3ec6bd34a
+序号： 3 用例编号： 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 525
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=uTymTAnlHPniGUSvClddqVnspQmsbbCMDWaixZcvXIXtHMWQwJAMpDfwSLVtozWY&sessionKey=8aa4ee2c379340ee80db91758d3e636d&timestamp=1634802776&sign=B88C6638985F595B3FAC8BE78CAC4B7E
+序号： 5 用例编号： 526
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=uTymTAnlHPniGUSvClddqVnspQmsbbCMDWaixZcvXIXtHMWQwJAMpDfwSLVtozWY&sessionKey=8aa4ee2c379340ee80db91758d3e636d&timestamp=1634802776&sign=B88C6638985F595B3FAC8BE78CAC4B7E
+序号： 6 用例编号： 527
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=uTymTAnlHPniGUSvClddqVnspQmsbbCMDWaixZcvXIXtHMWQwJAMpDfwSLVtozWY&sessionKey=8aa4ee2c379340ee80db91758d3e636d&timestamp=1634802776&sign=B88C6638985F595B3FAC8BE78CAC4B7E
+序号： 7 用例编号： 528
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=uTymTAnlHPniGUSvClddqVnspQmsbbCMDWaixZcvXIXtHMWQwJAMpDfwSLVtozWY&sessionKey=8aa4ee2c379340ee80db91758d3e636d&timestamp=1634802776&sign=B88C6638985F595B3FAC8BE78CAC4B7E
+结束批量执行:优托邦-测试环境 执行者: root
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11, 12, 525, 526, 527, 528]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=d7d99963403142d3bdcd17bfe9f72c53&sign=b73c1749405e9a0d8ccc8880ef47240c
+序号： 3 用例编号： 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 525
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=qxYsgPOzJriQvEDXkFtLxUtDtPDTRjWgvEFbtdeGOwaleMOgRHPrLRhtbRPcdLTa&sessionKey=f60c7205e0b742b5852593a5fbcaa7a3&timestamp=1634802883&sign=8722D88DA12B3892CFCA138431386701
+序号： 5 用例编号： 526
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=qxYsgPOzJriQvEDXkFtLxUtDtPDTRjWgvEFbtdeGOwaleMOgRHPrLRhtbRPcdLTa&sessionKey=f60c7205e0b742b5852593a5fbcaa7a3&timestamp=1634802883&sign=8722D88DA12B3892CFCA138431386701
+序号： 6 用例编号： 527
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=qxYsgPOzJriQvEDXkFtLxUtDtPDTRjWgvEFbtdeGOwaleMOgRHPrLRhtbRPcdLTa&sessionKey=f60c7205e0b742b5852593a5fbcaa7a3&timestamp=1634802883&sign=8722D88DA12B3892CFCA138431386701
+序号： 7 用例编号： 528
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=qxYsgPOzJriQvEDXkFtLxUtDtPDTRjWgvEFbtdeGOwaleMOgRHPrLRhtbRPcdLTa&sessionKey=f60c7205e0b742b5852593a5fbcaa7a3&timestamp=1634802883&sign=8722D88DA12B3892CFCA138431386701
+结束批量执行:优托邦-测试环境 执行者: root
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11, 12, 525, 526, 527, 528, 529, 530]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=4c439b1b45604977a0e9da35821c16ca&sign=e216f307596f44f1621879ef691b6e8c
+序号： 3 用例编号： 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 525
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=himWuutWQdqZCEvPEYToouNFYPUsznpMHTvbVGbxnwqReSsxIGDhvPAkrkELjVay&sessionKey=c9d4469b42ae439ea6daad8a713922fa&timestamp=1634804148&sign=BE360C663C454F2D7332814BD7B6D01D
+序号： 5 用例编号： 526
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=himWuutWQdqZCEvPEYToouNFYPUsznpMHTvbVGbxnwqReSsxIGDhvPAkrkELjVay&sessionKey=c9d4469b42ae439ea6daad8a713922fa&timestamp=1634804148&sign=BE360C663C454F2D7332814BD7B6D01D
+序号： 6 用例编号： 527
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=himWuutWQdqZCEvPEYToouNFYPUsznpMHTvbVGbxnwqReSsxIGDhvPAkrkELjVay&sessionKey=c9d4469b42ae439ea6daad8a713922fa&timestamp=1634804148&sign=BE360C663C454F2D7332814BD7B6D01D
+序号： 7 用例编号： 528
+ https://boss-api-test.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=himWuutWQdqZCEvPEYToouNFYPUsznpMHTvbVGbxnwqReSsxIGDhvPAkrkELjVay&sessionKey=c9d4469b42ae439ea6daad8a713922fa&timestamp=1634804148&sign=BE360C663C454F2D7332814BD7B6D01D
+序号： 8 用例编号： 529
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=himWuutWQdqZCEvPEYToouNFYPUsznpMHTvbVGbxnwqReSsxIGDhvPAkrkELjVay&sessionKey=c9d4469b42ae439ea6daad8a713922fa&timestamp=1634804148&sign=077A0B9F9AF038AFED89EB913F1511AF
+序号： 9 用例编号： 530
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=himWuutWQdqZCEvPEYToouNFYPUsznpMHTvbVGbxnwqReSsxIGDhvPAkrkELjVay&sessionKey=c9d4469b42ae439ea6daad8a713922fa&timestamp=1634804148&sign=077A0B9F9AF038AFED89EB913F1511AF
+结束批量执行:优托邦-测试环境 执行者: root

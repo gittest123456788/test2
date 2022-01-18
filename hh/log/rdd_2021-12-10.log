@@ -1,0 +1,165 @@
+开始批量执行:商户平台 执行者: root
+执行用例顺序: [398, 399, 401, 402, 404, 405, 406]
+序号： 1 用例编号： 398
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 399
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=d0360807b8144a069d48bb86714df171&timestamp=1639119386&sign=25EE533857F9BFCBDD60BE28BF3EE9D4
+序号： 3 用例编号： 401
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=DGhuvnKWYOKsIKHthRdvGlOZtfLSNXjjPPGrjPdVkendLxnPJfuXcdOqvFLvgo&sessionKey=d0360807b8144a069d48bb86714df171&timestamp=1639119386&sign=CF7D126285C58C2B076F0B3BF7CBFC64
+序号： 4 用例编号： 402
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=DGhuvnKWYOKsIKHthRdvGlOZtfLSNXjjPPGrjPdVkendLxnPJfuXcdOqvFLvgo&sessionKey=d0360807b8144a069d48bb86714df171&timestamp=1639119386&sign=CF7D126285C58C2B076F0B3BF7CBFC64
+序号： 5 用例编号： 404
+https://up-z2.qbox.me/
+序号： 6 用例编号： 405
+https://boss-api-test.myutopa.com/eshop/common/upload/getDownloadUrlsByBody?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=DGhuvnKWYOKsIKHthRdvGlOZtfLSNXjjPPGrjPdVkendLxnPJfuXcdOqvFLvgo&sessionKey=d0360807b8144a069d48bb86714df171&timestamp=1639119386&sign=CF7D126285C58C2B076F0B3BF7CBFC64
+序号： 7 用例编号： 406
+https://boss-api-test.myutopa.com/eshop/service/basic/picture/uploadFiles?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=DGhuvnKWYOKsIKHthRdvGlOZtfLSNXjjPPGrjPdVkendLxnPJfuXcdOqvFLvgo&sessionKey=d0360807b8144a069d48bb86714df171&timestamp=1639119386&sign=CF7D126285C58C2B076F0B3BF7CBFC64
+结束批量执行:商户平台 执行者: root
+开始批量执行:商户平台 执行者: root
+执行用例顺序: [398, 399, 401, 402, 404, 405, 406]
+序号： 1 用例编号： 398
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 399
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=f805614e55014bd5ade608e425fcaeeb&timestamp=1639119433&sign=FA34C80343842F0D762C29513A78359D
+序号： 3 用例编号： 401
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=SpSrkjspIMsNDdYzzWTTUFxBzXHheQOZbAHJdoSJZypkTgOHlnxaYQctZEVwkO&sessionKey=f805614e55014bd5ade608e425fcaeeb&timestamp=1639119433&sign=620773359FFE2954A03C2FBC92437322
+序号： 4 用例编号： 402
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=SpSrkjspIMsNDdYzzWTTUFxBzXHheQOZbAHJdoSJZypkTgOHlnxaYQctZEVwkO&sessionKey=f805614e55014bd5ade608e425fcaeeb&timestamp=1639119433&sign=620773359FFE2954A03C2FBC92437322
+序号： 5 用例编号： 404
+https://up-z2.qbox.me/
+序号： 6 用例编号： 405
+https://boss-api-test.myutopa.com/eshop/common/upload/getDownloadUrlsByBody?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=SpSrkjspIMsNDdYzzWTTUFxBzXHheQOZbAHJdoSJZypkTgOHlnxaYQctZEVwkO&sessionKey=f805614e55014bd5ade608e425fcaeeb&timestamp=1639119433&sign=620773359FFE2954A03C2FBC92437322
+序号： 7 用例编号： 406
+https://boss-api-test.myutopa.com/eshop/service/basic/picture/uploadFiles?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=SpSrkjspIMsNDdYzzWTTUFxBzXHheQOZbAHJdoSJZypkTgOHlnxaYQctZEVwkO&sessionKey=f805614e55014bd5ade608e425fcaeeb&timestamp=1639119433&sign=620773359FFE2954A03C2FBC92437322
+结束批量执行:商户平台 执行者: root
+开始批量执行:商户平台 执行者: root
+执行用例顺序: [398, 399, 401, 402, 404, 405, 406]
+序号： 1 用例编号： 398
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 399
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=1ee1c90e3ae84d1f84fee3f358670b85&timestamp=1639119487&sign=CA9FBB371076201F52CE2C3CBCC6C81D
+序号： 3 用例编号： 401
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=BBIeObZCaaHkToeawpTbNnJPzirCQmkQTiGlmDdJJFlpHAGWhbYzHUIdanIpMr&sessionKey=1ee1c90e3ae84d1f84fee3f358670b85&timestamp=1639119487&sign=74A2A8B7B6B0BFA3C149FC3A17235111
+序号： 4 用例编号： 402
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=BBIeObZCaaHkToeawpTbNnJPzirCQmkQTiGlmDdJJFlpHAGWhbYzHUIdanIpMr&sessionKey=1ee1c90e3ae84d1f84fee3f358670b85&timestamp=1639119487&sign=74A2A8B7B6B0BFA3C149FC3A17235111
+序号： 5 用例编号： 404
+https://up-z2.qbox.me/
+序号： 6 用例编号： 405
+https://boss-api-test.myutopa.com/eshop/common/upload/getDownloadUrlsByBody?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=BBIeObZCaaHkToeawpTbNnJPzirCQmkQTiGlmDdJJFlpHAGWhbYzHUIdanIpMr&sessionKey=1ee1c90e3ae84d1f84fee3f358670b85&timestamp=1639119487&sign=74A2A8B7B6B0BFA3C149FC3A17235111
+序号： 7 用例编号： 406
+https://boss-api-test.myutopa.com/eshop/service/basic/picture/uploadFiles?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=BBIeObZCaaHkToeawpTbNnJPzirCQmkQTiGlmDdJJFlpHAGWhbYzHUIdanIpMr&sessionKey=1ee1c90e3ae84d1f84fee3f358670b85&timestamp=1639119487&sign=74A2A8B7B6B0BFA3C149FC3A17235111
+结束批量执行:商户平台 执行者: root
+单个用例执行开始: 398 执行者: root
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 398 执行者: root
+单个用例执行开始: 399 执行者: root
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=ea58836ecd594c0a9eac8a20ed4ee751&timestamp=1639119510&sign=E8A1F32CB84F147ED3BB1A9BA53D6083
+单个用例执行结束: 399 执行者: root
+单个用例执行开始: 401 执行者: root
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=EgNevKyAAvOOIWhJrIaHfkEaVhBPugnKiOawMwJCFswiniruMGennHTnCjIYpJ&sessionKey=ea58836ecd594c0a9eac8a20ed4ee751&timestamp=1639119510&sign=9FF50F55E54CA871B1C0474C83FDB1FF
+单个用例执行结束: 401 执行者: root
+单个用例执行开始: 402 执行者: root
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=EgNevKyAAvOOIWhJrIaHfkEaVhBPugnKiOawMwJCFswiniruMGennHTnCjIYpJ&sessionKey=ea58836ecd594c0a9eac8a20ed4ee751&timestamp=1639119510&sign=9FF50F55E54CA871B1C0474C83FDB1FF
+单个用例执行结束: 402 执行者: root
+开始批量执行:商户平台 执行者: root
+执行用例顺序: [398, 399, 401, 402, 404, 405, 406]
+序号： 1 用例编号： 398
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 399
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=a1f4e98ff6c6445aa9a20cc35649e27a&timestamp=1639119577&sign=6532C190B82DF19167501B5CF0163D31
+序号： 3 用例编号： 401
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=phLrIPRhoctOXQgLnfrnUvfNCEufZSBHnArUHeURCXbUVnPOdrOTfxciMJRDLV&sessionKey=a1f4e98ff6c6445aa9a20cc35649e27a&timestamp=1639119577&sign=B3958F5AEF9BBD2225CC76497DFBD7CB
+序号： 4 用例编号： 402
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=BBphLrIPRhoctOXQgLnfrnUvfNCEufZSBHnArUHeURCXbUVnPOdrOTfxciMJRDLV&sessionKey=a1f4e98ff6c6445aa9a20cc35649e27a&timestamp=1639119577&sign=8DF843DEBC215749864611CF533286A2
+序号： 5 用例编号： 404
+https://up-z2.qbox.me/
+序号： 6 用例编号： 405
+https://boss-api-test.myutopa.com/eshop/common/upload/getDownloadUrlsByBody?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=BBphLrIPRhoctOXQgLnfrnUvfNCEufZSBHnArUHeURCXbUVnPOdrOTfxciMJRDLV&sessionKey=a1f4e98ff6c6445aa9a20cc35649e27a&timestamp=1639119577&sign=8DF843DEBC215749864611CF533286A2
+序号： 7 用例编号： 406
+https://boss-api-test.myutopa.com/eshop/service/basic/picture/uploadFiles?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=BBphLrIPRhoctOXQgLnfrnUvfNCEufZSBHnArUHeURCXbUVnPOdrOTfxciMJRDLV&sessionKey=a1f4e98ff6c6445aa9a20cc35649e27a&timestamp=1639119577&sign=8DF843DEBC215749864611CF533286A2
+结束批量执行:商户平台 执行者: root
+开始批量执行:商户平台 执行者: root
+执行用例顺序: [398, 399, 401, 402, 404, 405, 406]
+序号： 1 用例编号： 398
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 399
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=59b4aff953354edab049411acf853a19&timestamp=1639119660&sign=6D55EFEF2629BFF4533DF746E86573AB
+序号： 3 用例编号： 401
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=UYHwzymUnEHVNaLjCNdCYvyTDUZcJihbgvEfBwNjGxKmygSmncVJnUbNTnYlKT&sessionKey=59b4aff953354edab049411acf853a19&timestamp=1639119660&sign=B55045727C62143846C98E3D12BEBD76
+序号： 4 用例编号： 402
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=aoUYHwzymUnEHVNaLjCNdCYvyTDUZcJihbgvEfBwNjGxKmygSmncVJnUbNTnYlKT&sessionKey=59b4aff953354edab049411acf853a19&timestamp=1639119660&sign=AC70111F6915DE89386C3FBF0BA05A95
+序号： 5 用例编号： 404
+https://up-z2.qbox.me/
+序号： 6 用例编号： 405
+https://boss-api-test.myutopa.com/eshop/common/upload/getDownloadUrlsByBody?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=aoUYHwzymUnEHVNaLjCNdCYvyTDUZcJihbgvEfBwNjGxKmygSmncVJnUbNTnYlKT&sessionKey=59b4aff953354edab049411acf853a19&timestamp=1639119660&sign=AC70111F6915DE89386C3FBF0BA05A95
+序号： 7 用例编号： 406
+https://boss-api-test.myutopa.com/eshop/service/basic/picture/uploadFiles?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=aoUYHwzymUnEHVNaLjCNdCYvyTDUZcJihbgvEfBwNjGxKmygSmncVJnUbNTnYlKT&sessionKey=59b4aff953354edab049411acf853a19&timestamp=1639119660&sign=AC70111F6915DE89386C3FBF0BA05A95
+结束批量执行:商户平台 执行者: root
+开始批量执行:商户平台 执行者: root
+执行用例顺序: [398, 399, 401, 402, 404, 405, 406]
+序号： 1 用例编号： 398
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 399
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=1dc4b9e951b64d06933dc07ed5cf4712&timestamp=1639119901&sign=BEBEBA985854269FE0D613105445D3E9
+序号： 3 用例编号： 401
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=jJzwnkvWaZeDmIagthmrxSvIWWtOqhHAOewzMxYqccrqzdNRZzAdZMUQAwRuPg&sessionKey=1dc4b9e951b64d06933dc07ed5cf4712&timestamp=1639119901&sign=BDB6F6910C93F1E2149FBD05CE4F3BC3
+序号： 4 用例编号： 402
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=iDjJzwnkvWaZeDmIagthmrxSvIWWtOqhHAOewzMxYqccrqzdNRZzAdZMUQAwRuPg&sessionKey=1dc4b9e951b64d06933dc07ed5cf4712&timestamp=1639119901&sign=4586BFAE7D2A156B89A101C48A75FF98
+序号： 5 用例编号： 404
+https://up-z2.qbox.me/
+序号： 6 用例编号： 405
+https://boss-api-test.myutopa.com/eshop/common/upload/getDownloadUrlsByBody?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=iDjJzwnkvWaZeDmIagthmrxSvIWWtOqhHAOewzMxYqccrqzdNRZzAdZMUQAwRuPg&sessionKey=1dc4b9e951b64d06933dc07ed5cf4712&timestamp=1639119901&sign=4586BFAE7D2A156B89A101C48A75FF98
+序号： 7 用例编号： 406
+https://boss-api-test.myutopa.com/eshop/service/basic/picture/uploadFiles?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=iDjJzwnkvWaZeDmIagthmrxSvIWWtOqhHAOewzMxYqccrqzdNRZzAdZMUQAwRuPg&sessionKey=1dc4b9e951b64d06933dc07ed5cf4712&timestamp=1639119901&sign=4586BFAE7D2A156B89A101C48A75FF98
+结束批量执行:商户平台 执行者: root
+开始批量执行:商户平台 执行者: root
+执行用例顺序: [398, 399, 401, 402, 404, 405, 406]
+序号： 1 用例编号： 398
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 399
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=66aa853d69614c32a23a01230fb73eee&timestamp=1639119988&sign=235CDCFC9F46245B32BFA000DF04F889
+序号： 3 用例编号： 401
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=UmuithyPwlYTVCqnvfpXGDRISKqudztaRgrfRtybxsUCGLIUoETvhxUDUvwatEdM&sessionKey=66aa853d69614c32a23a01230fb73eee&timestamp=1639119988&sign=AF3517E38E2DD82A288D1174422582C5
+序号： 4 用例编号： 402
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=UmuithyPwlYTVCqnvfpXGDRISKqudztaRgrfRtybxsUCGLIUoETvhxUDUvwatEdM&sessionKey=66aa853d69614c32a23a01230fb73eee&timestamp=1639119988&sign=AF3517E38E2DD82A288D1174422582C5
+序号： 5 用例编号： 404
+https://up-z2.qbox.me/
+序号： 6 用例编号： 405
+https://boss-api-test.myutopa.com/eshop/common/upload/getDownloadUrlsByBody?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=UmuithyPwlYTVCqnvfpXGDRISKqudztaRgrfRtybxsUCGLIUoETvhxUDUvwatEdM&sessionKey=66aa853d69614c32a23a01230fb73eee&timestamp=1639119988&sign=AF3517E38E2DD82A288D1174422582C5
+序号： 7 用例编号： 406
+https://boss-api-test.myutopa.com/eshop/service/basic/picture/uploadFiles?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=UmuithyPwlYTVCqnvfpXGDRISKqudztaRgrfRtybxsUCGLIUoETvhxUDUvwatEdM&sessionKey=66aa853d69614c32a23a01230fb73eee&timestamp=1639119988&sign=AF3517E38E2DD82A288D1174422582C5
+结束批量执行:商户平台 执行者: root
+开始批量执行:商户平台 执行者: root
+执行用例顺序: [398, 399, 401, 402, 404, 405, 406]
+序号： 1 用例编号： 398
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 399
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=43bd7f929fb74431a44b0154c58c5814&timestamp=1639120718&sign=3F1A997BD88BF807DD51576A3FB526FC
+序号： 3 用例编号： 401
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=OOhEwrbyIVZCwhqDiHAWVdixKejBwbpSdDAxrCvSxDEhkhbywqvLbWzhmRXsHoYG&sessionKey=43bd7f929fb74431a44b0154c58c5814&timestamp=1639120718&sign=1476EBC398850170C063BA5BC8B051A8
+序号： 4 用例编号： 402
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=OOhEwrbyIVZCwhqDiHAWVdixKejBwbpSdDAxrCvSxDEhkhbywqvLbWzhmRXsHoYG&sessionKey=43bd7f929fb74431a44b0154c58c5814&timestamp=1639120718&sign=1476EBC398850170C063BA5BC8B051A8
+序号： 5 用例编号： 404
+https://up-z2.qbox.me/
+序号： 6 用例编号： 405
+https://boss-api-test.myutopa.com/eshop/common/upload/getDownloadUrlsByBody?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=OOhEwrbyIVZCwhqDiHAWVdixKejBwbpSdDAxrCvSxDEhkhbywqvLbWzhmRXsHoYG&sessionKey=43bd7f929fb74431a44b0154c58c5814&timestamp=1639120718&sign=1476EBC398850170C063BA5BC8B051A8
+序号： 7 用例编号： 406
+https://boss-api-test.myutopa.com/eshop/service/basic/picture/uploadFiles?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=OOhEwrbyIVZCwhqDiHAWVdixKejBwbpSdDAxrCvSxDEhkhbywqvLbWzhmRXsHoYG&sessionKey=43bd7f929fb74431a44b0154c58c5814&timestamp=1639120718&sign=1476EBC398850170C063BA5BC8B051A8
+结束批量执行:商户平台 执行者: root
+开始批量执行:商户平台 执行者: root
+执行用例顺序: [398, 399, 401, 402, 404, 405, 406]
+序号： 1 用例编号： 398
+https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 2 用例编号： 399
+https://boss-api-test.myutopa.com/eshop/core/account/login/doLogin?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=&sessionKey=0a21daf6a6c54ef28b97b90923efede0&timestamp=1639122155&sign=2E964D48DB24ED66E1EC1FD465E0E77E
+序号： 3 用例编号： 401
+https://boss-api-test.myutopa.com/eshop/common/upload/getFileUpToken?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=MFuLIZYhmWRDjpjiqlBucIWtTLocmtYyaQMeGnZDdaHVtsYDLNHyAytjoDHnlMfO&sessionKey=0a21daf6a6c54ef28b97b90923efede0&timestamp=1639122155&sign=0D26DB490DBEA231B7A5D4AC8F94B359
+序号： 4 用例编号： 402
+https://boss-api-test.myutopa.com/eshop/service/merchant/picture/search?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=MFuLIZYhmWRDjpjiqlBucIWtTLocmtYyaQMeGnZDdaHVtsYDLNHyAytjoDHnlMfO&sessionKey=0a21daf6a6c54ef28b97b90923efede0&timestamp=1639122155&sign=0D26DB490DBEA231B7A5D4AC8F94B359
+序号： 5 用例编号： 404
+https://up-z2.qbox.me/
+序号： 6 用例编号： 405
+https://boss-api-test.myutopa.com/eshop/common/upload/getDownloadUrlsByBody?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=MFuLIZYhmWRDjpjiqlBucIWtTLocmtYyaQMeGnZDdaHVtsYDLNHyAytjoDHnlMfO&sessionKey=0a21daf6a6c54ef28b97b90923efede0&timestamp=1639122155&sign=0D26DB490DBEA231B7A5D4AC8F94B359
+序号： 7 用例编号： 406
+https://boss-api-test.myutopa.com/eshop/service/basic/picture/uploadFiles?appKey=r53dc6d2b365d41c4jdssf853295da3ff5&ver=1.0&accessToken=MFuLIZYhmWRDjpjiqlBucIWtTLocmtYyaQMeGnZDdaHVtsYDLNHyAytjoDHnlMfO&sessionKey=0a21daf6a6c54ef28b97b90923efede0&timestamp=1639122155&sign=0D26DB490DBEA231B7A5D4AC8F94B359
+结束批量执行:商户平台 执行者: root

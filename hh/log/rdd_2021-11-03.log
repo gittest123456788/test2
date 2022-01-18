@@ -1,0 +1,682 @@
+开始批量执行:优托邦-高保真 执行者: root
+执行用例顺序: [223, 224, 225, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590]
+序号： 1 用例编号： 223
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+用例编号 223 请检查URL与headers是否正确
+获取sessionSecret失败
+序号： 2 用例编号： 224
+获取sessionSecret失败
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000006","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=
+用例编号 224 请检查URL与headers是否正确
+序号： 3 用例编号： 225
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+用例编号 225 请检查URL与headers是否正确
+设置sessionSecret失败
+序号： 4 用例编号： 578
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 578 请检查URL与headers是否正确
+序号： 5 用例编号： 579
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 579 请检查URL与headers是否正确
+序号： 6 用例编号： 580
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 580 请检查URL与headers是否正确
+序号： 7 用例编号： 581
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 581 请检查URL与headers是否正确
+序号： 8 用例编号： 582
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 582 请检查URL与headers是否正确
+序号： 9 用例编号： 583
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 583 请检查URL与headers是否正确
+序号： 10 用例编号： 584
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 584 请检查URL与headers是否正确
+序号： 11 用例编号： 585
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 585 请检查URL与headers是否正确
+序号： 12 用例编号： 586
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 586 请检查URL与headers是否正确
+序号： 13 用例编号： 587
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 587 请检查URL与headers是否正确
+序号： 14 用例编号： 588
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 588 请检查URL与headers是否正确
+序号： 15 用例编号： 589
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 589 请检查URL与headers是否正确
+序号： 16 用例编号： 590
+获取sessionSecret失败
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=
+用例编号 590 请检查URL与headers是否正确
+结束批量执行:优托邦-高保真 执行者: root
+开始批量执行:优托邦-高保真 执行者: root
+执行用例顺序: [223, 224, 225, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590]
+序号： 1 用例编号： 223
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 224
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000006","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=54a94111fc724bc385aa9b1884ace266&sign=22502c31cbeddedf28e5a68acaf98f1d
+序号： 3 用例编号： 225
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 578
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=B25048FE148FA9F695DA7B6E12791632
+序号： 5 用例编号： 579
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=F6E893074BD3BE11C776DD9C04F06D44
+序号： 6 用例编号： 580
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=B25048FE148FA9F695DA7B6E12791632
+序号： 7 用例编号： 581
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=B25048FE148FA9F695DA7B6E12791632
+序号： 8 用例编号： 582
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=B25048FE148FA9F695DA7B6E12791632
+序号： 9 用例编号： 583
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=B25048FE148FA9F695DA7B6E12791632
+序号： 10 用例编号： 584
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=F6E893074BD3BE11C776DD9C04F06D44
+序号： 11 用例编号： 585
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=B25048FE148FA9F695DA7B6E12791632
+序号： 12 用例编号： 586
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=B25048FE148FA9F695DA7B6E12791632
+序号： 13 用例编号： 587
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=F6E893074BD3BE11C776DD9C04F06D44
+序号： 14 用例编号： 588
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=B25048FE148FA9F695DA7B6E12791632
+序号： 15 用例编号： 589
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=B25048FE148FA9F695DA7B6E12791632
+序号： 16 用例编号： 590
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HAcpyWlutmPhRwDaAUYyeXmJtYkWkbsYpYsYCQdLIQxnHKwrVykxkWYVssKIJIAY&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=B25048FE148FA9F695DA7B6E12791632
+结束批量执行:优托邦-高保真 执行者: root
+单个用例执行开始: 223 执行者: root
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+获取sessionSecret失败
+单个用例执行结束: 223 执行者: root
+单个用例执行开始: 224 执行者: root
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000006","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=&sign=0e66d6a7be6ffaa5f38dc76dcb6f01e2
+单个用例执行结束: 224 执行者: root
+单个用例执行开始: 225 执行者: root
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+设置sessionSecret失败
+单个用例执行结束: 225 执行者: root
+单个用例执行开始: 579 执行者: root
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=&sessionKey=f0170d6f7d994469bcdb6043bfdf7fe0&timestamp=1635924915&sign=2F05E1511BCC47F6F1ADEA6822A7694C
+单个用例执行结束: 579 执行者: root
+单个用例执行开始: 223 执行者: root
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 223 执行者: root
+单个用例执行开始: 224 执行者: root
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000006","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=47983c1654c84ea3918bcda2be63618d&sign=8b870cb18dadb33d1ff82e351ac57b32
+单个用例执行结束: 224 执行者: root
+单个用例执行开始: 225 执行者: root
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 225 执行者: root
+单个用例执行开始: 579 执行者: root
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=EBDKdKreISzBYWmiOWljfloOudaFZEyOopkZbcDPlZpcPLwTrBwWunryNDUMXjCT&sessionKey=ed6f288f98544006beee1aa29e2f38cd&timestamp=1635925178&sign=EF4468E9F136D92A6841087D8A2D5715
+单个用例执行结束: 579 执行者: root
+单个用例执行开始: 579 执行者: root
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=EBDKdKreISzBYWmiOWljfloOudaFZEyOopkZbcDPlZpcPLwTrBwWunryNDUMXjCT&sessionKey=ed6f288f98544006beee1aa29e2f38cd&timestamp=1635925178&sign=EF4468E9F136D92A6841087D8A2D5715
+单个用例执行结束: 579 执行者: root
+单个用例执行开始: 582 执行者: root
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=EBDKdKreISzBYWmiOWljfloOudaFZEyOopkZbcDPlZpcPLwTrBwWunryNDUMXjCT&sessionKey=ed6f288f98544006beee1aa29e2f38cd&timestamp=1635925178&sign=9765CE2B0314C30B7A54F032776FE7BA
+单个用例执行结束: 582 执行者: root
+单个用例执行开始: 584 执行者: root
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=EBDKdKreISzBYWmiOWljfloOudaFZEyOopkZbcDPlZpcPLwTrBwWunryNDUMXjCT&sessionKey=ed6f288f98544006beee1aa29e2f38cd&timestamp=1635925178&sign=EF4468E9F136D92A6841087D8A2D5715
+单个用例执行结束: 584 执行者: root
+单个用例执行开始: 584 执行者: root
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=EBDKdKreISzBYWmiOWljfloOudaFZEyOopkZbcDPlZpcPLwTrBwWunryNDUMXjCT&sessionKey=ed6f288f98544006beee1aa29e2f38cd&timestamp=1635925178&sign=EF4468E9F136D92A6841087D8A2D5715
+单个用例执行结束: 584 执行者: root
+单个用例执行开始: 587 执行者: root
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=EBDKdKreISzBYWmiOWljfloOudaFZEyOopkZbcDPlZpcPLwTrBwWunryNDUMXjCT&sessionKey=ed6f288f98544006beee1aa29e2f38cd&timestamp=1635925178&sign=EF4468E9F136D92A6841087D8A2D5715
+单个用例执行结束: 587 执行者: root
+单个用例执行开始: 588 执行者: root
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=EBDKdKreISzBYWmiOWljfloOudaFZEyOopkZbcDPlZpcPLwTrBwWunryNDUMXjCT&sessionKey=ed6f288f98544006beee1aa29e2f38cd&timestamp=1635925178&sign=9765CE2B0314C30B7A54F032776FE7BA
+单个用例执行结束: 588 执行者: root
+开始批量执行:优托邦-高保真 执行者: root
+执行用例顺序: [223, 224, 225, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590]
+序号： 1 用例编号： 223
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 224
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000006","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=5571c55c0b844f2f987e71f698308fb8&sign=8f10bfdf090da4b8c3042c322eb6b6a0
+序号： 3 用例编号： 225
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 578
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=E5E50DC6BF3EF415243DB9D8028B25EB
+序号： 5 用例编号： 579
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=BB37874C23C15862A7F4ABD792A6B51D
+序号： 6 用例编号： 580
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=E5E50DC6BF3EF415243DB9D8028B25EB
+序号： 7 用例编号： 581
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=E5E50DC6BF3EF415243DB9D8028B25EB
+序号： 8 用例编号： 582
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=E5E50DC6BF3EF415243DB9D8028B25EB
+序号： 9 用例编号： 583
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=E5E50DC6BF3EF415243DB9D8028B25EB
+序号： 10 用例编号： 584
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=BB37874C23C15862A7F4ABD792A6B51D
+序号： 11 用例编号： 585
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=E5E50DC6BF3EF415243DB9D8028B25EB
+序号： 12 用例编号： 586
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=E5E50DC6BF3EF415243DB9D8028B25EB
+序号： 13 用例编号： 587
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=BB37874C23C15862A7F4ABD792A6B51D
+序号： 14 用例编号： 588
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=E5E50DC6BF3EF415243DB9D8028B25EB
+序号： 15 用例编号： 589
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=E5E50DC6BF3EF415243DB9D8028B25EB
+序号： 16 用例编号： 590
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=HlQOKyfMnzBsHxqwfMmSNTZMLhbekGtMOzoMtNrFgdfOopBZFCukXDjRHGZFBeZD&sessionKey=d6ba930440404ab4a2bf5cfa91ed698c&timestamp=1635925375&sign=E5E50DC6BF3EF415243DB9D8028B25EB
+结束批量执行:优托邦-高保真 执行者: root
+开始批量执行:优托邦-高保真 执行者: root
+执行用例顺序: [223, 224, 225, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606]
+序号： 1 用例编号： 223
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 224
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000006","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=aab445ac59f849ababe9e4543cab7bb1&sign=a719075ffaece71459cd8c9a9c1470b4
+序号： 3 用例编号： 225
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 578
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 5 用例编号： 579
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=669F5FE59E066B4D9DA25392B6B64FD9
+序号： 6 用例编号： 580
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 7 用例编号： 581
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 8 用例编号： 582
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 9 用例编号： 583
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 10 用例编号： 584
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=669F5FE59E066B4D9DA25392B6B64FD9
+序号： 11 用例编号： 585
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 12 用例编号： 586
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 13 用例编号： 587
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=669F5FE59E066B4D9DA25392B6B64FD9
+序号： 14 用例编号： 588
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 15 用例编号： 589
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 16 用例编号： 590
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 17 用例编号： 591
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 18 用例编号： 592
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=669F5FE59E066B4D9DA25392B6B64FD9
+序号： 19 用例编号： 593
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 20 用例编号： 594
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 21 用例编号： 595
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 22 用例编号： 596
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 23 用例编号： 597
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=669F5FE59E066B4D9DA25392B6B64FD9
+序号： 24 用例编号： 598
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 25 用例编号： 599
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 26 用例编号： 600
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=669F5FE59E066B4D9DA25392B6B64FD9
+序号： 27 用例编号： 601
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 28 用例编号： 602
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 29 用例编号： 603
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 30 用例编号： 604
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+序号： 31 用例编号： 605
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=669F5FE59E066B4D9DA25392B6B64FD9
+序号： 32 用例编号： 606
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=PpwBlRfpmPmtoIbtGzjdFxrxtFZEOZWzdnFoPxcVDXnvfsvwVDkgikKHkHhNukEm&sessionKey=f2d4a58ea4e64781a978ce5a25f4df0c&timestamp=1635932080&sign=FD6FD209E497B13FDF4C1B0A04B52C18
+结束批量执行:优托邦-高保真 执行者: root
+单个用例执行开始: 223 执行者: root
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 223 执行者: root
+单个用例执行开始: 224 执行者: root
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000006","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=c64225e9dd4d44b786e6151fe5ea47db&sign=8c6e02b014b93079bc8ac046c36ea564
+单个用例执行结束: 224 执行者: root
+单个用例执行开始: 225 执行者: root
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 225 执行者: root
+单个用例执行开始: 599 执行者: root
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=CrSPkidHpYmnOPSTOMMiknsdbuLzwfZKqAJWtmXuBHbjlpriqFeYkqScYjuwBJNi&sessionKey=016eb558fd95486599110cb427e282a0&timestamp=1635932126&sign=2221D680F979874E820FA211F829D622
+单个用例执行结束: 599 执行者: root
+单个用例执行开始: 604 执行者: root
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=CrSPkidHpYmnOPSTOMMiknsdbuLzwfZKqAJWtmXuBHbjlpriqFeYkqScYjuwBJNi&sessionKey=016eb558fd95486599110cb427e282a0&timestamp=1635932126&sign=2221D680F979874E820FA211F829D622
+单个用例执行结束: 604 执行者: root
+单个用例执行开始: 605 执行者: root
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=CrSPkidHpYmnOPSTOMMiknsdbuLzwfZKqAJWtmXuBHbjlpriqFeYkqScYjuwBJNi&sessionKey=016eb558fd95486599110cb427e282a0&timestamp=1635932126&sign=1FF2F2476D59FC9A99654367D03140B6
+单个用例执行结束: 605 执行者: root
+开始批量执行:优托邦-高保真 执行者: root
+执行用例顺序: [223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 345, 343, 346, 347, 373, 374, 375, 376, 377, 378, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 606]
+序号： 1 用例编号： 223
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 224
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000006","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=88402e9601da4cf99520b2d54ed48db4&sign=e0ab7f4769a74915d198978d0f2fd5fa
+序号： 3 用例编号： 225
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 226
+https://boss-api-pre.myutopa.com/eshop/service/app/user/homePage/getFirstPageData?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=0E546F47F6D6E356043F41354F90422F
+序号： 5 用例编号： 227
+https://boss-api-pre.myutopa.com/eshop/service/app/user/advertisement/listAdvertisementByCode?appKey=11c4238672eb46cbbd1b3359a49e63c2&source=app&osInfo=iOS_12.3.1&ver=1.0&deviceType=iPhone_6&appInfo=UTOPA_60805&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=312A021AFFC67E4843F4EFBFCE0056F5
+序号： 6 用例编号： 228
+https://boss-api-pre.myutopa.com/eshop/service/app/user/homePage/getSecondPageData?appKey=11c4238672eb46cbbd1b3359a49e63c2&source=app&osInfo=iOS_12.3.1&ver=1.0&deviceType=iPhone_6&appInfo=UTOPA_60805&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=84E480FC72706C023A93288A2275C7BC
+序号： 7 用例编号： 229
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/analysisScanCodeShopping?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=0E546F47F6D6E356043F41354F90422F
+序号： 8 用例编号： 230
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=0E546F47F6D6E356043F41354F90422F
+序号： 9 用例编号： 231
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&shopCartType=2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=83D1B167A9F40AE871710211E7CA8E2C
+序号： 10 用例编号： 232
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=0E546F47F6D6E356043F41354F90422F
+序号： 11 用例编号： 233
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=0E546F47F6D6E356043F41354F90422F
+序号： 12 用例编号： 234
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/getByBarcodeNew?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=0E546F47F6D6E356043F41354F90422F
+序号： 13 用例编号： 235
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=0E546F47F6D6E356043F41354F90422F
+序号： 14 用例编号： 236
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/getStoreShortcutGoods?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=0E546F47F6D6E356043F41354F90422F
+序号： 15 用例编号： 237
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=0E546F47F6D6E356043F41354F90422F
+序号： 16 用例编号： 238
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=0E546F47F6D6E356043F41354F90422F
+序号： 17 用例编号： 239
+https://boss-api-pre.myutopa.com/eshop/service/app/user/store/getNearStores?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=0E546F47F6D6E356043F41354F90422F
+序号： 18 用例编号： 240
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=eshop.search.getSearchKeywords&osInfo=iOS_12.3.1&params={"accessToken":"MwlGNmgpuJQGpRcBsiCWVatuwzrJwLSMPDjVtoFeYjfZMawhaSylfpXzBiircQNp","clientType":1,"sysId":1,"uid":"2fc165befb234bacb76a1822c3291809","used":2}&ver=1.0&sessionKey=88402e9601da4cf99520b2d54ed48db4&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sign=3fcae3069a869bb729fba6c5fb394621
+序号： 19 用例编号： 241
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/getSearchPage?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=QFUqFzKsutKjAKZGwDOTHenfkiogwuYqBnihOQZyuHHgXHaNpdhDwOGhoYDiYnHs&sessionKey=430dc4236bb4481b874577c921cb7f38&timestamp=1635932379&sign=0E546F47F6D6E356043F41354F90422F
+序号： 20 用例编号： 242
+开始批量执行:优托邦-高保真 执行者: root
+执行用例顺序: [223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 345, 343, 346, 347, 373, 374, 375, 376, 377, 378, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 606]
+序号： 1 用例编号： 223
+https://api-pre.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 224
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000006","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=53c33b72d0f043e591aff117553dc6be&sign=3669ecb9e0b0e80ea233c90c1188aa40
+序号： 3 用例编号： 225
+https://boss-api-pre.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+序号： 4 用例编号： 226
+https://boss-api-pre.myutopa.com/eshop/service/app/user/homePage/getFirstPageData?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 5 用例编号： 227
+https://boss-api-pre.myutopa.com/eshop/service/app/user/advertisement/listAdvertisementByCode?appKey=11c4238672eb46cbbd1b3359a49e63c2&source=app&osInfo=iOS_12.3.1&ver=1.0&deviceType=iPhone_6&appInfo=UTOPA_60805&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=0CAAB48CAF306C13B886AF5687399CB6
+序号： 6 用例编号： 228
+https://boss-api-pre.myutopa.com/eshop/service/app/user/homePage/getSecondPageData?appKey=11c4238672eb46cbbd1b3359a49e63c2&source=app&osInfo=iOS_12.3.1&ver=1.0&deviceType=iPhone_6&appInfo=UTOPA_60805&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=BF35CE8927EDE4BE6058E0503F46D37A
+序号： 7 用例编号： 229
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/analysisScanCodeShopping?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 8 用例编号： 230
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 9 用例编号： 231
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&shopCartType=2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=3F357427C079E8F702A1401E72D4CC3D
+序号： 10 用例编号： 232
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 11 用例编号： 233
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 12 用例编号： 234
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/getByBarcodeNew?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 13 用例编号： 235
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 14 用例编号： 236
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/getStoreShortcutGoods?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 15 用例编号： 237
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 16 用例编号： 238
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 17 用例编号： 239
+https://boss-api-pre.myutopa.com/eshop/service/app/user/store/getNearStores?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 18 用例编号： 240
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=eshop.search.getSearchKeywords&osInfo=iOS_12.3.1&params={"accessToken":"MwlGNmgpuJQGpRcBsiCWVatuwzrJwLSMPDjVtoFeYjfZMawhaSylfpXzBiircQNp","clientType":1,"sysId":1,"uid":"2fc165befb234bacb76a1822c3291809","used":2}&ver=1.0&sessionKey=53c33b72d0f043e591aff117553dc6be&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sign=f9fa1ff1bf1cf10e4b3bfb973d0f8a6c
+序号： 19 用例编号： 241
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/getSearchPage?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 20 用例编号： 242
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 21 用例编号： 243
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 22 用例编号： 244
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 23 用例编号： 245
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 24 用例编号： 246
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 25 用例编号： 247
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 26 用例编号： 248
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 27 用例编号： 249
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 28 用例编号： 250
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/globalProductSearch?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 29 用例编号： 251
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductNew?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 30 用例编号： 252
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 31 用例编号： 253
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getStoreRecommendProduct?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 32 用例编号： 254
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/inTimeOf?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 33 用例编号： 255
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 34 用例编号： 256
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/add?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 35 用例编号： 257
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?storeId=774949&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&shopCartType=1&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=760418C8F642236DEA4F6F18AD3B9000
+序号： 36 用例编号： 258
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/getTotalNumber?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 37 用例编号： 259
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&shopCartType=1&ccessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=F8D4B6D047C9847F34967BD72DB65EA7
+序号： 38 用例编号： 260
+https://boss-api-pre.myutopa.com/eshop/service/app/user/homePage/getCustomCategoryList?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 39 用例编号： 261
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/update?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 40 用例编号： 262
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/delete?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 41 用例编号： 263
+https://boss-api-pre.myutopa.com/eshop/service/app/user/userAddress/list?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 42 用例编号： 264
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 43 用例编号： 265
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 44 用例编号： 266
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 45 用例编号： 267
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 46 用例编号： 268
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/activityInfo?activityId=169&appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=173FB14D3C189CB8959A8211FA8F2B73
+序号： 47 用例编号： 269
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/page?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=8E161C8BC928D492BACA0B942044105F
+序号： 48 用例编号： 270
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=8E161C8BC928D492BACA0B942044105F
+序号： 49 用例编号： 271
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=8E161C8BC928D492BACA0B942044105F
+序号： 50 用例编号： 272
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=8E161C8BC928D492BACA0B942044105F
+序号： 51 用例编号： 273
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=8E161C8BC928D492BACA0B942044105F
+序号： 52 用例编号： 274
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=8E161C8BC928D492BACA0B942044105F
+序号： 53 用例编号： 275
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=8E161C8BC928D492BACA0B942044105F
+序号： 54 用例编号： 276
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=8E161C8BC928D492BACA0B942044105F
+序号： 55 用例编号： 277
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=8E161C8BC928D492BACA0B942044105F
+序号： 56 用例编号： 278
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=8E161C8BC928D492BACA0B942044105F
+序号： 57 用例编号： 279
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityChainJumping?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=8E161C8BC928D492BACA0B942044105F
+序号： 58 用例编号： 280
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/pageTitleAndDetails?appKey=11c4238672eb46cbbd1b3359a49e63c2&deviceType=Mobile&osInfo=iOS&platform=Safari&source=h5&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=8E161C8BC928D492BACA0B942044105F
+序号： 59 用例编号： 281
+https://boss-api-pre.myutopa.com/eshop/service/app/user/appCofig/getBaseInfo?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 60 用例编号： 282
+https://boss-api-pre.myutopa.com/eshop/service/app/user/special/getColumnProduct?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 61 用例编号： 283
+https://boss-api-pre.myutopa.com/eshop/service/app/user/special/getColumnStore?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 62 用例编号： 284
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=neweshop.special.getGroupStore&osInfo=iOS_12.3.1&params={"accessToken":"iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD","clientType":1,"groupId":2005,"latitude":23.12655086785814,"longitude":113.3335659472429,"pageNo":1,"pageSize":20,"sortRule":2,"sysId":1,"uid":"2fc165befb234bacb76a1822c3291809"}&ver=1.0&sessionKey=53c33b72d0f043e591aff117553dc6be&sign=c6434dbf1eb9bb54773a73e15cfbd36e
+序号： 63 用例编号： 285
+https://api-pre.myutopa.com/app.do?method=eshop.special.getBaseInfo&ver=1.0&params={"accessToken":"","id":"20200708021","uid":""}&deviceId=391f7890-6da7-42a6-a920-9bd477de1908&appInfo=H5_60850&osInfo=iOS&uaInfo=Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148/utopaApp&sessionKey=53c33b72d0f043e591aff117553dc6be&sign=ca1c2df9834dd3e49d4eaf52eab68b77
+序号： 64 用例编号： 286
+https://api-pre.myutopa.com/app.do?method=eshop.special.getBaseInfo&ver=1.0&params={"accessToken":"","id":"20200708021","uid":""}&deviceId=391f7890-6da7-42a6-a920-9bd477de1908&appInfo=H5_60850&osInfo=iOS&uaInfo=Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148/utopaApp&sessionKey=&timestamp=1635932411&sign=736f55ed3415fc59da3a023ead2f9d40
+序号： 65 用例编号： 287
+https://api-pre.myutopa.com/app.do?method=neweshop.special.pointColumnProductList&ver=1.0&params={"accessToken":"","themeId":"20200708021","uid":""}&deviceId=391f7890-6da7-42a6-a920-9bd477de1908&appInfo=H5_60850&osInfo=iOS&uaInfo=Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148/utopaApp&sessionKey=53c33b72d0f043e591aff117553dc6be&timestamp=1635932411&sign=89ee30baa8732af9571b4317441a908d
+序号： 66 用例编号： 288
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/discountCardDetailPage?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 67 用例编号： 289
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getProductByActiveList?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 68 用例编号： 290
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityForeCategoryList?&uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&activityId=1905&source=app&appInfo=UTOPA_60805&deviceType=iPhone_6&ver=1.0&type=1&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=A69EC20ECABA72604D54E4A32209B37F
+序号： 69 用例编号： 291
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=utopa.eshop.coupon.myCouponList&osInfo=iOS_12.3.1&params={"accessToken":"iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD","clientType":1,"pageNo":1,"sysId":1,"uid":"2fc165befb234bacb76a1822c3291809"}&ver=1.0&sessionKey=53c33b72d0f043e591aff117553dc6be&timestamp=1635932411&sign=49fda61ecddb76e4cafdeb5031824ac3
+序号： 70 用例编号： 292
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getProductByActiveList?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 71 用例编号： 293
+https://boss-api-pre.myutopa.com/eshop/service/app/user/activity/getActivityForeCategoryList?&uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&activityId=3916&source=app&appInfo=UTOPA_60805&deviceType=iPhone_6&ver=1.0&type=1&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=F614039DC08842AD2CD5E6096CD475DC
+序号： 72 用例编号： 294
+https://boss-api-pre.myutopa.com/eshop/service/app/user/getFavProducts?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 73 用例编号： 295
+https://boss-api-pre.myutopa.com/eshop/service/app/user/addFavorite?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 74 用例编号： 296
+https://boss-api-pre.myutopa.com/eshop/service/app/user/cancelFavorite?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 75 用例编号： 297
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/myProductOrders?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 76 用例编号： 298
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/myProductOrders?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 77 用例编号： 299
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/myProductOrders?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 78 用例编号： 300
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/myProductOrders?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 79 用例编号： 301
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/myProductOrders?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 80 用例编号： 302
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 81 用例编号： 303
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/productOrderDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 82 用例编号： 304
+https://boss-api-pre.myutopa.com/eshop/service/app/user/shopCart/addShopCartAgain?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 83 用例编号： 305
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=utopa.eshop.productorder.app.updateOverTimeOrder&osInfo=iOS_12.3.1&params={"accessToken":"iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD","clientType":1,"orderId":"16731","orderSource":1,"sysId":1,"uid":"2fc165befb234bacb76a1822c3291809"}&ver=1.0&sessionKey=53c33b72d0f043e591aff117553dc6be&sign=b0c01f68fcfa088201b34edde0a35666
+序号： 84 用例编号： 306
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrderDetail/cancelOrderDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 85 用例编号： 307
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 86 用例编号： 308
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 87 用例编号： 309
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/productOrderDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 88 用例编号： 310
+https://boss-api-pre.myutopa.com/eshop/service/app/user/advertisement/getAdvertisementByStoreId?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 89 用例编号： 311
+https://boss-api-pre.myutopa.com/eshop/service/app/user/store/getStoreDetail?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 90 用例编号： 312
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/getStoreProductIndexList?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 91 用例编号： 313
+https://boss-api-pre.myutopa.com/eshop/service/app/user/storeProduct/listStoreProductByforeCategoryId?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 92 用例编号： 314
+https://boss-api-pre.myutopa.com/eshop/service/app/user/category/listRootAndLeavesForeCategoryById?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 93 用例编号： 315
+https://boss-api-pre.myutopa.com/eshop/service/app/user/addFavorite?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 94 用例编号： 316
+https://boss-api-pre.myutopa.com/eshop/service/app/user/cancelFavorite?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 95 用例编号： 317
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=eshop.useraction.getIndexUserDate&osInfo=iOS_12.3.1&params={"accessToken":"iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD","clientType":1,"sysId":1,"uid":"2fc165befb234bacb76a1822c3291809"}&ver=1.0&sessionKey=53c33b72d0f043e591aff117553dc6be&sign=f0b52064d57a2d6ca609424e1e8bf09d
+序号： 96 用例编号： 318
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/getUserOrderCount?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 97 用例编号： 319
+https://boss-api-pre.myutopa.com/eshop/service/app/user/express/orderExpressQueryAll?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 98 用例编号： 320
+https://boss-api-pre.myutopa.com/eshop/service/app/user/baseParam/getValueBykey?uid=2fc165befb234bacb76a1822c3291809&paramKey=point_mall_url&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=EC74F64CA414029E0F5A851E0C186FE6
+序号： 99 用例编号： 321
+https://boss-api-pre.myutopa.com/eshop/service/app/user/advertisement/listAdvertisementByCode?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 100 用例编号： 322
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=utopa.eshop.coupon.bussinessCouponList&osInfo=iOS_12.3.1&params={"accessToken":"iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD","businessId":"3142","channels":"1","clientType":1,"storeId":"774949","sysId":1,"uid":"2fc165befb234bacb76a1822c3291809"}&ver=1.0&sessionKey=53c33b72d0f043e591aff117553dc6be&sign=1a165ae4e2dfaae7bb1eb72805416300
+序号： 101 用例编号： 323
+https://api-pre.myutopa.com/app.do?appInfo=UTOPA_60805&deviceType=iPhone 6&markId=4eddcac1d2c24430afd4f2ae4245d1b7&method=utopa.eshop.coupon.userGetCoupon&osInfo=iOS_12.3.1&params={"accessToken":"iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD","activityId":"11244","businessId":"3142","clientType":1,"couponCode":"201202108302001011821","popPageId":"","storeId":"774949","sysId":1,"uid":"2fc165befb234bacb76a1822c3291809"}&ver=1.0&sessionKey=53c33b72d0f043e591aff117553dc6be&sign=1a8ac3bdd05e67e14d4fb27de1ed0548
+序号： 102 用例编号： 324
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 103 用例编号： 325
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 104 用例编号： 326
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 105 用例编号： 327
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 106 用例编号： 328
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 107 用例编号： 329
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 108 用例编号： 330
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrderChangeCoupons?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 109 用例编号： 331
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 110 用例编号： 332
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 111 用例编号： 333
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 112 用例编号： 334
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 113 用例编号： 335
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 114 用例编号： 336
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 115 用例编号： 337
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 116 用例编号： 338
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 117 用例编号： 339
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 118 用例编号： 340
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 119 用例编号： 341
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 120 用例编号： 342
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 121 用例编号： 345
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 122 用例编号： 343
+https://boss-api-pre.myutopa.com/eshop/service/app/user/groupBookingInstance/beforeProductAddOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 123 用例编号： 346
+https://boss-api-pre.myutopa.com/eshop/service/app/user/groupBookingInstance/submitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 124 用例编号： 347
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 125 用例编号： 373
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 126 用例编号： 374
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 127 用例编号： 375
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 128 用例编号： 376
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 129 用例编号： 377
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 130 用例编号： 378
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 131 用例编号： 578
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 132 用例编号： 579
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=F92DBE106C516AC18932C44ADB9EA8FC
+序号： 133 用例编号： 580
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 134 用例编号： 581
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 135 用例编号： 582
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 136 用例编号： 583
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 137 用例编号： 584
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=F92DBE106C516AC18932C44ADB9EA8FC
+序号： 138 用例编号： 585
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 139 用例编号： 586
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 140 用例编号： 587
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=F92DBE106C516AC18932C44ADB9EA8FC
+序号： 141 用例编号： 588
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 142 用例编号： 589
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 143 用例编号： 590
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 144 用例编号： 591
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 145 用例编号： 592
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=F92DBE106C516AC18932C44ADB9EA8FC
+序号： 146 用例编号： 593
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 147 用例编号： 594
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 148 用例编号： 595
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 149 用例编号： 596
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 150 用例编号： 597
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=F92DBE106C516AC18932C44ADB9EA8FC
+序号： 151 用例编号： 598
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 152 用例编号： 599
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 153 用例编号： 600
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60900&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=F92DBE106C516AC18932C44ADB9EA8FC
+序号： 154 用例编号： 601
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 155 用例编号： 602
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 156 用例编号： 603
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 157 用例编号： 604
+https://boss-api-pre.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+序号： 158 用例编号： 606
+https://boss-api-pre.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=2fc165befb234bacb76a1822c3291809&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=11c4238672eb46cbbd1b3359a49e63c2&accessToken=iVwQmOfebZwHaDKxBxkBxAiPzLkhXXZunKxyRahOrermhPwwjHZpgSNQVRtHMJbD&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=242FBA0860FAFBCC1C8A03F6E2DBE0F5
+结束批量执行:优托邦-高保真 执行者: root
+单个用例执行开始: 10 执行者: root
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+获取sessionSecret失败
+单个用例执行结束: 10 执行者: root
+单个用例执行开始: 11 执行者: root
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=&sign=7f2a98b65e9c2a0a411d946e9d1b51e1
+单个用例执行结束: 11 执行者: root
+单个用例执行开始: 607 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=&sessionKey=d95031736ca841d8ace3bbf71c924c7d&timestamp=1635932411&sign=109E2C61BD3EA1658E70309B56428150
+单个用例执行结束: 607 执行者: root
+单个用例执行开始: 10 执行者: root
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 10 执行者: root
+单个用例执行开始: 11 执行者: root
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=b3ec54df3a09419c952fe545d42a263c&sign=43fd2eb8855338813b3b52c95d076ec9
+单个用例执行结束: 11 执行者: root
+单个用例执行开始: 12 执行者: root
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 12 执行者: root
+单个用例执行开始: 607 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=XbTGxtfJGYZyILevKyBTholfwdvPXnFcsWsXWWbXRoJyAoKKdaSiDJjTXSaWPUho&sessionKey=4eb52503ac4d4f5e8c435d8758b83ca7&timestamp=1635934699&sign=40203FB5DB8A53A238AD6ED870337124
+单个用例执行结束: 607 执行者: root
+单个用例执行开始: 607 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=XbTGxtfJGYZyILevKyBTholfwdvPXnFcsWsXWWbXRoJyAoKKdaSiDJjTXSaWPUho&sessionKey=4eb52503ac4d4f5e8c435d8758b83ca7&timestamp=1635934699&sign=40203FB5DB8A53A238AD6ED870337124
+单个用例执行结束: 607 执行者: root
+单个用例执行开始: 608 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=XbTGxtfJGYZyILevKyBTholfwdvPXnFcsWsXWWbXRoJyAoKKdaSiDJjTXSaWPUho&sessionKey=4eb52503ac4d4f5e8c435d8758b83ca7&timestamp=1635934699&sign=40203FB5DB8A53A238AD6ED870337124
+单个用例执行结束: 608 执行者: root
+单个用例执行开始: 608 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=XbTGxtfJGYZyILevKyBTholfwdvPXnFcsWsXWWbXRoJyAoKKdaSiDJjTXSaWPUho&sessionKey=4eb52503ac4d4f5e8c435d8758b83ca7&timestamp=1635934699&sign=40203FB5DB8A53A238AD6ED870337124
+单个用例执行结束: 608 执行者: root
+单个用例执行开始: 10 执行者: root
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 10 执行者: root
+单个用例执行开始: 11 执行者: root
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=2a6fd867db0f45b3a7084eb455a17bb1&sign=17bc1884baa3fc60b8bd6b5d9fe33d1b
+单个用例执行结束: 11 执行者: root
+单个用例执行开始: 12 执行者: root
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 12 执行者: root
+单个用例执行开始: 608 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FhIXuVoTsfgczYoPeXVnBBAUeYgemTqyqYKbNvwvparDFxRZONWuGshwCzlCLXEx&sessionKey=c6beffea383f4ae0a8cebd177e7ec338&timestamp=1635935203&sign=74A1C81947B03B6BCA0E317D80FDD15F
+单个用例执行结束: 608 执行者: root
+单个用例执行开始: 608 执行者: root
+请检查参数格式是否正确
+单个用例执行开始: 608 执行者: root
+请检查参数格式是否正确
+单个用例执行开始: 608 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FhIXuVoTsfgczYoPeXVnBBAUeYgemTqyqYKbNvwvparDFxRZONWuGshwCzlCLXEx&sessionKey=c6beffea383f4ae0a8cebd177e7ec338&timestamp=1635935203&sign=74A1C81947B03B6BCA0E317D80FDD15F
+单个用例执行结束: 608 执行者: root
+单个用例执行开始: 607 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/confirmOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FhIXuVoTsfgczYoPeXVnBBAUeYgemTqyqYKbNvwvparDFxRZONWuGshwCzlCLXEx&sessionKey=c6beffea383f4ae0a8cebd177e7ec338&timestamp=1635935203&sign=74A1C81947B03B6BCA0E317D80FDD15F
+单个用例执行结束: 607 执行者: root
+单个用例执行开始: 608 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/productOrder/commitOrder?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=FhIXuVoTsfgczYoPeXVnBBAUeYgemTqyqYKbNvwvparDFxRZONWuGshwCzlCLXEx&sessionKey=c6beffea383f4ae0a8cebd177e7ec338&timestamp=1635935203&sign=74A1C81947B03B6BCA0E317D80FDD15F
+单个用例执行结束: 608 执行者: root

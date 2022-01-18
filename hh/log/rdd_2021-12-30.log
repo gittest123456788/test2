@@ -1,0 +1,1461 @@
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"YW2G","jpgKey":"72a996f3-c40d-4433-a13f-cb421df873a2"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"ND8S","jpgKey":"83cdfa6f-f276-4d4c-964c-a36d616ed33b"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"AEGZ","jpgKey":"ef260fbe-4a0a-4d06-b4f2-053339dac933"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"TZ85","jpgKey":"c53e4483-e16b-4a5d-93f4-a39c4ce2ecb7"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"RS2K","jpgKey":"88597943-4e48-4840-aca5-eaddac3b2b6e"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"973","jpgKey":"c0b8ea9d-c128-4dad-b74d-6de69caf7754"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"LL03","jpgKey":"93e709a1-53c2-4bbf-99f7-46cc2d9216d9"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"ZHZS","jpgKey":"e6807149-846e-4a2c-b291-5bf224014365"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"3VVD","jpgKey":"4bd82d08-da7b-46e8-9189-a1b8bbd8164f"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"22SG","jpgKey":"b07f227e-cf75-483e-8ddd-9034be06f0af"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"EZ8A","jpgKey":"90ea0b55-da04-4ffd-9148-10ed1a9ab657"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"R4SW","jpgKey":"e2c91e0e-db98-4da1-9c66-af47ac5f0e17"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"4PK4","jpgKey":"73e2924d-dfa5-40df-9061-97b250ab818a"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"","jpgKey":""}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"GNNZ","jpgKey":"49246f9c-6592-480a-82ff-ee2e7fda599b"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"4QP","jpgKey":"1b524e93-a93e-4f67-b433-fdb46216696f"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"9CGM","jpgKey":"06448874-1f80-42d6-9bb7-062fda236481"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"ZDSR","jpgKey":"8dff288f-d4a6-499f-be8d-92448aeb815f"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"9LWV","jpgKey":"e7e775ec-ee39-4bee-a2e4-46b338597be8"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"66QS","jpgKey":"14ea0272-9701-461b-8bbd-0be5c51e1377"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"ABQ9","jpgKey":"0d7c7cb5-f535-4926-b77d-a97a1c1b33d2"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"QV6U","jpgKey":"11acdcb1-c403-48d9-9b7f-3326267cad1d"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"QGWN","jpgKey":"c7f5516d-38c9-4fe5-9456-56355cc91e94"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"HWM2","jpgKey":"38ca3f80-e286-402d-926d-295feafdf97f"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"L2V8","jpgKey":"66451e35-0592-4b07-a65a-e6733917f7a7"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"UTPU","jpgKey":"aa28d3f4-82e2-4faf-ad63-3d22ec3d5982"}
+单个用例执行结束: 1002 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+用例编号 1003 请检查URL与headers是否正确
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"","jpgKey":""}
+用例编号 1002 请检查URL与headers是否正确
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"79HM","jpgKey":"fe1d185b-df26-46ff-8b21-0a0e49c614b2"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"P596","jpgKey":"4bc388a5-264f-4ea8-be25-f8a01a64a10e"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"T8TP","jpgKey":"abb5bb38-1594-41d5-b42b-5dcb283ccf00"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"7R2B","jpgKey":"5e45ab58-535b-43b3-9764-4e5ff9b1c49b"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"NSTE","jpgKey":"87d3798a-e209-4f81-a346-fc1ca3e2cdcc"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"E5HJ","jpgKey":"2a1c1740-097f-4f9d-bccb-de22fbada0c4"}
+结束批量执行:支付平台-测试环境 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"6PRM","jpgKey":"ffc18a29-5185-469f-9dae-0b9721af86e7"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"ZMVY","jpgKey":"2e538e7d-08d7-486a-9a99-001bb38f9280"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"GMUS","jpgKey":"e3637782-9985-4349-8605-6c39f1d8dd63"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"7Z8U","jpgKey":"a4ec677a-08c9-4d81-b3f8-a6263722b8e0"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"TMS2","jpgKey":"86dafe05-d78c-4d94-8967-9cca167a6242"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"9TYE","jpgKey":"b8b1845f-2030-4c7d-8faa-f3b83cc7c997"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"H699","jpgKey":"044acd42-5d61-4d59-9ea5-f825eaf30106"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"PN5A","jpgKey":"3e8949a9-a90f-4b5e-80b3-50674f207bb9"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"2LGN","jpgKey":"2b49d8cf-566f-4e3f-ae6b-bb379b8422c7"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"JCJH","jpgKey":"abe3aa1e-524d-4be4-879e-18849a90bc1b"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"RQAZ","jpgKey":"f3e7baff-85ed-41ad-847f-60fec428cbf1"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"N9H8","jpgKey":"31673efa-6f35-40ff-85cf-e549cf8f38eb"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"VUJA","jpgKey":"33c1a286-4595-4370-8a4a-9882ec6ac416"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"N2YD","jpgKey":"6937d120-f82d-4db4-9fd0-7bb81751ffc3"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"YSZT","jpgKey":"d6870744-08de-487f-a81a-79164994cf8b"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"6MN4","jpgKey":"626295c2-df7d-4db2-b8fb-cae83578d300"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"H2N2","jpgKey":"764892d3-dcb2-452c-9f6a-54f9d0fa7ab0"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"ZUAF","jpgKey":"52d0b6eb-957d-4d0c-8e76-51cdda3a8468"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"A3TV","jpgKey":"8d1da6f0-e0d4-45a7-831a-ed9c63222566"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"2GJC","jpgKey":"1572f5c0-9f41-4a57-a6d6-2581d43e5deb"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"G34M","jpgKey":"770650dc-f5fc-4300-b59d-8b4cdb9fc94b"}
+结束批量执行:支付平台-测试环境 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"TWQ8","jpgKey":"68d312c5-2377-4d15-b856-66692555aa70"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"3SBIK","jpgKey":"6df4a8e0-0e91-4377-8196-4222dc2c9dd6"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"AZVQ","jpgKey":"5047f7c3-d202-47aa-8e79-357240822fe2"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"CLL3","jpgKey":"bb959469-442c-4459-9f3d-a4b9f7819674"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"5KRA","jpgKey":"1b445dcf-c640-4d45-8798-72e8ab493a06"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"N604","jpgKey":"0cbbde21-281f-4926-8244-78a4089555da"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"B9G3","jpgKey":"6a2f5065-4927-4ba8-8add-f358ed8aa092"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"C6JQ","jpgKey":"dd563e0a-9d66-414f-88ba-ae1e75791ad9"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"A653","jpgKey":"92355674-f86b-405e-8603-5224da7af485"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"88UF","jpgKey":"af2ac33b-98d8-49f9-bb0d-eb87ddffaae7"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"WMGS","jpgKey":"ea34c478-91b7-467d-a8d7-87171a586450"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"9ABS","jpgKey":"a43b41c7-f36b-4c87-a8e4-c01384572969"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"WUQS","jpgKey":"00eef7b2-2bef-4fbc-997a-bac501eb7bbb"}
+结束批量执行:支付平台-测试环境 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"GL3Z","jpgKey":"3f8d2866-c587-43fe-bfbe-f38e9fa6d86f"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"MS5E","jpgKey":"9ca0b649-eda6-486c-ada0-e9b8b20999d9"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"7KZN","jpgKey":"e2264b49-a600-408f-b949-d92b61867be8"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"3NPA","jpgKey":"5b7f61ff-b87d-4ff1-a7c4-d9c3daf8755e"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"L7FQ","jpgKey":"a26a2362-9208-4157-8f0d-d64aca8dc88e"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"KWKW","jpgKey":"4e713092-70b1-4d85-8cfc-3ead7acab112"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"5EMK","jpgKey":"52732f3f-10e9-47e0-a8c9-3a13309d6ed4"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"2SG5","jpgKey":"559122eb-9b2e-4c8b-a24d-634412693a5b"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"LKN6","jpgKey":"c5600700-494d-472d-ac5b-4e0ca26efdd3"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"K77Y","jpgKey":"0be64671-3fef-4ad9-a157-3eae0cc58c3d"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"6PU6","jpgKey":"db480d37-36d4-4ca7-a368-4f163cfb1343"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"NLNT","jpgKey":"a5ab77b8-dbf8-43f6-bd8c-1d7453a042b9"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"5FSN","jpgKey":"d0e6e6f6-ecf7-4909-8be3-31da6b921597"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"JLF3","jpgKey":"35322879-e44d-4ab3-be38-dea6d2759130"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"MTY4","jpgKey":"651bbfff-0372-4357-ad55-018c4b515a2d"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"B5A6","jpgKey":"f102311c-74ff-484b-96d4-07b8303df278"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"7VRM","jpgKey":"ef670b2b-64ab-4873-90b1-917b9b1fe018"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"35P4","jpgKey":"575328e1-4d07-43fd-9e41-14881ffb7148"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"PJZL","jpgKey":"7b3d9f5c-49c0-4e62-b599-2788f8806b4f"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"KG3E","jpgKey":"f091dafd-da56-424d-acc6-70b0ab7cfad4"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"JT9M","jpgKey":"102ebcc2-8950-4534-82a4-a8d2c5721ffa"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"DYE9","jpgKey":"ce40bd5d-a612-47b5-a3f6-c031bad334e9"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"GDSY","jpgKey":"cf65e7a7-aa0d-4971-9c87-fd468ff722bb"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"D368","jpgKey":"676b4c08-4c79-4da5-afb2-d87dac488086"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"SDJ4","jpgKey":"53b61b69-d8d2-42d6-ae90-88c41b1d7a86"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"RRBY","jpgKey":"800bdf20-7adb-491c-84d4-46ef5cd60107"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"BAPY","jpgKey":"cff4c856-c95e-4413-b5cd-7cda287fa379"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"PWTT","jpgKey":"54111f2a-d97e-4e5e-a6a6-de96518eadf4"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"TEY4","jpgKey":"133e7554-4b8a-46ce-8739-89c6633fc04d"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"HBMK","jpgKey":"4b6b1b05-ce62-4053-8763-dbdb4c80ac80"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"DWVE","jpgKey":"b9faba8c-8aa8-43d7-9420-17e6087c4604"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"W2KN","jpgKey":"c44d78fa-023e-4ba7-af64-07acf1632edc"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"SM49","jpgKey":"d6fa49d8-c63a-4e1a-b15c-e03dda2ba249"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+用例编号 1003 请检查URL与headers是否正确
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"","jpgKey":""}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"U4NP","jpgKey":"002eb094-bc03-4e9b-bf2b-b1a937fa4cb7"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"TFAY","jpgKey":"ca2d9856-cadd-4fea-97ed-72b5b2b61122"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"EHTE","jpgKey":"347601d8-68f8-495c-9709-f3028622020a"}
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002, 1004]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+用例编号 1003 请检查URL与headers是否正确
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"","jpgKey":""}
+序号： 3 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002, 1004]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"BM9N","jpgKey":"64a67020-99a3-4ef3-af8d-9f9741e8334f"}
+序号： 3 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjA2MDcsImlhdCI6MTY0MDg0OTgwNywianRpIjoiZDMxMGQyNTctYmI2NS00YjMwLThlYTItYTE1ZTljM2Q3OTdmIn0.R4-SGJT4t-HKnlK-LegkawAdVQdh1lr1yW4dr_5iEig
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002, 1004]
+序号： 1 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"6KCC","jpgKey":"6919b0e5-5dc7-4457-a7db-a7526ad5c345"}
+序号： 3 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjA3MTEsImlhdCI6MTY0MDg0OTkxMSwianRpIjoiMmQ2YjkwNDQtMTNmNi00NGE2LTg5OGQtM2M2ZTkzODY3ZmJkIn0.Eg1rsXbDIx4dazT7YkQqFadADbYAaUjUBpGPDGBVRxY
+结束批量执行:支付平台-测试环境 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1003, 1002, 1004]
+序号： 1 用例编号： 1003
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 2 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"TGG2","jpgKey":"9db4fa9b-75c1-4305-9fed-5277ca3329dc"}
+序号： 3 用例编号： 1004
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjA3MTksImlhdCI6MTY0MDg0OTkxOSwianRpIjoiZDA1MmRlNDEtMWNmNi00YWExLWJkNDktMDhiMDgwNWJiOWYwIn0.msOiczjvjixqcy8N1T_0ukWUGovmKMEijocpI3_tpYw
+结束批量执行:支付平台-测试环境 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+用例编号 1005 请检查URL与headers是否正确
+获取sessionSecret失败
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+用例编号 1003 请检查URL与headers是否正确
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"","jpgKey":""}
+用例编号 1002 请检查URL与headers是否正确
+序号： 4 用例编号： 1004
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=
+用例编号 1004 请检查URL与headers是否正确
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"GPTV","jpgKey":"6106ca67-8ef4-4fd5-846a-64fc51306212"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjE0OTgsImlhdCI6MTY0MDg1MDY5OCwianRpIjoiYmNhNDExOWEtNjE0ZS00NTRiLWEzYTEtYTgwMjRjOWI1NGRkIn0.rgqtmM0sd2EgyuC9ftFUv2oVWoR25fF3L4xBiwOnRbE&sign=642630e592b1caebdd49221d6588949c
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"BABA","jpgKey":"dff9bbde-204a-4a16-9704-65be6b73f5a1"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjE2MzIsImlhdCI6MTY0MDg1MDgzMiwianRpIjoiOWE5NmQyMmYtYmQwYi00OTVkLTg3YWUtYWI1MmQ1ZTM2Y2JhIn0.M_RDZlu91uB0t_zvOMk4993dZizosRa5eeqIb57L-ko&timestamp=1640850831537&sign=116d72e3f9494115565991310ffed4ea
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"MMA6","jpgKey":"310208db-da04-4867-974c-e8a6bf0bcb7f"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjE2NTUsImlhdCI6MTY0MDg1MDg1NSwianRpIjoiNTEwM2NiYjktNGM2MC00ZjRmLWJhNGEtODM0NjZhY2FlODE4In0.XKvKpFenq_AWnB434wZneZsyBftzHtgMvreiE1ZCKL0&timestamp=1640850854459&sign=1020810142123ddf0c7809ff840a7575
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"7PWE","jpgKey":"ae55f0b7-c457-411f-bdbf-418092fd8f34"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjE3MjYsImlhdCI6MTY0MDg1MDkyNiwianRpIjoiNWFkODc1MGYtZDdkZC00MTZhLTgyZDktMTk5YjllZmQ3MTVlIn0.us6aKGr5UEjLxv5ciwgWgTVUpPl4w_KYHyGYOQe_ZD4&timestamp=1640850924600&sign=83c9ad25095dfb4edd5d90cfe25ece91
+结束批量执行:支付平台-测试环境 执行者: root
+单个用例执行开始: 10 执行者: root
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 10 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"7BUQ","jpgKey":"d729053c-59df-4330-a846-b167c2bf5b04"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjE4NjMsImlhdCI6MTY0MDg1MTA2MywianRpIjoiNGNmY2Y5ZDktZjBiZC00OTFlLTkyOWQtNTI2ZDdiMjdiOTcwIn0.8BPQeSXdoONM63Yl_zZlhFzEp4X3uwJGrF5-dr8yrBE&timestamp=1640851063}&sign=7fd3671ce72c13e86415c67bc98d1198
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+用例编号 1005 请检查URL与headers是否正确
+获取sessionSecret失败
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+用例编号 1003 请检查URL与headers是否正确
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"","jpgKey":""}
+用例编号 1002 请检查URL与headers是否正确
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=&timestamp=&sign=486445247bdc8bfffa2a846176827829
+用例编号 1004 请检查URL与headers是否正确
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"2TVM","jpgKey":"9129e633-8128-4471-89c3-bd647f064349"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjIzOTQsImlhdCI6MTY0MDg1MTU5NCwianRpIjoiMGUyMjU4NTUtMzQ5OS00ZjEwLThhNTEtOTM2M2VhYmExNmYzIn0.ubexNLyY0eRN5UypRqWN2JnctISigXpQNi69-s26EP8&timestamp=1640851592609&sign=fb6e820dd2abb5cc9c6577f99c19a3a0
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:优托邦-测试环境 执行者: root
+执行用例顺序: [10, 11, 12]
+序号： 1 用例编号： 10
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+序号： 2 用例编号： 11
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=bbaecbdd2b624e24976059f4ce311c4c&sign=39d9e013b089a1f075a23b6063983289
+序号： 3 用例编号： 12
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+结束批量执行:优托邦-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"KQGS","jpgKey":"4bc494b0-2519-45b6-b358-cc7f9fb02f9b"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjI2MTMsImlhdCI6MTY0MDg1MTgxMywianRpIjoiZThiN2U5OTEtOTY5Ny00MjUzLWEwZWEtODE2YmYyMzYzYTdjIn0.qpxuINhQuKDMXYWuzn9nHtTp9vAoRgWKcC8T0cz8MrI&timestamp=1640851812444&sign=baaaba91c54ec678ebd0201b2f56c234
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"8G4B","jpgKey":"969ad573-0e04-45b5-a3ad-16cf2460584f"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjI5NDIsImlhdCI6MTY0MDg1MjE0MiwianRpIjoiNTFlYTllNzUtNjM0ZS00MzM5LWIyYjMtM2Q5YWVmOWVmYTcxIn0.YZiJPmf-5FIIh-WKKoeRIdN4J_t-ixM4OO5RDf2fS4c&timestamp=1640852140594&sign=2f80a3f4f591e2764a0bd70e7b06529d
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+用例编号 1003 请检查URL与headers是否正确
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"","jpgKey":""}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=&timestamp=1640852174&sign=02f8407b970e73f2c3a0eb1b51ffb7bc
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"F4W7","jpgKey":"66e9324b-18eb-4103-8253-ebdd88df67a2"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjI5OTksImlhdCI6MTY0MDg1MjE5OSwianRpIjoiOTU5NmQyZTMtM2FhZC00NzA5LTljM2YtMTAzZDRjM2U4YmM2In0.OGKMgeNzjhcC5xSet3v3jJWDHjLBqvZ1lKIrXgGOWgY&timestamp=1640852198&sign=64234c178fa5af265ef8d59da7e12735
+结束批量执行:支付平台-测试环境 执行者: root
+单个用例执行开始: 10 执行者: root
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 10 执行者: root
+单个用例执行开始: 11 执行者: root
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=811cd288fcc044b3b5bba9c495997012&sign=0b0281a03f29da7f94f5c341e6293aaf
+单个用例执行结束: 11 执行者: root
+单个用例执行开始: 12 执行者: root
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 12 执行者: root
+单个用例执行开始: 29 执行者: root
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=eshop.search.getSearchKeywords&osInfo=iOS_12.3.1&params={"accessToken":"TlbjCUIpLBOWkybgxHmznxSJCWmUIJjcqPcaqmlRvmceedmydDlHDWNngObPAxvX","clientType":1,"sysId":1,"uid":"c302366269bc44f3a6003ae7e2d6c662","used":2}&ver=1.0&sessionKey=811cd288fcc044b3b5bba9c495997012&sign=8eefc2fc99f2749f8336b2d3db4e5caf
+单个用例执行结束: 29 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+获取sessionSecret失败
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"","jpgKey":""}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"NU6A","jpgKey":"ee2c3de8-450d-4d9c-99bc-947450ee5b66"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1004 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjQwODgsImlhdCI6MTY0MDg1MzI4OCwianRpIjoiYTI4MGExNWMtYzNmMi00MzkwLWJiYTMtNTUwOWJhMjI2OTg5In0.MSIgr2Tdv8b5th83MDNUtvtMnt5ijjQ_f8qx8k7_kek&timestamp=1640853283
+单个用例执行结束: 1004 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"ZQYM","jpgKey":"32adc6e9-f9c2-4fc1-b455-0e918b75e0d6"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=%2F&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjQyMDEsImlhdCI6MTY0MDg1MzQwMSwianRpIjoiZWE4NWQ5ZDgtNDBjMy00MWU4LTllMDEtNGM4ODFhN2FjOGFkIn0.Iuk7wPex6dHOUU_ECTkAz9ZLejY0sAoUD8yKiZjE1yc&timestamp=1640853401&sign=464ca4627ecd2c5c3ec20e1ec9089f84
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"AMK9","jpgKey":"7eec1156-331b-4ffe-b571-771a5f80ccf6"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjQyMTgsImlhdCI6MTY0MDg1MzQxOCwianRpIjoiYWUxNzUwMTUtZDY3ZC00OTQyLWIzYWYtNGQyZTcyZTZjMDc2In0.h4c4mfsnX_WqkbpZh2tSC5wtE3liSXR4ZOVL-Yp8qqM&timestamp=1640853417&sign=a3ed52c1d6838f8b97b508bf6314a1ea
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"NWDT","jpgKey":"11469d63-d0c3-421c-b6a1-63b27bf4e3a4"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&timestamp=1640853615&sign=e7ab62bd6395cb4d6489b266f5c5d554
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1004]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"Q9FM","jpgKey":"95149b96-9f2f-4fc5-9164-e4b7ef8384e7"}
+序号： 4 用例编号： 1004
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&timestamp=1640853940&sign=1333c90e620dbbad6dcc8a3ffb5cbf11
+结束批量执行:支付平台-测试环境 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"F79Z","jpgKey":"5d1fe14e-019b-47d6-bf27-9c0ac9ded902"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+依赖的测试用例没有执行结果
+依赖的测试用例没有执行结果
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"QCDC","jpgKey":"c4373688-cdfa-4b94-9efb-5d46e8ec0fc7"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+依赖的测试用例没有执行结果
+依赖的测试用例没有执行结果
+单个用例执行开始: 1006 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"AY89","jpgKey":"dffb4183-85c3-4f0d-9ca1-aad7f92d6b08"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+依赖的测试用例没有执行结果
+依赖的测试用例没有执行结果
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1006 执行者: root
+依赖的测试用例没有执行结果
+依赖的测试用例没有执行结果
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"Z8L8","jpgKey":"dcbb40b9-d555-4bb8-890b-c16d251a87c6"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+依赖的测试用例没有执行结果
+依赖的测试用例没有执行结果
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"T9ZY","jpgKey":"1bfdb1a8-c7a8-4a6d-a1a9-0759d842dce2"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njc0OTAsImlhdCI6MTY0MDg1NjY5MCwianRpIjoiNDc4NjgwZWEtZDQwMC00NzcxLTkzZjktYjJjNWQ5MDg0MTUyIn0.47TSjSG1-ecq4RJW9riTzSL5X-g1mr-GYHVgVYA0xfo&timestamp=1640856685472,"data":{"renewTime":1642152685449,"expireTime":1643448685449,"sessionKey":"30cb3d4522bf48b1a418cc20ac58eb72","createTime":1640856685449,"extendData":{
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 10 执行者: root
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 10 执行者: root
+单个用例执行开始: 11 执行者: root
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=2bdfc14133634fb48159ed585f7f1ec8&sign=7797aaaf856e83d2dae09e1791077dc2
+单个用例执行结束: 11 执行者: root
+单个用例执行开始: 12 执行者: root
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 12 执行者: root
+单个用例执行开始: 13 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/homePage/getFirstPageData?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QHiflulymxoCutRcyelOdEyKnPhLJYgOjGVGhoLHQtaqJifqtcIBHgstDxvHbjST&sessionKey=1f60977032a64d8fa7ed6397fdffb058&timestamp=1640856767&sign=753802ABDEFC8A3AD52F54A3E016ED5A
+单个用例执行结束: 13 执行者: root
+单个用例执行开始: 17 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/offlineAdd?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=QHiflulymxoCutRcyelOdEyKnPhLJYgOjGVGhoLHQtaqJifqtcIBHgstDxvHbjST&sessionKey=1f60977032a64d8fa7ed6397fdffb058&timestamp=1640856767&sign=753802ABDEFC8A3AD52F54A3E016ED5A
+单个用例执行结束: 17 执行者: root
+单个用例执行开始: 18 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=2&accessToken=QHiflulymxoCutRcyelOdEyKnPhLJYgOjGVGhoLHQtaqJifqtcIBHgstDxvHbjST&sessionKey=1f60977032a64d8fa7ed6397fdffb058&timestamp=1640856767&sign=97684E7C4246D5D98F7F19D5D87F164E
+单个用例执行结束: 18 执行者: root
+单个用例执行开始: 18 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/shopCart/myShopCartDetail?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60707&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&shopCartType=2&accessToken=QHiflulymxoCutRcyelOdEyKnPhLJYgOjGVGhoLHQtaqJifqtcIBHgstDxvHbjST&sessionKey=1f60977032a64d8fa7ed6397fdffb058&timestamp=1640856767&sign=97684E7C4246D5D98F7F19D5D87F164E
+单个用例执行结束: 18 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"K8JY","jpgKey":"5fe9020c-3332-48c0-9624-0150c7f35309"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njc2NjMsImlhdCI6MTY0MDg1Njg2MywianRpIjoiOTViYzFkYWEtNzExNS00ZTM4LTg0MWUtM2RmNDcwNmMzOGRiIn0.oQKHj3X-q0JTRt10rMTk0xAWS4kmJJY1JrTFYT0Dw10&timestamp=1640856859378,"data":{"renewTime":1642152859371,"expireTime":1643448859371,"sessionKey":"63671b98427940c4ac216f320b29ce9d","createTime":1640856859371,"extendData":{
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 10 执行者: root
+ https://api-test.myutopa.com/app.do?method=account.session.gen
+单个用例执行结束: 10 执行者: root
+单个用例执行开始: 11 执行者: root
+ https://api-test.myutopa.com/app.do?appInfo=UTOPA_60607&markId=4eddcac1d2c24430afd4f2ae4245d1b7&deviceType=iPhone 6&method=account.login.doLogin&osInfo=iOS_12.3.1&params={"accessToken":"","account":"19800000003","clientType":1,"deviceId":"4eddcac1d2c24430afd4f2ae4245d1b7","keepAccess":1,"lat":23.126474,"lng":113.333429,"loginType":"2","password":"123456","sysId":1,"uid":""}&ver=1.0&sessionKey=abbdb41e7db94065a464ba8b75e4c934&sign=dfee285ef0e37e06e9df9cb821e4fae2
+单个用例执行结束: 11 执行者: root
+单个用例执行开始: 12 执行者: root
+ https://boss-api-test.myutopa.com/eshop/core/account/session/genSession?appKey=r53dc6d2b365d41c4jdssf853295da3ff5
+单个用例执行结束: 12 执行者: root
+单个用例执行开始: 410 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/getProductSkuApp?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60800&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=mXVHioZTcCdSIWQfViqcqHIVNmmmMmCUGTKOjgtVhdYjCcjUvhJbMHweGIGxfFMC&sessionKey=d83e7d5febf0446497846c0c7dff50fc&timestamp=1640856893&sign=BCF4E3618CB69C4CE91454E120BEDCF8
+单个用例执行结束: 410 执行者: root
+单个用例执行开始: 411 执行者: root
+ https://boss-api-test.myutopa.com/eshop/service/app/user/product/discountRemainingNum?uid=c302366269bc44f3a6003ae7e2d6c662&deviceId=4eddcac1d2c24430afd4f2ae4245d1b7&source=app&deviceType=iPhone_6&appInfo=UTOPA_60805&ver=1.0&osInfo=iOS_12.3.1&appKey=e42ee29bdbba499aa08930e9bcc2343d&accessToken=mXVHioZTcCdSIWQfViqcqHIVNmmmMmCUGTKOjgtVhdYjCcjUvhJbMHweGIGxfFMC&sessionKey=d83e7d5febf0446497846c0c7dff50fc&timestamp=1640856893&sign=3DD13022C9DC9297503AD87B5FD0751B
+单个用例执行结束: 411 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1004 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&timestamp=1640856932
+单个用例执行结束: 1004 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"UGRC","jpgKey":"e3ddbb8b-e769-481a-af11-29782239557e"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1004 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&timestamp=1640856932
+单个用例执行结束: 1004 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njc3MzksImlhdCI6MTY0MDg1NjkzOSwianRpIjoiOTQ1OTA1ZjUtNWZkNy00ZTFlLWE5ZDAtODk5YTZlNTc4NTkyIn0.WFklx5bFPLqsH_MYnYk89gMgfvXnCiT58vqn7835DA8&timestamp=1640856932567,"data":{"renewTime":1642152932436,"expireTime":1643448932436,"sessionKey":"db2de6064dfc448fa8d840e0da9aede4","createTime":1640856932436,"extendData":{
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njc3MzksImlhdCI6MTY0MDg1NjkzOSwianRpIjoiOTQ1OTA1ZjUtNWZkNy00ZTFlLWE5ZDAtODk5YTZlNTc4NTkyIn0.WFklx5bFPLqsH_MYnYk89gMgfvXnCiT58vqn7835DA8&timestamp=1640856932567,"data":{"renewTime":1642152932436,"expireTime":1643448932436,"sessionKey":"db2de6064dfc448fa8d840e0da9aede4","createTime":1640856932436,"extendData":{
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njc3MzksImlhdCI6MTY0MDg1NjkzOSwianRpIjoiOTQ1OTA1ZjUtNWZkNy00ZTFlLWE5ZDAtODk5YTZlNTc4NTkyIn0.WFklx5bFPLqsH_MYnYk89gMgfvXnCiT58vqn7835DA8&timestamp=1640856932567,"data":{"renewTime":1642152932436,"expireTime":1643448932436,"sessionKey":"db2de6064dfc448fa8d840e0da9aede4","createTime":1640856932436,"extendData":{
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njc3MzksImlhdCI6MTY0MDg1NjkzOSwianRpIjoiOTQ1OTA1ZjUtNWZkNy00ZTFlLWE5ZDAtODk5YTZlNTc4NTkyIn0.WFklx5bFPLqsH_MYnYk89gMgfvXnCiT58vqn7835DA8&timestamp=1640856932567,"data":{"renewTime":1642152932436,"expireTime":1643448932436,"sessionKey":"db2de6064dfc448fa8d840e0da9aede4","createTime":1640856932436,"extendData":{
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njc3MzksImlhdCI6MTY0MDg1NjkzOSwianRpIjoiOTQ1OTA1ZjUtNWZkNy00ZTFlLWE5ZDAtODk5YTZlNTc4NTkyIn0.WFklx5bFPLqsH_MYnYk89gMgfvXnCiT58vqn7835DA8&timestamp=1640856932
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njc3MzksImlhdCI6MTY0MDg1NjkzOSwianRpIjoiOTQ1OTA1ZjUtNWZkNy00ZTFlLWE5ZDAtODk5YTZlNTc4NTkyIn0.WFklx5bFPLqsH_MYnYk89gMgfvXnCiT58vqn7835DA8&timestamp=1640856932
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njc3MzksImlhdCI6MTY0MDg1NjkzOSwianRpIjoiOTQ1OTA1ZjUtNWZkNy00ZTFlLWE5ZDAtODk5YTZlNTc4NTkyIn0.WFklx5bFPLqsH_MYnYk89gMgfvXnCiT58vqn7835DA8&timestamp=1640856932
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"UVFW","jpgKey":"55a77f24-e01e-4967-a4de-a7bcd1e9d1d1"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjgyMTUsImlhdCI6MTY0MDg1NzQxNSwianRpIjoiNjI3NDhkNjUtNTMwYS00OGM5LWJhZjQtNDQyYjI5ZDBiMDUyIn0.RPA_YTyruAZUBiw2EjIhn9RCyvuifIi3PpJtX98KLDA&timestamp=1640857411
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjgyMTUsImlhdCI6MTY0MDg1NzQxNSwianRpIjoiNjI3NDhkNjUtNTMwYS00OGM5LWJhZjQtNDQyYjI5ZDBiMDUyIn0.RPA_YTyruAZUBiw2EjIhn9RCyvuifIi3PpJtX98KLDA&timestamp=1640857411
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjgyMTUsImlhdCI6MTY0MDg1NzQxNSwianRpIjoiNjI3NDhkNjUtNTMwYS00OGM5LWJhZjQtNDQyYjI5ZDBiMDUyIn0.RPA_YTyruAZUBiw2EjIhn9RCyvuifIi3PpJtX98KLDA&timestamp=1640857411
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"J7R5","jpgKey":"8e7b177c-b6a1-4347-8a65-262b7d6204b3"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njg2ODcsImlhdCI6MTY0MDg1Nzg4NywianRpIjoiYTYwODk1YjMtMmY2MC00ZjYwLWFmNWUtMTI2NjkxNzVlYjBhIn0.qvvbpl2eIJFuFjoVE_De_-CX4iiNAV9FMl0YXiPXI6Q&timestamp=1640857883
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"DA7W","jpgKey":"e57b797c-1189-44be-907a-6516f7ed3d05"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njg3ODIsImlhdCI6MTY0MDg1Nzk4MiwianRpIjoiMTA5YWY4MmQtYTU2OS00MGRjLWJmNTMtZmMzYWIxYWUyMDFhIn0.cDhjQ-FVRE7WcXAYvHo8kZXLHUnzOTF0L16cnyli3PI&timestamp=1640857978
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"A2PR","jpgKey":"ac177bd3-2b2a-4606-90bc-fc59a109b1e1"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njg4MDYsImlhdCI6MTY0MDg1ODAwNiwianRpIjoiM2Y1NWE3ZDEtMDkwNC00NDBlLWI2NzgtOWQ2NmFmMzIzYjNlIn0.BpAxkvJ1VONiNQr1sNlP1Jpmba8RG_YVG0fIoJ3ZsaE&timestamp=1640858002
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njg4MDYsImlhdCI6MTY0MDg1ODAwNiwianRpIjoiM2Y1NWE3ZDEtMDkwNC00NDBlLWI2NzgtOWQ2NmFmMzIzYjNlIn0.BpAxkvJ1VONiNQr1sNlP1Jpmba8RG_YVG0fIoJ3ZsaE
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"SMMC","jpgKey":"8b1e43bf-4b90-454d-a74b-0695616c9d10"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njg5MDYsImlhdCI6MTY0MDg1ODEwNiwianRpIjoiZGJiMzNjYWUtMjlhZi00YmE5LWE0MzUtMWY5M2M1MDgyN2JkIn0.1gcVzm7PZ_Is98gHMCh2CQMP58mFvok9MxlcLnmUnfc
+单个用例执行结束: 1006 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"PW8S","jpgKey":"46231430-5bdd-4136-a600-8037c92887a1"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njg5NDksImlhdCI6MTY0MDg1ODE0OSwianRpIjoiNWE5YWExODItZmQwMS00ZGQ5LWEzOTEtYjdiZmM3NjU2ZDkwIn0.jKdPloiu7zyo2dCyE4fhRBZA47NOW0HDTMoNf_s-S6o&timestamp=1640858145
+单个用例执行结束: 1006 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1006]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}&sign=841102b991aed958ef254dd333123670
+序号： 3 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"JNS7","jpgKey":"9acb3031-1e0e-4aae-8108-36758fb1ab98"}
+序号： 4 用例编号： 1006
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjkxNDEsImlhdCI6MTY0MDg1ODM0MSwianRpIjoiZGEwODE2ODUtOTE0Zi00N2M1LThmYjQtMWYyY2U5MmE1ZjJjIn0.wZbzpr_ZfddiXgXCYi9tp00pLFkKcT9egwhny7QmUoM&timestamp=1640858340&sign=5d542da86dbddacac6b7dbb629b5ef1f
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1006]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}&sign=116f0c2d2f102662e2fc893203356945
+序号： 3 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"N2KA","jpgKey":"d97d40b5-690f-4fb6-b4a7-a2a39cb48003"}
+序号： 4 用例编号： 1006
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjkxNDksImlhdCI6MTY0MDg1ODM0OSwianRpIjoiMDI4MjFjMmUtNDk3Ni00YmZhLWFmNDgtMjNjOGNiZGI2NTVhIn0.RcgrNc8sSkjHaAkL1zQGHy8uPtDu9WO8vKP7yToS5fc&timestamp=1640858349&sign=10a5909cdbec57ba8f71669265d83295
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1006]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}&sign=5b539cde55c77126b912fe824861d0be
+序号： 3 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"9RKF","jpgKey":"63a2d8f3-4558-40ce-83c5-4416a4d9f4b7"}
+序号： 4 用例编号： 1006
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjkxNTYsImlhdCI6MTY0MDg1ODM1NiwianRpIjoiNzE2Y2NmMjItNTcwNC00YjkzLWI0OGQtZDYzMDljZjNjOGRkIn0.Y66SnZyyC68EHErkw4BG5U7-Qbrtp0DTA7gtutwnI1c&timestamp=1640858355&sign=2d124c4e77c4c96ff684c6749ae868e0
+结束批量执行:支付平台-测试环境 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1006]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"9M2H","jpgKey":"6b0a65c2-b32d-4d3f-bb72-353c13c1b050"}
+序号： 4 用例编号： 1006
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&timestamp=1640858489&sign=f6ebd62116d503fb51953c9ff1021c9e
+结束批量执行:支付平台-测试环境 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1006]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}&sign=16251aa30efe9da4b930c084831fd557
+序号： 3 用例编号： 1002
+获取sessionSecret失败
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"W3NS","jpgKey":"146bd2df-f9e9-484e-85b2-6d49eae5cb91"}
+序号： 4 用例编号： 1006
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4NjkzMTQsImlhdCI6MTY0MDg1ODUxNCwianRpIjoiZTQxNGY1ZmItN2Q1Zi00Y2Y5LWI4ZTYtMjJkMjg5YTBiNDJmIn0.9w7ZwGZsUlq4tsfekuqjkYUAVssRoJG4mFTT_eKpVT8&timestamp=1640858513&sign=2a502f736972df81c74b77a520f0b82e
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1006]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"7KBU","jpgKey":"b759ba07-c250-4f2d-aa07-48fca3848ad2"}
+序号： 4 用例编号： 1006
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&timestamp=1640858522&sign=3cfa89eb137e7faa06816c8df857135a
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1006]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"8ACH","jpgKey":"61f8f9fa-9e6a-4eb9-8e83-3714de10c842"}
+序号： 4 用例编号： 1006
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&timestamp=1640858586&sign=4ecd8a6e5b7bb28dc879cb15bfbfe7b4
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1006]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"64MG","jpgKey":"2676685c-a9ee-40d9-a8c5-15ab89154ec4"}
+序号： 4 用例编号： 1006
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njk1MjUsImlhdCI6MTY0MDg1ODcyNSwianRpIjoiMGY1MDA2YjMtOTMyYi00ZDJhLThjNTQtYTEyY2U4NTdiYTU1In0.nb5av_y_NR3i77mehuA4i0-JIdCyZHqCtJ6TSADcwsA&timestamp=1640858725&sign=a03533f2132775fba1f83b99993366ec
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1006]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"5PNH","jpgKey":"c16dc354-ac17-4b7f-9d38-b1bb44ddf976"}
+序号： 4 用例编号： 1006
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njk1MzQsImlhdCI6MTY0MDg1ODczNCwianRpIjoiYTI5ZjY2ODUtYzExMy00ZmVmLWJmZTgtZTE4ZjllMzJlYjk4In0.4F-WzNcpDAH_0pNbT2DhmHUu8ydjGIGJPTIDvUrvoFs&timestamp=1640858732&sign=4f58c71f29da0b45671b7859871817ea
+结束批量执行:支付平台-测试环境 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"4VJ7","jpgKey":"71d6ba08-10eb-48b0-b0f3-606658acb24f"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njk2NjEsImlhdCI6MTY0MDg1ODg2MSwianRpIjoiYTQ1OWE2M2MtNzI5Mi00ZDFjLWI4ZDktYTViMDhjMTVjYzkwIn0.ZeijpfSGVU_uSlIjeWdwW5dA7_H1MQaZtpSMIBBJArI&timestamp=1640858855
+单个用例执行结束: 1006 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1006]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"A9WT","jpgKey":"1b34c303-1887-47fc-adfe-207be5e71a9b"}
+序号： 4 用例编号： 1006
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njk4MDQsImlhdCI6MTY0MDg1OTAwNCwianRpIjoiYjcwYjdkYjYtMGZkYi00M2NmLWJjOGQtOWNhYWNiZDFkZWU2In0.NsCznVDT98q2-UVelHVy7wk0PQPF_YptzTpsohSJXRM&timestamp=1640859003&sign=2c8c4e42fb00a244da888cec15863995
+结束批量执行:支付平台-测试环境 执行者: root
+开始批量执行:支付平台-测试环境 执行者: root
+执行用例顺序: [1005, 1003, 1002, 1006]
+序号： 1 用例编号： 1005
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+序号： 2 用例编号： 1003
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+序号： 3 用例编号： 1002
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"8RM8","jpgKey":"2a0ed2ee-03f8-44a0-b9a7-7f27694086d7"}
+序号： 4 用例编号： 1006
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njk4MTEsImlhdCI6MTY0MDg1OTAxMSwianRpIjoiNzk2ZmZkOGQtMzFjNC00OGNmLWEwMDgtYzZjMDYxOTg3YTFhIn0.wT0WIbhjkxF5YbCESg7ckXEwwKvRpaiFQfRYRY5ol3k&timestamp=1640859011&sign=9c12ffacb796576b5221a0f52f177899
+结束批量执行:支付平台-测试环境 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1005 执行者: root
+https://pay-api-test.myutopa.com/api/app.do?method=account.session.gen
+单个用例执行结束: 1005 执行者: root
+单个用例执行开始: 1003 执行者: root
+https://pay-api-test.myutopa.com/pay/captcha?method=pay%2Fcaptcha&ver=1.0&sysId=5&path={}
+单个用例执行结束: 1003 执行者: root
+单个用例执行开始: 1002 执行者: root
+https://pay-api-test.myutopa.com/pay/login?params={"username":"jieqing","password":"123456","verificationCode":"YNKM","jpgKey":"1e27958a-338d-46c8-867b-cc9f9585c5bc"}
+单个用例执行结束: 1002 执行者: root
+单个用例执行开始: 1006 执行者: root
+https://pay-api-test.myutopa.com/pay/app?method=operation.LiqLogisticService.selectOrderPage&ver=1.0&accountId=3a3de280a1a6469581a3834ba425adc7&sysId=5&path=/&group=liquidation&token=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzYTNkZTI4MGExYTY0Njk1ODFhMzgzNGJhNDI1YWRjNyIsInN1YiI6ImppZXFpbmciLCJ1c2VyTmFtZSI6ImppZXFpbmciLCJleHAiOjE2NDA4Njk4MzgsImlhdCI6MTY0MDg1OTAzOCwianRpIjoiYzAyMDRlZjQtNDBiMS00YmJhLWFlOWItYjU1OGM1Y2MzZmRiIn0.AoBSoXJRuOe0k8OnxQAq_LzQ7C2angXj7QzTQNetR6k&timestamp=1640859033&sign=dcddb278bf17f6ff96363c98ad3e0deb
+单个用例执行结束: 1006 执行者: root
+正在进行全选操作，请稍等...
+全选操作已完成
+正在进行全选操作，请稍等...
+全选操作已完成
+正在进行全选操作，请稍等...
+全选操作已完成
+正在进行全选操作，请稍等...
+全选操作已完成
+正在进行全选操作，请稍等...
+全选操作已完成
+正在进行全选操作，请稍等...
+全选操作已完成
+正在进行全选操作，请稍等...
+全选操作已完成
+正在进行全选操作，请稍等...
+全选操作已完成
+正在进行全选操作，请稍等...
+全选操作已完成
